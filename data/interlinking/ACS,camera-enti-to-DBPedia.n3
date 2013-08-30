@@ -1,0 +1,1138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+##inizio 
+
+
+
+## acs enti: Consorzi agrari
+
+## dbpedia: Consorzi agrari <!-- OK-->
+<http://lod.xdams.org/reload/oad/entiACS/Consorzi_agrari>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Consorzi_agrari>.
+<http://lod.xdams.org/reload/oad/entiACS/Consorzi_agrari>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q2994764>.
+
+## dbpedia: Consorzi Agrari <!-- OK-->
+<http://lod.xdams.org/reload/oad/entiACS/Consorzi_agrari>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Consorzi_Agrari>.
+
+## dbpedia: Consorzi agrari d'Italia   <!--  NO-->
+<http://lod.xdams.org/reload/oad/entiACS/Consorzi_agrari>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Consorzi_agrari_d'Italia>.
+<http://lod.xdams.org/reload/oad/entiACS/Consorzi_agrari>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q3687502>.
+
+
+
+
+## acs enti: Comizi agrari
+
+## dbpedia: Comizi agrari <!-- OK-->
+<http://lod.xdams.org/reload/oad/entiACS/Comizi_agrari>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Comizi_agrari>.
+<http://lod.xdams.org/reload/oad/entiACS/Comizi_agrari>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q2985198>.
+
+## dbpedia: Comizi Agrari <!-- OK-->
+<http://lod.xdams.org/reload/oad/entiACS/Comizi_agrari>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Comizi_Agrari>.
+
+
+
+
+## acs enti: Cattedre ambulanti di agricoltura
+
+## dbpedia: Cattedre ambulanti di agricoltura <!-- OK-->
+<http://lod.xdams.org/reload/oad/entiACS/Cattedre_ambulanti_di_agricoltura>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Cattedre_ambulanti_di_agricoltura>.
+
+
+
+
+## acs enti: Stazione bacologica
+
+## dbpedia: Stazione Bacologica Sperimentale <!-- NON SAPREI, FORSE NO-->
+<http://lod.xdams.org/reload/oad/entiACS/Stazione_bacologica>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Stazione_Bacologica_Sperimentale>.
+
+
+## acs enti: Camera di commercio di Milano
+
+## dbpedia: Camera di commercio di Milano <!-- OK-->
+<http://lod.xdams.org/reload/oad/entiACS/Camera_di_commercio_di_Milano>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Camera_di_commercio_di_Milano>.
+<http://lod.xdams.org/reload/oad/entiACS/Camera_di_commercio_di_Milano>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q3651288>.
+
+## dbpedia: Camera di Commercio di Milano<!-- OK-->
+<http://lod.xdams.org/reload/oad/entiACS/Camera_di_commercio_di_Milano>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Camera_di_Commercio_di_Milano>.
+
+
+## acs enti: Club alpino italiano
+
+## dbpedia: Club Alpino Italiano <!-- NO-->
+<http://lod.xdams.org/reload/oad/entiACS/Club_alpino_italiano>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Categoria:Club_Alpino_Italiano>.
+
+## dbpedia: Club Alpino Italiano <!-- OK-->
+<http://lod.xdams.org/reload/oad/entiACS/Club_alpino_italiano>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Club_Alpino_Italiano>.
+<http://lod.xdams.org/reload/oad/entiACS/Club_alpino_italiano>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q795273>.
+
+## dbpedia: Rifugi del Club Alpino Italiano <!-- NO-->
+<http://lod.xdams.org/reload/oad/entiACS/Club_alpino_italiano>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Categoria:Rifugi_del_Club_Alpino_Italiano>.
+
+## dbpedia: Biblioteca Nazionale del Club Alpino Italiano <!-- NO-->
+<http://lod.xdams.org/reload/oad/entiACS/Club_alpino_italiano>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Biblioteca_Nazionale_del_Club_Alpino_Italiano>.
+<http://lod.xdams.org/reload/oad/entiACS/Club_alpino_italiano>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q3639600>.
+
+## dbpedia: Club alpino italiano <!-- OK-->
+<http://lod.xdams.org/reload/oad/entiACS/Club_alpino_italiano>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Club_alpino_italiano>.
+
+
+
+## acs enti: Comune di Roma
+
+## dbpedia: Comune di Roma <!-- OK-->
+<http://lod.xdams.org/reload/oad/entiACS/Comune_di_Roma>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Comune_di_Roma>.
+
+## dbpedia: Agenzia per il controllo e la qualità dei servizi pubblici locali del Comune di Roma <!-- NO-->
+<http://lod.xdams.org/reload/oad/entiACS/Comune_di_Roma>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Agenzia_per_il_controllo_e_la_qualità_dei_servizi_pubblici_locali_del_Comune_di_Roma>.
+
+
+
+
+## dbpedia: Ministero dell'Agricoltura <!-- OK-->
+<http://lod.xdams.org/reload/oad/entiACS/Ministero_dell_agricoltura>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministero_dell'Agricoltura>.
+
+## dbpedia: Ministero dell'Agricoltura, Industria e Commercio  <!-- OK-->
+<http://lod.xdams.org/reload/oad/entiACS/Ministero_dell_agricoltura>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministero_dell'Agricoltura,_Industria_e_Commercio>.
+
+## dbpedia: Ministero dell'Agricoltura e Foreste <!-- OK-->
+<http://lod.xdams.org/reload/oad/entiACS/Ministero_dell_agricoltura>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministero_dell'Agricoltura_e_Foreste>.
+
+## dbpedia: Ministero dell'agricoltura <!-- OK-->
+<http://lod.xdams.org/reload/oad/entiACS/Ministero_dell_agricoltura>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministero_dell'agricoltura>.
+
+
+
+## dbpedia: Provincia di Roma <!-- OK-->
+<http://lod.xdams.org/reload/oad/entiACS/Provincia_di_Roma>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Provincia_di_Roma>.
+<http://lod.xdams.org/reload/oad/entiACS/Provincia_di_Roma>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q15119>.
+
+
+## dbpedia: Seminario Arcivescovile<!-- OK-->
+
+<http://lod.xdams.org/reload/oad/entiACS/Seminario_arcivescovile>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Seminario_Arcivescovile>.
+
+## acs enti: Archivio Centrale dello Stato
+
+## dbpedia: Archivio centrale dello Stato<!-- OK-->
+
+<http://lod.xdams.org/reload/oad/organization/acs>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Archivio_centrale_dello_Stato>.
+
+## dbpedia: Archivio Centrale dello Stato<!-- OK-->
+<http://lod.xdams.org/reload/oad/organization/acs>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Archivio_Centrale_dello_Stato>.
+<http://lod.xdams.org/reload/oad/organization/acs>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q2860420>.
+
+## dbpedia: Archivio centrale dello stato<!-- OK-->
+<http://lod.xdams.org/reload/oad/organization/acs>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Archivio_centrale_dello_stato>.
+
+
+
+
+## acs enti: Archivio Centrale dello Stato
+
+
+## dbpedia: Archivio Centrale dello Stato<!-- OK-->
+<http://lod.xdams.org/reload/oad/organization/acs>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Archivio_Centrale_dello_Stato>.
+<http://lod.xdams.org/reload/oad/organization/acs>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q2860420>.
+
+## dbpedia: Camera dei Deputati<!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Camera_dei_deputati>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Camera_dei_Deputati>.
+
+
+## dbpedia: Camera dei deputati<!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Camera_dei_deputati>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Camera_dei_deputati>.
+<http://lod.xdams.org/reload/oad/entiCamera/Camera_dei_deputati>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q841424>.
+
+
+## acs enti: Senato del Regno
+
+## dbpedia: Senato del Regno<!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Senato_del_Regno>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Senato_del_Regno>.
+
+
+## dbpedia: Senato del regno d'Italia<!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Senato_del_Regno>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Senato_del_regno_d'Italia>.
+
+
+
+## acs enti: Governo Parri
+
+## dbpedia: Governo Parri<!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Governo_Parri>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Governo_Parri>.
+<http://lod.xdams.org/reload/oad/entiCamera/Governo_Parri>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q3773909>.
+
+
+
+## acs enti: Commissione economica
+
+## dbpedia: Commissione economica per l'America Latina e i Caraibi<!--NO-->
+<http://lod.xdams.org/reload/oad/entiCamera/Commissione_economica>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Commissione_economica_per_l'America_Latina_e_i_Caraibi>.
+
+
+## dbpedia: Governo Bonomi III <!--Non è proprio un SameAS-->
+<http://lod.xdams.org/reload/oad/entiCamera/Governo_Bonomi>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Governo_Bonomi_III>.
+<http://lod.xdams.org/reload/oad/entiCamera/Governo_Bonomi>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q3773801>.
+
+## dbpedia: Governo Bonomi <!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Governo_Bonomi>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Governo_Bonomi>.
+
+## dbpedia: Governo Bonomi I <!--Non è proprio un SameAS-->
+<http://lod.xdams.org/reload/oad/entiCamera/Governo_Bonomi>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Governo_Bonomi_I>.
+<http://lod.xdams.org/reload/oad/entiCamera/Governo_Bonomi>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q3773800>.
+
+
+## acs enti: Capo provvisorio dello Stato
+
+## dbpedia: Elezione del Capo Provvisorio dello Stato del 1946<!--Non è proprio un SameAS-->
+<http://lod.xdams.org/reload/oad/entiCamera/Capo_provvisorio_dello_Stato>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Elezione_del_Capo_Provvisorio_dello_Stato_del_1946>.
+
+## dbpedia: Elezione del Capo Provvisorio dello Stato del 1947<!--Non è proprio un SameAS-->
+<http://lod.xdams.org/reload/oad/entiCamera/Capo_provvisorio_dello_Stato>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Elezione_del_Capo_Provvisorio_dello_Stato_del_1947>.
+
+## dbpedia: Capo provvisorio dello Stato<!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Capo_provvisorio_dello_Stato>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Capo_provvisorio_dello_Stato>.
+<http://lod.xdams.org/reload/oad/entiCamera/Capo_provvisorio_dello_Stato>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q3657214>.
+
+
+
+## acs enti: Senato della Repubblica
+
+
+## dbpedia: Senato della Repubblica<!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Senato_della_Repubblica>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Senato_della_Repubblica>.
+
+
+
+
+## acs enti: Ministero delle finanze e del tesoro
+
+## dbpedia: Ministero delle Finanze e del Tesoro<!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Ministero_delle_finanze_e_del_tesoro>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministero_delle_Finanze_e_del_Tesoro>.
+
+
+
+
+## acs enti: Ministero delle finanze
+
+## dbpedia: Ministero delle Finanze<!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Ministero_delle_finanze>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministero_delle_Finanze>.
+
+## dbpedia: Ministero delle Finanze e della Posta<!--NO-->
+<http://lod.xdams.org/reload/oad/entiCamera/Ministero_delle_finanze>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministero_delle_Finanze_e_della_Posta>.
+
+## dbpedia: Ministero delle finanze<!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Ministero_delle_finanze>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministero_delle_finanze>.
+
+## dbpedia: Ministero delle Finanze e del Tesoro<!--NO-->
+<http://lod.xdams.org/reload/oad/entiCamera/Ministero_delle_finanze>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministero_delle_Finanze_e_del_Tesoro>.
+
+
+
+
+## acs enti: Ministero del tesoro
+
+## dbpedia: Ministero del Tesoro<!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Ministero_del_tesoro>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministero_del_Tesoro>.
+<http://lod.xdams.org/reload/oad/entiCamera/Ministero_del_tesoro>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q3858476>.
+
+## dbpedia: Ministero del Tesoro, del Bilancio e della Programmazione Economica<!--NO-->
+<http://lod.xdams.org/reload/oad/entiCamera/Ministero_del_tesoro>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministero_del_Tesoro,_del_Bilancio_e_della_Programmazione_Economica>.
+<http://lod.xdams.org/reload/oad/entiCamera/Ministero_del_tesoro>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q3858477>.
+
+## dbpedia: Ministero del Tesoro della Repubblica Italiana <!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Ministero_del_tesoro>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministero_del_Tesoro_della_Repubblica_Italiana>.
+
+## dbpedia: Ministero del tesoro<!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Ministero_del_tesoro>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministero_del_tesoro>.
+
+
+
+
+## acs enti: Ministero della difesa
+
+## dbpedia: Ministero della Difesa<!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Ministero_della_difesa>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Categoria:Ministero_della_Difesa>.
+
+## dbpedia: Ministero della Difesa<!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Ministero_della_difesa>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministero_della_Difesa>.
+<http://lod.xdams.org/reload/oad/entiCamera/Ministero_della_difesa>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q1855201>.
+
+## dbpedia: Ministero della difesa<!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Ministero_della_difesa>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministero_della_difesa>.
+
+## dbpedia: Ministero della Guerra <!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Ministero_della_guerra>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministero_della_Guerra>.
+
+## dbpedia: Ministero della guerra <!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Ministero_della_guerra>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministero_della_guerra>.
+
+
+
+
+## acs enti: Ministero della marina
+
+## dbpedia: Ministero della Marina<!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Ministero_della_marina>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministero_della_Marina>.
+## dbpedia: Ministero della marina<!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Ministero_della_marina>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministero_della_marina>.
+
+
+
+
+## acs enti: Ministero dell'aeronautica
+
+## dbpedia: Ministero dell'Aeronautica<!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Ministero_dell_aeronautica>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministero_dell'Aeronautica>.
+
+
+
+
+## acs enti: Presidenza del Consiglio dei ministri
+
+## dbpedia: Presidenza del Consiglio dei ministri<!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Presidenza_del_Consiglio_dei_ministri>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Presidenza_del_Consiglio_dei_ministri>.
+<http://lod.xdams.org/reload/oad/entiCamera/Presidenza_del_Consiglio_dei_ministri>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q1740905>.
+
+
+## dbpedia: Ministro degli affari esteri<!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Ministro_degli_affari_esteri>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministro_degli_affari_esteri>.
+
+## dbpedia: Ministro degli Affari Esteri<!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Ministro_degli_affari_esteri>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministro_degli_Affari_Esteri>.
+
+## dbpedia: Ministro degli Affari esteri<!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Ministro_degli_affari_esteri>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministro_degli_Affari_esteri>.
+
+
+
+
+## acs enti: Ministro dell'interno
+
+## dbpedia: Ministro dell'Interno<!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Ministro_dell_interno>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministro_dell'Interno>.
+
+## dbpedia: Ministro dell'interno<!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Ministro_dell_interno>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministro_dell'interno>.
+
+## dbpedia: Ministro di Grazia e Giustizia<!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Ministro_di_grazia_e_giustizia>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministro_di_Grazia_e_Giustizia>.
+
+
+
+
+## acs enti: Ministro del bilancio
+
+## dbpedia: Ministro del Bilancio<!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Ministro_del_bilancio>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministro_del_Bilancio>.
+
+
+
+
+## acs enti: Ministro delle finanze
+
+## dbpedia: Ministro delle Finanze<!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Ministro_delle_finanze>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministro_delle_Finanze>.
+<http://lod.xdams.org/reload/oad/entiCamera/Ministro_delle_finanze>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q7614320>.
+
+## dbpedia: Ministro delle finanze<!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Ministro_delle_finanze>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministro_delle_finanze>.
+
+
+
+
+## acs enti: Ministro del tesoro
+
+## dbpedia: Ministro del Tesoro<!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Ministro_del_tesoro>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministro_del_Tesoro>.
+
+## dbpedia: Ministro del tesoro<!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Ministro_del_tesoro>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministro_del_tesoro>.
+
+
+
+## dbpedia: Ministro della Guerra<!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Ministro_della_guerra>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministro_della_Guerra>.
+
+## dbpedia: Ministro della guerra<!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Ministro_della_guerra>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministro_della_guerra>.
+
+
+
+
+## acs enti: Ministro della marina
+
+## dbpedia: Ministro della Marina<!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Ministro_della_marina>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministro_della_Marina>.
+
+
+
+
+## acs enti: Ministro della difesa
+
+## dbpedia: Ministro della Difesa<!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Ministro_della_difesa>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministro_della_Difesa>.
+
+## dbpedia: Ministro della difesa<!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Ministro_della_difesa>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministro_della_difesa>.
+
+## dbpedia: Ministro della Difesa (Francia)<!--NO-->
+<http://lod.xdams.org/reload/oad/entiCamera/Ministro_della_difesa>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministro_della_Difesa_(Francia)>.
+## dbpedia: Ministro della Pubblica Istruzione<!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Ministro_della_pubblica_istruzione>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministro_della_Pubblica_Istruzione>.
+
+## dbpedia: Ministro dei Lavori Pubblici<!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Ministro_dei_lavori_pubblici>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministro_dei_Lavori_Pubblici>.
+
+
+## acs enti: Ministro dei trasporti
+
+## dbpedia: Ministro dei Trasporti<!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Ministro_dei_trasporti>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministro_dei_Trasporti>.
+
+## dbpedia: Ministro delle Poste e delle Telecomunicazioni<!--OK-->
+<http://lod.xdams.org/reload/oad/entiCamera/Ministro_delle_poste_e_delle_telecomunicazioni>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministro_delle_Poste_e_delle_Telecomunicazioni>.
+
+
+<!-- DA QUI -->
+## acs enti: Ministro del lavoro e della previdenza sociale
+
+## dbpedia: Ministro del Lavoro e della Previdenza Sociale
+<http://lod.xdams.org/reload/oad/entiCamera/Ministro_del_lavoro_e_della_previdenza_sociale>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministero_del_Lavoro_e_della_Previdenza_Sociale>.
+
+## dbpedia: Presidente del Consiglio dei ministri
+<http://lod.xdams.org/reload/oad/entiCamera/Presidente_del_Consiglio_dei_ministri>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/http://it.dbpedia.org/page/Presidente_del_Consiglio_dei_ministri_(titolo)>.
+
+## dbpedia: Referendum istituzionale
+<http://lod.xdams.org/reload/oad/entiCamera/Referendum_istituzionale>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Referendum_istituzionale>.
+
+
+
+
+
+
+## acs enti: Corte d'appello
+
+## dbpedia: Corte d'appello (Italia)
+<http://lod.xdams.org/reload/oad/entiCamera/Corte_d_appello>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Corte_d'appello_(Italia)>.
+
+
+## acs enti: Tribunale
+
+## dbpedia: Tribunale
+<http://lod.xdams.org/reload/oad/entiCamera/Tribunale>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Tribunale>.
+
+
+
+## acs enti: Corte di Cassazione
+
+## dbpedia: Corte di cassazione
+<http://lod.xdams.org/reload/oad/entiCamera/Corte_di_Cassazione>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Corte_di_cassazione>.
+
+
+
+## dbpedia: Assemblea Costituente della Repubblica Italiana
+<http://lod.xdams.org/reload/oad/entiCamera/Assemblea_Costituente>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Categoria:Assemblea_Costituente_della_Repubblica_Italiana>.
+
+
+
+## acs enti: Collegio unico nazionale
+
+
+## dbpedia: Banca Nazionale dell'Agricoltura
+<http://lod.xdams.org/reload/oad/entiCamera/Banca_nazionale_dell_agricoltura>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Banca_Nazionale_dell'Agricoltura>.
+<http://lod.xdams.org/reload/oad/entiCamera/Banca_nazionale_dell_agricoltura>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q3633716>.
+
+
+
+
+## acs enti: Consiglio nazionale delle ricerche
+
+## dbpedia: Consiglio Nazionale delle Ricerche
+<http://lod.xdams.org/reload/oad/entiCamera/Consiglio_nazionale_delle_ricerche>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Consiglio_Nazionale_delle_Ricerche>.
+<http://lod.xdams.org/reload/oad/entiCamera/Consiglio_nazionale_delle_ricerche>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q902464>.
+
+## acs enti: Commissione per la Costituzione
+
+## dbpedia: Commissione per la Costituzione
+<http://lod.xdams.org/reload/oad/entiCamera/Commissione_per_la_Costituzione>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Commissione_per_la_Costituzione>.
+<http://lod.xdams.org/reload/oad/entiCamera/Commissione_per_la_Costituzione>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q3684787>.
+
+
+
+
+## dbpedia: Corte Costituzionale
+<http://lod.xdams.org/reload/oad/entiCamera/Corte_costituzionale>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Corte_costituzionale>.
+
+
+## dbpedia: Maigret in Corte d'Assise
+<http://lod.xdams.org/reload/oad/entiCamera/Corte_d_assise>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Maigret_in_Corte_d'Assise>.
+
+## dbpedia: Corte d'Assise
+<http://lod.xdams.org/reload/oad/entiCamera/Corte_d_assise>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Corte_d'Assise>.
+
+
+## dbpedia: Fondo Monetario Internazionale
+<http://lod.xdams.org/reload/oad/entiCamera/Fondo_monetario_internazionale>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Fondo_Monetario_Internazionale>.
+<http://lod.xdams.org/reload/oad/entiCamera/Fondo_monetario_internazionale>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q7804>.
+## dbpedia: Banca Internazionale per la ricostruzione e lo sviluppo
+<http://lod.xdams.org/reload/oad/entiCamera/Banca_internazionale_per_la_ricostruzione_e_lo_sviluppo>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Banca_internazionale_per_la_ricostruzione_e_lo_sviluppo>.
+
+## dbpedia: Organizzazione delle Nazioni Unite
+<http://lod.xdams.org/reload/oad/entiCamera/Organizzazione_delle_Nazioni_Unite>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Organizzazione_delle_Nazioni_Unite>.
+<http://lod.xdams.org/reload/oad/entiCamera/Organizzazione_delle_Nazioni_Unite>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q1065>.
+
+## dbpedia: Codice penale italiano
+<http://lod.xdams.org/reload/oad/entiCamera/Codice_penale>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Codice_penale_italiano>.
+
+
+## dbpedia: Federazione nazionale della stampa italiana
+<http://lod.xdams.org/reload/oad/entiCamera/Federazione_nazionale_della_stampa>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Federazione_Nazionale_Stampa_Italiana>.
+
+## dbpedia: Organizzazione Internazionale del Lavoro
+<http://lod.xdams.org/reload/oad/entiCamera/Organizzazione_internazionale_del_lavoro>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Categoria:Organizzazione_Internazionale_del_Lavoro>.
+
+## dbpedia: Organizzazione Internazionale del Lavoro
+<http://lod.xdams.org/reload/oad/entiCamera/Organizzazione_internazionale_del_lavoro>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Organizzazione_Internazionale_del_Lavoro>.
+
+## dbpedia: Organizzazione internazionale del lavoro
+<http://lod.xdams.org/reload/oad/entiCamera/Organizzazione_internazionale_del_lavoro>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Organizzazione_internazionale_del_lavoro>.
+<http://lod.xdams.org/reload/oad/entiCamera/Organizzazione_internazionale_del_lavoro>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q54129>.
+
+
+
+## dbpedia: Ministero della Pubblica Istruzione
+<http://lod.xdams.org/reload/oad/entiCamera/Ministero_della_pubblica_istruzione>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ministero_della_Pubblica_Istruzione>.
+<http://lod.xdams.org/reload/oad/entiCamera/Ministero_della_pubblica_istruzione>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q3858490>.
+
+
+## acs enti: Santa Sede
+
+## dbpedia: Santa Sede
+<http://lod.xdams.org/reload/oad/entiCamera/Santa_Sede>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Santa_Sede>.
+<http://lod.xdams.org/reload/oad/entiCamera/Santa_Sede>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q159583>.
+
+
+## acs enti: Regione Valle d'Aosta
+
+## dbpedia: Regione Valle d'Aosta
+<http://lod.xdams.org/reload/oad/entiCamera/Regione_Valle_d_Aosta>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Valle_d'Aosta>.
+
+
+
+## acs enti: Unione democratica slovena
+
+## dbpedia: Unione Democratica Slovena
+<http://lod.xdams.org/reload/oad/entiCamera/Unione_democratica_slovena>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Unione_Democratica_Slovena>.
+<http://lod.xdams.org/reload/oad/entiCamera/Unione_democratica_slovena>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q2396876>.
+
+
+
+
+## dbpedia: Regione Sardegna
+<http://lod.xdams.org/reload/oad/entiCamera/Regione_Sardegna>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Sardegna>.
+
+
+
+
+## acs enti: Regione Sicilia
+
+<http://lod.xdams.org/reload/oad/entiCamera/Regione_Sicilia>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Sicilia>.
+
+## dbpedia: Regione Trentino-Alto Adige
+<http://lod.xdams.org/reload/oad/entiCamera/Regione_Trentino-Alto_Adige>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Trentino-Alto_Adige>.
+
+
+## acs enti: Azienda rilievo alienazione residuati
+
+## dbpedia: Azienda rilievo alienazione residuati
+<http://lod.xdams.org/reload/oad/entiCamera/Azienda_rilievo_alienazione_residuati>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Azienda_Rilievo_Alienazione_Residuati>.
+
+
+
+## acs enti: Avvocatura dello Stato
+
+## dbpedia: Avvocatura dello Stato
+<http://lod.xdams.org/reload/oad/entiCamera/Avvocatura_dello_Stato>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Avvocatura_dello_Stato>.
+
+
+## acs enti: Unione italiana ciechi
+
+## dbpedia: Unione Italiana Ciechi
+<http://lod.xdams.org/reload/oad/entiCamera/Unione_italiana_ciechi>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Unione_Italiana_dei_Ciechi_e_degli_Ipovedenti>.
+
+
+
+
+## acs enti: Sovrano Militare Ordine di Malta
+
+## dbpedia: Sovrano Militare Ordine di Malta
+<http://lod.xdams.org/reload/oad/entiCamera/Sovrano_Militare_Ordine_di_Malta>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Categoria:Sovrano_Militare_Ordine_di_Malta>.
+
+## dbpedia: Sovrano Militare Ordine di Malta
+<http://lod.xdams.org/reload/oad/entiCamera/Sovrano_Militare_Ordine_di_Malta>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Sovrano_militare_ordine_di_Malta>.
+
+## acs enti: Polizia di frontiera
+
+## dbpedia: Polizia di Frontiera
+<http://lod.xdams.org/reload/oad/entiCamera/Polizia_di_frontiera>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Polizia_di_frontiera>.
+
+
+## dbpedia: Discoteca di stato
+<http://lod.xdams.org/reload/oad/entiCamera/Discoteca_di_Stato>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Istituto_centrale_per_i_beni_sonori_ed_audiovisivi>.
+
+
+## dbpedia: Museo storico navale di Venezia
+<http://lod.xdams.org/reload/oad/entiCamera/Museo_storico_navale_di_Venezia>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Museo_storico_navale>.
+
+
+
+## acs enti: Croce Rossa Italiana
+
+## dbpedia: Croce Rossa Italiana
+<http://lod.xdams.org/reload/oad/entiCamera/Croce_Rossa_Italiana>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Categoria:Croce_Rossa_Italiana>.
+
+## dbpedia: Croce Rossa Italiana
+<http://lod.xdams.org/reload/oad/entiCamera/Croce_Rossa_Italiana>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Croce_Rossa_Italiana>.
+<http://lod.xdams.org/reload/oad/entiCamera/Croce_Rossa_Italiana>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q913903>.
+
+## dbpedia: Guardia di Finanza
+<http://lod.xdams.org/reload/oad/entiCamera/Guardia_di_finanza>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Guardia_di_Finanza>.
+## acs enti: Corpo delle guardie di pubblica sicurezza
+
+## dbpedia: Banca d'Italia
+<http://lod.xdams.org/reload/oad/entiCamera/Banca_d_Italia>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Banca_d'Italia>.
+<http://lod.xdams.org/reload/oad/entiCamera/Banca_d_Italia>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q806176>.
+
+## dbpedia: Cassa depositi e prestiti
+<http://lod.xdams.org/reload/oad/entiCamera/Cassa_depositi_e_prestiti>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Cassa_depositi_e_prestiti>.
+<http://lod.xdams.org/reload/oad/entiCamera/Cassa_depositi_e_prestiti>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q1048204>.
+
+
+
+## dbpedia: Azienda Nazionale Autonoma delle Strade Statali
+<http://lod.xdams.org/reload/oad/entiCamera/Azienda_nazionale_autonoma_delle_strade_statali>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/ANAS>.
+
+## dbpedia: Repubblica Sociale Italiana
+<http://lod.xdams.org/reload/oad/entiCamera/Repubblica_sociale>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Repubblica_Sociale_Italiana>.
+<http://lod.xdams.org/reload/oad/entiCamera/Repubblica_sociale>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q153660>.
+
+## dbpedia: Forze armate della Repubblica Sociale Italiana
+<http://lod.xdams.org/reload/oad/entiCamera/Repubblica_sociale>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Categoria:Forze_armate_della_Repubblica_Sociale_Italiana>.
+
+## dbpedia: Istituzioni della Repubblica Sociale Italiana
+<http://lod.xdams.org/reload/oad/entiCamera/Repubblica_sociale>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Categoria:Istituzioni_della_Repubblica_Sociale_Italiana>.
+
+
+## dbpedia: Registro Navale Italiano
+<http://lod.xdams.org/reload/oad/entiCamera/Registro_navale_italiano>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Registro_Italiano_Navale>.
+
+
+
+## dbpedia: Arma dei Carabinieri
+<http://lod.xdams.org/reload/oad/entiCamera/Arma_dei_carabinieri>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Arma_dei_Carabinieri>.
+<http://lod.xdams.org/reload/oad/entiCamera/Arma_dei_carabinieri>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q54852>.
+
+
+
+## dbpedia: Archivi di Stato
+<http://lod.xdams.org/reload/oad/entiCamera/Archivi_di_Stato>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Archivio_di_Stato_(Italia)>.
+
+
+
+## acs enti: Registro aeronautico italiano
+
+## dbpedia: Registro Aeronautico Italiano
+<http://lod.xdams.org/reload/oad/entiCamera/Registro_aeronautico_italiano>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Registro_Aeronautico_Italiano>.
+<http://lod.xdams.org/reload/oad/entiCamera/Registro_aeronautico_italiano>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q3932001>.
+
+
+
+
+
+## acs enti: Consiglio nazionale forense
+
+## dbpedia: Consiglio Nazionale Forense
+<http://lod.xdams.org/reload/oad/entiCamera/Consiglio_nazionale_forense>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Consiglio_Nazionale_Forense>.
+
+
+## acs enti: Cassa nazionale del notariato
+
+## dbpedia: Cassa Nazionale del Notariato
+<http://lod.xdams.org/reload/oad/entiCamera/Cassa_nazionale_del_notariato>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Cassa_Nazionale_del_Notariato>.
+
+
+
+
+## acs enti: Alta Corte di giustizia per le sanzioni contro il fascismo
+
+## dbpedia: Alta Corte di Giustizia per le Sanzioni contro il Fascismo
+<http://lod.xdams.org/reload/oad/entiCamera/Alta_Corte_di_giustizia_per_le_sanzioni_contro_il_fascismo>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Alta_Corte_di_Giustizia_per_le_Sanzioni_contro_il_Fascismo>.
+
+
+## dbpedia: Corpo degli Agenti di Custodia
+<http://lod.xdams.org/reload/oad/entiCamera/Corpo_degli_agenti_di_custodia>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Corpo_degli_agenti_di_custodia>.
+
+## acs enti: Accademia nazionale dei Lincei
+
+## dbpedia: Accademia nazionale dei Lincei
+<http://lod.xdams.org/reload/oad/entiCamera/Accademia_nazionale_dei_Lincei>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Accademia_Nazionale_dei_Lincei>.
+
+
+
+
+## acs enti: Ente autonomo Volturno
+
+## dbpedia: Ente Autonomo Volturno
+<http://lod.xdams.org/reload/oad/entiCamera/Ente_autonomo_Volturno>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ente_Autonomo_Volturno>.
+<http://lod.xdams.org/reload/oad/entiCamera/Ente_autonomo_Volturno>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q3726202>.
+
+
+
+
+## acs enti: Istituto Vittorio Emanuele III
+
+
+
+## acs enti: Comitato olimpico nazionale Italiano
+
+## dbpedia: Comitato Olimpico Nazionale Italiano
+<http://lod.xdams.org/reload/oad/entiCamera/Comitato_olimpico_nazionale_Italiano>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Comitato_Olimpico_Nazionale_Italiano>.
+<http://lod.xdams.org/reload/oad/entiCamera/Comitato_olimpico_nazionale_Italiano>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q1114833>.
+
+
+
+## acs enti: Istituto nazionale previdenza sociale
+
+## dbpedia: Istituto Nazionale Previdenza Sociale
+<http://lod.xdams.org/reload/oad/entiCamera/Istituto_nazionale_previdenza_sociale>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Istituto_Nazionale_Previdenza_Sociale>.
+<http://lod.xdams.org/reload/oad/entiCamera/Istituto_nazionale_previdenza_sociale>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q1674860>.
+
+
+
+
+
+
+
+## acs enti: Consorzio autonomo del porto di Genova
+
+
+
+
+## acs enti: Opera nazionale combattenti
+
+## dbpedia: Opera Nazionale Combattenti
+<http://lod.xdams.org/reload/oad/entiCamera/Opera_nazionale_combattenti>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Opera_Nazionale_Combattenti>.
+<http://lod.xdams.org/reload/oad/entiCamera/Opera_nazionale_combattenti>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q3883868>.
+
+
+
+
+## dbpedia: Ferrovia Circumflegrea
+<http://lod.xdams.org/reload/oad/entiCamera/Ferrovia_Circumflegrea>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ferrovia_Circumflegrea>.
+<http://lod.xdams.org/reload/oad/entiCamera/Ferrovia_Circumflegrea>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q692803>.
+
+
+
+
+## acs enti: Parco nazionale Gran Paradiso
+
+## dbpedia: Parco nazionale Gran Paradiso
+<http://lod.xdams.org/reload/oad/entiCamera/Parco_nazionale_Gran_Paradiso>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Parco_nazionale_del_Gran_Paradiso>.
+
+
+
+
+## dbpedia: Banca Nazionale del Lavoro
+<http://lod.xdams.org/reload/oad/entiCamera/Banca_nazionale_del_lavoro>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Banca_Nazionale_del_Lavoro>.
+<http://lod.xdams.org/reload/oad/entiCamera/Banca_nazionale_del_lavoro>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q2201225>.
+
+
+
+## acs enti: Codice penale militare di pace
+
+## dbpedia: Codice penale militare di pace
+<http://lod.xdams.org/reload/oad/entiCamera/Codice_penale_militare_di_pace>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Codice_penale_militare_di_pace>.
+<http://lod.xdams.org/reload/oad/entiCamera/Codice_penale_militare_di_pace>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q3682170>.
+
+
+
+## acs enti: Ferrovie calabro-lucane
+
+## dbpedia: Ferrovie Calabro-Lucane
+<http://lod.xdams.org/reload/oad/entiCamera/Ferrovie_calabro-lucane>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ferrovie_Calabro_Lucane>.
+
+
+
+## acs enti: Istituto nazionale del dramma antico
+
+## dbpedia: Istituto nazionale del dramma antico
+<http://lod.xdams.org/reload/oad/entiCamera/Istituto_nazionale_del_dramma_antico>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Istituto_nazionale_del_dramma_antico>.
+
+
+## dbpedia: Consorzi agrari
+<http://lod.xdams.org/reload/oad/entiCamera/Consorzi_agrari>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Consorzi_agrari>.
+<http://lod.xdams.org/reload/oad/entiCamera/Consorzi_agrari>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q2994764>.
+
+
+## dbpedia: Istituto Nazionale di Geofisica e Vulcanologia
+<http://lod.xdams.org/reload/oad/entiCamera/Istituto_nazionale_di_geofisica>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Istituto_Nazionale_di_Geofisica_e_Vulcanologia>.
+<http://lod.xdams.org/reload/oad/entiCamera/Istituto_nazionale_di_geofisica>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q1674866>.
+
+
+## dbpedia: Istituto per la Ricostruzione Industriale
+<http://lod.xdams.org/reload/oad/entiCamera/Istituto_per_la_ricostruzione_industriale>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/IRI>.
+
+
+
+
+
+## acs enti: United Nations Relief and Rehabilitation Administration
+
+## dbpedia: United Nations Relief and Rehabilitation Administration
+<http://lod.xdams.org/reload/oad/entiCamera/United_Nations_Relief_and_Rehabilitation_Administration>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/United_Nations_Relief_and_Rehabilitation_Administration>.
+
+
+
+
+## acs enti: Istituto poligrafico dello Stato
+
+## dbpedia: Istituto poligrafico dello Stato
+<http://lod.xdams.org/reload/oad/entiCamera/Istituto_poligrafico_dello_Stato>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Istituto_Poligrafico_e_Zecca_dello_Stato>.
+
+
+
+
+## acs enti: Organizzazione delle Nazioni Unite per l'educazione, la scienza e la cultura
+
+## dbpedia: Organizzazione delle Nazioni Unite per l'Educazione, la Scienza e la Cultura
+<http://lod.xdams.org/reload/oad/entiCamera/Organizzazione_delle_Nazioni_Unite_per_l_educazione,_la_scienza_e_la_cultura>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Organizzazione_delle_Nazioni_Unite_per_l'Educazione,_la_Scienza_e_la_Cultura>.
+<http://lod.xdams.org/reload/oad/entiCamera/Organizzazione_delle_Nazioni_Unite_per_l_educazione,_la_scienza_e_la_cultura>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q7809>.
+
+## dbpedia: Azienda Carboni Italiani
+<http://lod.xdams.org/reload/oad/entiCamera/Azienda_carboni_italiani>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Azienda_Carboni_Italiani>.
+<http://lod.xdams.org/reload/oad/entiCamera/Azienda_carboni_italiani>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q3631440>.
+
+
+
+
+
+## acs enti: Ente acquedotti siciliani
+
+## dbpedia: Ente acquedotti siciliani
+<http://lod.xdams.org/reload/oad/entiCamera/Ente_acquedotti_siciliani>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Ente_acquedotti_siciliani>.
+
+
+## dbpedia: Azienda Generale Italiana Petroli
+<http://lod.xdams.org/reload/oad/entiCamera/Azienda_generale_italiana_petroli>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Agip>.
+
+
+
+
+## dbpedia: Ente Nazionale Cinofilia Italiana
+<http://lod.xdams.org/reload/oad/entiCamera/Ente_nazionale_cinofilia_italiana>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/ENCI>.
+
+
+
+## acs enti: Corpo forestale dello Stato
+
+## dbpedia: Corpo forestale dello Stato
+<http://lod.xdams.org/reload/oad/entiCamera/Corpo_forestale_dello_Stato>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Corpo_forestale_dello_Stato>.
+<http://lod.xdams.org/reload/oad/entiCamera/Corpo_forestale_dello_Stato>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q1134650>.
+
+
+
+
+## acs enti: Presidente della Repubblica
+
+
+## dbpedia: Presidente della Repubblica Italiana
+<http://lod.xdams.org/reload/oad/entiCamera/Presidente_della_Repubblica>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Presidente_della_Repubblica_Italiana>.
+<http://lod.xdams.org/reload/oad/entiCamera/Presidente_della_Repubblica>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q332711>.
+
+
+## acs enti: Parco nazionale d'Abruzzo
+
+## dbpedia: Parco nazionale d'Abruzzo, Lazio e Molise
+<http://lod.xdams.org/reload/oad/entiCamera/Parco_nazionale_d_Abruzzo>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Parco_nazionale_d'Abruzzo,_Lazio_e_Molise>.
+<http://lod.xdams.org/reload/oad/entiCamera/Parco_nazionale_d_Abruzzo>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q1438999>.
+
+## acs enti: Parco nazionale dello Stelvio
+
+## dbpedia: Parco nazionale dello Stelvio
+<http://lod.xdams.org/reload/oad/entiCamera/Parco_nazionale_dello_Stelvio>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Parco_nazionale_dello_Stelvio>.
+<http://lod.xdams.org/reload/oad/entiCamera/Parco_nazionale_dello_Stelvio>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q1891711>.
+
+
+## dbpedia: Stazione zoologica di Napoli
+<http://lod.xdams.org/reload/oad/entiCamera/Stazione_zoologica_di_Napoli>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Stazione_zoologica_Anton_Dohrn>.
+
+
+## dbpedia: Codice della navigazione
+<http://lod.xdams.org/reload/oad/entiCamera/Codice_della_navigazione>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Codice_della_navigazione>.
+
+
+
+
+## acs enti: Presidenza della Repubblica
+
+## dbpedia: Presidenza della Repubblica
+<http://lod.xdams.org/reload/oad/entiCamera/Presidenza_della_Repubblica>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Presidente_della_repubblica>.
+
+## dbpedia: Presidente della Repubblica Francese
+<http://lod.xdams.org/reload/oad/entiCamera/Presidente_della_Repubblica_francese>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Presidente_della_Repubblica_francese>.
+
+
+## dbpedia: Governo De Gasperi IV
+<http://lod.xdams.org/reload/oad/entiCamera/Governo_De_Gasperi_IV>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Governo_De_Gasperi_IV>.
+<http://lod.xdams.org/reload/oad/entiCamera/Governo_De_Gasperi_IV>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q951738>.
+
+
+
+
+## acs enti: Consulta nazionale
+
+
+## dbpedia: Consulta Nazionale
+<http://lod.xdams.org/reload/oad/entiCamera/Consulta_nazionale>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Consulta_Nazionale>.
+
+
+## acs enti: Cassa di risparmio di Roma
+
+## dbpedia: Cassa di Risparmio di Roma
+<http://lod.xdams.org/reload/oad/entiCamera/Cassa_di_risparmio_di_Roma>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Cassa_di_Risparmio_di_Roma>.
+<http://lod.xdams.org/reload/oad/entiCamera/Cassa_di_risparmio_di_Roma>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q3661929>.
+
+
+
+
+## acs enti: Legazione d'Italia a Praga
+
+
+
+
+## acs enti: Deputazione provinciale di Milano
+
+
+
+
+## acs enti: Tribunale di Roma
+
+
+
+
+## acs enti: Assemblea regionale siciliana
+
+
+## dbpedia: Assemblea regionale siciliana
+<http://lod.xdams.org/reload/oad/entiCamera/Assemblea_regionale_siciliana>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Assemblea_regionale_siciliana>.
+<http://lod.xdams.org/reload/oad/entiCamera/Assemblea_regionale_siciliana>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q2707406>.
+
+
+
+
+## acs enti: Presidente del Cile
+
+## dbpedia: Presidente del Cile
+<http://lod.xdams.org/reload/oad/entiCamera/Presidente_del_Cile>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Presidente_del_Cile>.
+
+
+## acs enti: Circondario di Ariano
+
+## dbpedia: Circondario di Ariano di Puglia
+<http://lod.xdams.org/reload/oad/entiCamera/Circondario_di_Ariano>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Circondario_di_Ariano_di_Puglia>.
+<http://lod.xdams.org/reload/oad/entiCamera/Circondario_di_Ariano>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q3677671>.
+
+
+## acs enti: Circondario di Brindisi
+
+## dbpedia: Circondario di Brindisi
+<http://lod.xdams.org/reload/oad/entiCamera/Circondario_di_Brindisi>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Circondario_di_Brindisi>.
+<http://lod.xdams.org/reload/oad/entiCamera/Circondario_di_Brindisi>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q3677694>.
+
+
+
+## acs enti: Circondario di Taranto
+
+## dbpedia: Circondario di Taranto
+<http://lod.xdams.org/reload/oad/entiCamera/Circondario_di_Taranto>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Circondario_di_Taranto>.
+<http://lod.xdams.org/reload/oad/entiCamera/Circondario_di_Taranto>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q3677859>.
+
+
+## acs enti: Giornale di Napoli
+
+## dbpedia: Il Giornale di Napoli
+<http://lod.xdams.org/reload/oad/entiCamera/Giornale_di_Napoli>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Il_Giornale_di_Napoli>.
+<http://lod.xdams.org/reload/oad/entiCamera/Giornale_di_Napoli>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q3792753>.
+
+
+## acs enti: Banco di Napoli
+
+## dbpedia: Banco di Napoli
+<http://lod.xdams.org/reload/oad/entiCamera/Banco_di_Napoli>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Banco_di_Napoli>.
+<http://lod.xdams.org/reload/oad/entiCamera/Banco_di_Napoli>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q3633835>.
+
+## dbpedia: Banco di Sicilia
+<http://lod.xdams.org/reload/oad/entiCamera/Banco_di_Sicilia>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Banco_di_Sicilia>.
+<http://lod.xdams.org/reload/oad/entiCamera/Banco_di_Sicilia>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q3633842>.
+
+
+
+## dbpedia: Camera di consiglio
+<http://lod.xdams.org/reload/oad/entiCamera/Camera_di_consiglio>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Camera_di_consiglio>.
+
+
+
+## dbpedia: Banca Nazionale del Regno d'Italia
+<http://lod.xdams.org/reload/oad/entiCamera/Banca_nazionale_del_Regno_d_Italia>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Banca_Nazionale_nel_Regno_d'Italia>.
+
+
+
+## dbpedia: Circondario di Rovigo
+<http://lod.xdams.org/reload/oad/entiCamera/Circondario_di_Rovigo>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Circondario_di_Rovigo>.
+<http://lod.xdams.org/reload/oad/entiCamera/Circondario_di_Rovigo>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q3677833>.
+
+
+
+## dbpedia: Provincia di Parma
+<http://lod.xdams.org/reload/oad/entiCamera/Provincia_di_Parma>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Provincia_di_Parma>.
+<http://lod.xdams.org/reload/oad/entiCamera/Provincia_di_Parma>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q16228>.
+
+## dbpedia: Provincia di Modena
+<http://lod.xdams.org/reload/oad/entiCamera/Provincia_di_Modena>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Provincia_di_Modena>.
+<http://lod.xdams.org/reload/oad/entiCamera/Provincia_di_Modena>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q16209>.
+
+## acs enti: Provincia di Ferrara
+
+## dbpedia: Provincia di Ferrara
+<http://lod.xdams.org/reload/oad/entiCamera/Provincia_di_Ferrara>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Provincia_di_Ferrara>.
+<http://lod.xdams.org/reload/oad/entiCamera/Provincia_di_Ferrara>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q16168>.
+
+## dbpedia: Provincia di Rovigo
+<http://lod.xdams.org/reload/oad/entiCamera/Provincia_di_Rovigo>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Provincia_di_Rovigo>.
+<http://lod.xdams.org/reload/oad/entiCamera/Provincia_di_Rovigo>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q16270>.
+
+## dbpedia: Provincia di Reggio Emilia
+<http://lod.xdams.org/reload/oad/entiCamera/Provincia_di_Reggio_Emilia>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Provincia_di_Reggio_Emilia>.
+
+## dbpedia: Provincia di Piacenza
+<http://lod.xdams.org/reload/oad/entiCamera/Provincia_di_Piacenza>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Provincia_di_Piacenza>.
+<http://lod.xdams.org/reload/oad/entiCamera/Provincia_di_Piacenza>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q16243>.
+
+## dbpedia: Provincia di Cremona
+<http://lod.xdams.org/reload/oad/entiCamera/Provincia_di_Cremona>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Provincia_di_Cremona>.
+<http://lod.xdams.org/reload/oad/entiCamera/Provincia_di_Cremona>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q16163>.
+
+## dbpedia: Provincia di Mantova
+<http://lod.xdams.org/reload/oad/entiCamera/Provincia_di_Mantova>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Provincia_di_Mantova>.
+<http://lod.xdams.org/reload/oad/entiCamera/Provincia_di_Mantova>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q16204>.
+
+
+## dbpedia: Intendenza di Finanza
+<http://lod.xdams.org/reload/oad/entiCamera/Intendenza_di_Finanza>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Intendenza_di_Finanza>.
+<http://lod.xdams.org/reload/oad/entiCamera/Intendenza_di_Finanza>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q3799348>.
+## dbpedia: Banca Romana
+<http://lod.xdams.org/reload/oad/entiCamera/Banca_Romana>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Banca_Romana>.
+<http://lod.xdams.org/reload/oad/entiCamera/Banca_Romana>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q744965>.
+
+## dbpedia: Banca Nazionale Toscana
+<http://lod.xdams.org/reload/oad/entiCamera/Banca_Nazionale_Toscana>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Banca_Nazionale_Toscana>.
+<http://lod.xdams.org/reload/oad/entiCamera/Banca_Nazionale_Toscana>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q3633714>.
+
+## acs enti: Navigazione generale italiana
+
+## dbpedia: Navigazione Generale Italiana
+<http://lod.xdams.org/reload/oad/entiCamera/Navigazione_generale_italiana>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Navigazione_Generale_Italiana>.
+<http://lod.xdams.org/reload/oad/entiCamera/Navigazione_generale_italiana>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q3873449>.
+
+
+
+## acs enti: Accademia navale di Livorno
+
+## dbpedia: Accademia Navale di Livorno
+<http://lod.xdams.org/reload/oad/entiCamera/Accademia_navale_di_Livorno>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Accademia_navale>.
+
+
+## acs enti: Arsenale di Taranto
+
+## dbpedia: Regio Arsenale di Taranto
+<http://lod.xdams.org/reload/oad/entiCamera/Arsenale_di_Taranto>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Arsenale_militare_marittimo_di_Taranto>.
+
+
+
+
+## acs enti: Archivio di Stato di Roma
+
+## dbpedia: Archivio di Stato di Roma
+<http://lod.xdams.org/reload/oad/entiCamera/Archivio_di_Stato_di_Roma>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Archivio_di_Stato_di_Roma>.
+<http://lod.xdams.org/reload/oad/entiCamera/Archivio_di_Stato_di_Roma>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q2860424>.
+
+
+
+## acs enti: Arsenale di Napoli
+
+## dbpedia: Arsenale di Napoli
+<http://lod.xdams.org/reload/oad/entiCamera/Arsenale_di_Napoli>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Arsenale_di_Napoli>.
+<http://lod.xdams.org/reload/oad/entiCamera/Arsenale_di_Napoli>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q3623952>.
+
+
+
+
+## acs enti: Regia Accademia navale di Livorno
+
+## dbpedia: Cinquantenario della Regia Accademia Navale di Livorno
+<http://lod.xdams.org/reload/oad/entiCamera/Regia_Accademia_navale_di_Livorno>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Cinquantenario_della_Regia_Accademia_Navale_di_Livorno>.
+<http://lod.xdams.org/reload/oad/entiCamera/Regia_Accademia_navale_di_Livorno>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q3677271>.
+
+
+
+## acs enti: Arsenale di Venezia
+
+## dbpedia: Arsenale di Venezia
+<http://lod.xdams.org/reload/oad/entiCamera/Arsenale_di_Venezia>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Arsenale_di_Venezia>.
+<http://lod.xdams.org/reload/oad/entiCamera/Arsenale_di_Venezia>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q1262248>.
+
+
+
+
+## acs enti: Stazione Termini
+
+## dbpedia: Stazione Termini
+<http://lod.xdams.org/reload/oad/entiCamera/Stazione_Termini>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Stazione_di_Roma_Termini>.
+
+## dbpedia: Croce Rossa Italiana
+<http://lod.xdams.org/reload/oad/entiCamera/Croce_rossa_italiana>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Croce_Rossa_Italiana>.
+<http://lod.xdams.org/reload/oad/entiCamera/Croce_rossa_italiana>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q913903>.
+
+
+<!-- FINO A QUI -->
+## acs enti: Colonia Eritrea
+
+## dbpedia: Colonia Eritrea <!-- OK -->
+<http://lod.xdams.org/reload/oad/entiCamera/Colonia_Eritrea>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Colonia_Eritrea>.
+
+## dbpedia: Colonia eritrea
+<http://lod.xdams.org/reload/oad/entiCamera/Colonia_Eritrea>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Colonia_eritrea>.
+<http://lod.xdams.org/reload/oad/entiCamera/Colonia_Eritrea>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q1232988>.
+
+
+## dbpedia: Alta Corte di Giustizia <!-- FORSE -->
+<http://lod.xdams.org/reload/oad/entiCamera/Alta_Corte_di_giustizia>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Alta_Corte_di_Giustizia>.
+
+
+## dbpedia: Croce Rossa Americana  <!-- OK -->
+<http://lod.xdams.org/reload/oad/entiCamera/Croce_rossa_americana>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Croce_Rossa_Americana>.
+<http://lod.xdams.org/reload/oad/entiCamera/Croce_rossa_americana>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q470110>.
+
+
+## dbpedia: Acciaierie di Terni  <!-- OK -->
+<http://lod.xdams.org/reload/oad/entiCamera/Acciaierie_di_Terni>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Acciaierie_di_Terni>.
+<http://lod.xdams.org/reload/oad/entiCamera/Acciaierie_di_Terni>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q3604123>.
+
+
+## acs enti: Lloyd austriaco
+
+## dbpedia: Lloyd Austriaco <!--- OK -->
+<http://lod.xdams.org/reload/oad/entiCamera/Lloyd_austriaco>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Lloyd_Austriaco>.
+
+## dbpedia: Confederazione Generale del Lavoro <!--- OK -->
+<http://lod.xdams.org/reload/oad/entiCamera/Confederazione_generale_del_lavoro>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Confederazione_Generale_del_Lavoro>.
+<http://lod.xdams.org/reload/oad/entiCamera/Confederazione_generale_del_lavoro>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/wiki/Q3686528>.
+
