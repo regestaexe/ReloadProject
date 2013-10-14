@@ -1,0 +1,1631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:bio="http://purl.org/vocab/bio/0.1/" xmlns:daia="http://purl.org/ontology/daia/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:eac-cpf="http://archivi.ibc.regione.emilia-romagna.it/ontology/eac-cpf/" xmlns:eac-san="http://san.mibac.it/eac-san/" xmlns:ead-str="http://san.mibac.it/ricerca-san/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:gn="http://www.geonames.org/ontology#" xmlns:oad="http://lod.xdams.org/reload/oad/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:scons="http://san.mibac.it/scons-san/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:viaf="http://viaf.org/ontology/1.1/#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:base="http://lod.xdams.org/reload/oad/">
+	<eac-cpf:corporateBody rdf:about="eac-cpf/IT-ER-IBC-SP00001-0001479">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Congregazione della carità di Cotignola (1808 - 1859), 1808 - 1859</rdfs:label>
+		<dc:title>Congregazione della carità di Cotignola (1808 - 1859), 1808 - 1859</dc:title>
+		<dc:date>1808 - 1859</dc:date>
+		<dcterms:temporal>1808-01-01/1859-12-31</dcterms:temporal>
+		<dc:coverage>Cotignola</dc:coverage>
+		<foaf:name>Congregazione della carità di Cotignola (1808 - 1859)</foaf:name>
+		<dcterms:provenance rdf:resource="IBCSAN"/>
+		<dcterms:isReferencedBy rdf:resource="http://archivi.ibc.regione.emilia-romagna.it/eac-cpf/IT-ER-IBC-SP00001-0001479"/>
+		<eac-cpf:control rdf:resource="control/IT-ER-IBC-SP00001-0001479"/>
+		<eac-cpf:description rdf:resource="description/IT-ER-IBC-SP00001-0001479"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001483"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001484"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001485"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001486"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001487"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001488"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001489"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001490"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001491"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001492"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001481"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001481"/>
+		<eac-cpf:resourceRelation rdf:resource="relationResource/IT-ER-IBC-039009-001-004"/>
+	</eac-cpf:corporateBody>
+	<eac-cpf:controlArea rdf:about="control/IT-ER-IBC-SP00001-0001479">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area del controllo:	Congregazione della carità di Cotignola (1808 - 1859)</rdfs:label>
+		<eac-cpf:recordID>IT-ER-IBC-SP00001-0001479</eac-cpf:recordID>
+		<eac-cpf:maintenanceStatus>scheda pubblicata</eac-cpf:maintenanceStatus>
+	</eac-cpf:controlArea>
+	<eac-cpf:descriptionArea rdf:about="description/IT-ER-IBC-SP00001-0001479">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area della descrizione: 	Congregazione della carità di Cotignola (1808 - 1859)</rdfs:label>
+		<eac-cpf:nameEntry rdf:parseType="Resource">
+			<authorizedForm>IBCSAN</authorizedForm>
+			<foaf:name>Congregazione della carità di Cotignola (1808 - 1859)</foaf:name>
+		</eac-cpf:nameEntry>
+		<eac-cpf:existDates>1808 - 1859</eac-cpf:existDates>
+		<eac-cpf:hasPlace rdf:resource="luoghiSAN/Cotignola_8_26"/>
+		<eac-cpf:biogHist>La Congregazione della carità di Cotignola iniziò la sua attività dal primo marzo 1808, come testimoniato dal dispaccio del Prefetto del Dipartimento del Reno del 22 febbraio 1808, n. 3244, che invitava il Podestà di Cotignola a nominare i membri della congregazione e ad avviarne l'attività. Il dispaccio conteneva anche le istruzioni necessarie per l'avvio e il funzionamento della congregazione: in particolare, in base al R.D. del 23 dicembre 1807, la congregazione doveva essere divisa in commissioni (degli ospedali; degli ospizi e orfanotrofi; delle elemosine; dei monti di pietà). Dal 26 aprile 1808 la congregazione pose la sede dei suoi uffici e del suo archivio nell'edificio del Monte di pietà di Cotignola, che era stato acquistato dal regio Demanio del Regno italico con atto a rogito del notaio Serafino Betti di Bologna. Il primo documento stilato dalla neo istituita congregazione di Cotignola fu del marzo 1808 (protocollato n. 1; classificato tit. I, rub. 1) e conteneva il verbale della prima adunanza, con la nomina dei membri che la componevano (Piersanti [Canattieri], l'arciprete Giovanni Cattani, Fabio Tarlazzi, Stefano Bennoli), del Presidente (nella persona del podestà di Cotignola, Sebastiano Testi), del protocollista (Patrizio Cassani) e del segretario ( Alessandro Cassani). Pochi mesi dopo fu approvato il "Regolamento e piano d'organizzazione della Congregazione di carità del Comune di Cotignola, distretto d'Imola, Dipartimento del Reno, istituita con R. D. del 21 dicembre 1807 ed attivata il 1° marzo 1808", approvato dal Ministero dell'interno il 28 luglio 1808, e inoltrato dal prefetto del Dipartimento del Reno e dal vice prefetto d'Imola il 2 e il 9 agosto 1808 (conservato in copia conforme del 1857). Nel regolamento si stabilì che: la congregazione aveva sede nei locali del S. Monte di Pietà di Cotignola (tit. I, art. 1); era divisa in due sezioni, alla prima furono assegnati l'ospedale, "quando non sia dichiarato di diritto padronale", il Monte di pietà e gli orfanotrofi, e alla seconda gli istituti elemosinieri (tit. I, art. 2); le sezioni si riunivano due volta a settimana (tit. I, art. 9-13); erano assegnati tre membri alla gestione di ciascuna sezione (tit. I, art. 3); la congregazione si riuniva di norma una volta a settimana; la commissione era costituita da due individui, ciascuno dei quali nominato all'interno di una delle due sezioni (tit. I, artt. 5, 8); la congregazione si avvaleva di un segretario, un protocollista, un cassiere (tit. II, artt. 14, 15, 19-33); aveva l'obbligo della tenuta dei registri contabili (tit. II, artt. 17-18); manteneva un solo archivio in cui raccogliere tutte le carte degli stabilimenti e della Congregazione "... tenute sempre separatamente le carte che appartengano a ciascuno de' pii stabilimenti e colla corrispondente classifcazione delle materie" (tit. II, art. 16).&lt;br /&gt;La Congregazione della carità non fu soppressa a seguito della Restaurazione, ma il Vescovo di Faenza decise di rispettarne l'istituzione, ponenedola sotto il proprio diretto controllo. Tale situazione durò fino al 1859.  Le opere pie che erano state concentrate nella Congregazione nel 1808 rimasero sotto la sua amministrazione, fatta eccezione per le opere pie Testi (Ospedale, Carcerati e doti, Studi), che nel 1822 tornarono sotto la diretta amministrazione della ricostituita Congregazione leopoldina, precedentemente soppressa nel 1809. Le opere pie istituite in Cotignola dopo il 1815, invece, mantennero un'amministrazione autonoma fino al 1859. &lt;br /&gt;Nel 1829 il Vescovo di Faenza sospese il segretario della Congregazione di Cotignola, Stefano Testi, e mandò un suo delegato, il canonico Fabio Naldi, con il compito di riformare l'amministrazione della congregazione, di sostituire il segretario Testi con altro provvisorio (fu nominato Giovanni Graziani), di vedere, sigillare e portare al vescovo i libri dell'amministrazione, come testimoniato dal verbale della "seduta straordinaria non posta a protocollo e tenutasi il 22 ottobre 1829 presente il deputato vescovile canonico [Fabio] Naldi di Faenza".&lt;br /&gt;Nel 1859 tutte le opere pie di Cotignola, sia quelle amministrate dalla Congregazione della carità, che quelle amministrate dalle congregazioni leopoldina e fabiana e quelle in amministrazione autonoma, furono concentrate prima sotto la Congregazione di carità normata dal Governo provvisorio delle Romagne (decreto del regio commissario d'Azeglio del 25 luglio 1859 e "decreto Cipriani" del 19 agosto 1859) e dal Regno di Sardegna (legge del 20 novembre 1859 e regolamento del 18 agosto 1860), poi sotto la Congregazione di carità dello Stato italiano (legge del 3 agosto 1862, n. 753).</eac-cpf:biogHist>
+	</eac-cpf:descriptionArea>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001483">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-child</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001483"/>
+		<dc:date>1808-1859</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001484">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-child</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001484"/>
+		<dc:date>1808-1859</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001485">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-child</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001485"/>
+		<dc:date>1808-1859</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001486">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-child</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001486"/>
+		<dc:date>1808-1859</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001487">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-child</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001487"/>
+		<dc:date>1809-1859</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001488">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-child</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001488"/>
+		<dc:date>1809-1859</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001489">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-child</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001489"/>
+		<dc:date>1809-1859</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001490">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-child</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001490"/>
+		<dc:date>1808-1859</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001491">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-child</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001491"/>
+		<dc:date>1808-1859</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001492">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-child</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001492"/>
+		<dc:date>1808-1859</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001481">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">temporal-earlier</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001481"/>
+		<dc:date>1809</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001481">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">temporal-later</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001481"/>
+		<dc:date>1822</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationResource/IT-ER-IBC-039009-001-004">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">creatorOf</rdfs:label>
+		<dcterms:relation rdf:resource="uod/IT-ER-IBC-039009-001-004"/>
+	</eac-cpf:relation>
+	<eac-cpf:place rdf:about="luoghiSAN/Cotignola_8_26">
+		<rdfs:label>Cotignola</rdfs:label>
+		<dc:title>Cotignola</dc:title>
+		<eac-cpf:placeRole>sede</eac-cpf:placeRole>
+	</eac-cpf:place>
+	<skos:Concept rdf:about="luoghiSAN/Cotignola_8_26">
+		<rdfs:label xml:lang="it">Cotignola</rdfs:label>
+		<skos:prefLabel xml:lang="it">Cotignola</skos:prefLabel>
+		<dc:title xml:lang="it">Cotignola</dc:title>
+	</skos:Concept>
+	<eac-cpf:corporateBody rdf:about="eac-cpf/IT-ER-IBC-SP00001-0001480">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Congregazione di carità di Cotignola (1859 - 1937), 1859 - 1937</rdfs:label>
+		<dc:title>Congregazione di carità di Cotignola (1859 - 1937), 1859 - 1937</dc:title>
+		<dc:date>1859 - 1937</dc:date>
+		<dcterms:temporal>1859-01-01/1937-12-31</dcterms:temporal>
+		<dc:coverage>Cotignola</dc:coverage>
+		<foaf:name>Congregazione di carità di Cotignola (1859 - 1937)</foaf:name>
+		<dcterms:provenance rdf:resource="IBCSAN"/>
+		<dcterms:isReferencedBy rdf:resource="http://archivi.ibc.regione.emilia-romagna.it/eac-cpf/IT-ER-IBC-SP00001-0001480"/>
+		<eac-cpf:control rdf:resource="control/IT-ER-IBC-SP00001-0001480"/>
+		<eac-cpf:description rdf:resource="description/IT-ER-IBC-SP00001-0001480"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001497"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001501"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001503"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001498"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001483"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001484"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001485"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001486"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001487"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001488"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001489"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001490"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001491"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001492"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001493"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001494"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001495"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001496"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001479"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001481"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001482"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001499"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001500"/>
+		<eac-cpf:resourceRelation rdf:resource="relationResource/IT-ER-IBC-039009-001-004"/>
+	</eac-cpf:corporateBody>
+	<eac-cpf:controlArea rdf:about="control/IT-ER-IBC-SP00001-0001480">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area del controllo:	Congregazione di carità di Cotignola (1859 - 1937)</rdfs:label>
+		<eac-cpf:recordID>IT-ER-IBC-SP00001-0001480</eac-cpf:recordID>
+		<eac-cpf:maintenanceStatus>scheda pubblicata</eac-cpf:maintenanceStatus>
+	</eac-cpf:controlArea>
+	<eac-cpf:descriptionArea rdf:about="description/IT-ER-IBC-SP00001-0001480">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area della descrizione: 	Congregazione di carità di Cotignola (1859 - 1937)</rdfs:label>
+		<eac-cpf:nameEntry rdf:parseType="Resource">
+			<authorizedForm>IBCSAN</authorizedForm>
+			<foaf:name>Congregazione di carità di Cotignola (1859 - 1937)</foaf:name>
+		</eac-cpf:nameEntry>
+		<eac-cpf:existDates>1859 - 1937</eac-cpf:existDates>
+		<eac-cpf:hasPlace rdf:resource="luoghiSAN/Cotignola_8_130"/>
+		<eac-cpf:biogHist>La principale modifica portata alla Congregazione della carità di Cotignola dalla legislazione del Governo provvisorio delle Romagne (decreto del regio commissario d'Azeglio del 25 luglio 1859 e "decreto Cipriani" del 19 agosto 1859) e dal Regno di Sardegna (legge del 20 novembre 1859 e regolamento del 18 agosto 1860), fu il cambiamento dei suoi membri e il ritorno alla tutela del governo secolare italico. La Congregazione di carità di Cotignola così istituita concentrò in sè sia le opere pie che erano allora amministrate dalla Congregazione di carità attiva dal 1808, sia quelle amministrate dalle congregazioni leopoldina e fabiana, sia quelle in amministrazione autonoma, inziando le sue funzioni dal 31 ottobre 1859.&lt;br /&gt;In seguito, la Congregazione di carità istituita dallo Stato italiano nel 1862, con la legge del 3 agosto, n. 753, concentrò tutte le opere pie in base ai regi decreti del 19 luglio 1863 (opere pie Monte di pietà, orfanotrofio femminile, orfanotrofio maschile, Zarabbini, Ospedale Testi, Baldini, Galvanelli, Cortesi, Minguzzi, Baruzzi, Cointeressati - Zannoni) e del 6 aprile 1865 (opere pie Studi Testi, Carcerati e doti Testi, Tarlazzi). &lt;br /&gt;Gli statuti organici della Congregazione di carità e delle opere pie amministrate da essa furono stilati fra il 1865 e il 1873 e i regolamenti fra il 1868 e il 1872 (cfr. prospetto del 10 settembre 1873 scritto dal Presidente della Congregzione di carità di Cotignola, su richiesta del sotto prefetto di Lugo, in Biblioteca comunale di Cotignola, Archivio della Congregazione di carità di Cotignola, &lt;em&gt;Carteggio,&lt;/em&gt; &lt;em&gt;Carteggio amministrativo. Titolario "tabella B"&lt;/em&gt;, 1873, fasc. tit. I, rub. 1, b. 93). In particolare, uno degli statuti della Congregazione, del 28 giugno 1872, approvato con R.D. del 19 febbraio 1874, stabiliva che la congregazione fosse formata da un presidente e da 4 membri, essendo il comune di 7000 abitanti, nominati dal Consiglio comunale. Nel 1872 i membri erano Pietro Sante Testi, il presidente, Domenico Solieri, Giovanni Bennoli, Giuseppe Tarlazzi e Gregorio Zanzi. La Congregazione aveva sede nei locali del Monte di Pietà; si riuniva ogni 15 giorni; era divisa in due sezioni (la prima per orfanotrofi e ospedali; la seconda per Monte di pietà e istituti elemosinieri). Due membri, uno per ciascuna sezione, componevano la Commissione sedente o di turno, cui era affidata la parte secutiva di tutto ciò che riguardava il giornaliero servizio, corrispondenza, affari ordinari. La Congregazione non disponeva di beni propri o di un patrimonio: i beni poteva ricavarli da donazioni, rendite, vendite. Come impiegati contava un segretario, un ragioniere, un tesoriere, un copista e un uscere.&lt;br /&gt;Successive modifiche allo statuto della Congregazione e agli statuti della opere pie si ebbero in seguito alla legge del 17 luglio 1890, n. 6972. Lo stesso regio commissario incentivò la congregazione a effettuare delle modifiche agli statuti; a seguito di tale consiglio, la congregazione chiese un parere legale all'avvocato Angelo Strocchi, prima di apportarle.&lt;br /&gt;Lo statuto organico del 24 luglio 1903 stabilì che i membri della Congregazione fossero portati a otto, eletti ogni quattro anni, anche se ogni anno doveva essere rieletto un quarto dei componenti, e che le adunanze ordinarie fossero mensili. Per il resto riprendeva lo statuto precedente.&lt;br /&gt;La Congregazione era regolamentata con regolamenti interni, come quello del 1867 (di cui si conserva copia conforme del 1868) e quello del 1890, stilato a seguito della legge del 17 luglio 1890, n. 6972: la congregazione era composta da un presidente, un segretario, un ragioniere, un tesoriere, degli agenti di campagna (con il compito di controllare i poderi e di prestare servizio nei diversi stabilimenti) e degli usceri. Il successivo regolamento fu approvato con delibera del 21 aprile 1903: in esso si poneva nuovamente molta attenzione all'organizzazione del personale, strutturato in segreteria, ragioneria, computisteria, tesoreria o cassa, copisteria, economato, azienda agricola, ufficio tecnico, ufficio legale, personale di servizio; e alla formazione dei registri delle deliberazioni, che dovevano essere registrate in tre diverse tipologie di registro in base alla materia trattata (un registro genereale delle deliberazioni; un registro delle deliberazioni soggette a visto, ovvero le delibere che dovevano essere approvate della superiore autorità prefettizia; un registro delle deliberazioni per la tutela su orfani minorenni). Successivi regolamenti su impiegati e salariati furono stilati nel 1911, 1912 e 1924.&lt;br /&gt;La congregazione fu sciolta con R.D. del 30 marzo 1890, a seguito delle segnalazioni del Prefetto e dell Giunta provinciale amministrativa di Ravenna di "abusi" a discapito delle opere pie da essa amministrate. Il Prefetto fu autorizzato a nominare una commissione straordinaria (15 aprile) presieduta da Pio Vittorio Ferrari, con il compito di riordinarla. La commissione straordinaria terminò il suo incarico il primo novembre 1890 e fu deliberata la ricostituzione della Congregazione con presidente Giuseppe Bulzano (delibera del 15 novembre; cfr. Biblioteca comunale di Cotignola, Archivio della Congregazione di carità di Cotignola, &lt;em&gt;Carteggio,&lt;/em&gt; &lt;em&gt;Carteggio amministrativo. Titolario "tabella B"&lt;/em&gt;, 1890, fasc. tit. I, rub. 1, b. 102).&lt;br /&gt;La Congregazione di carità di Cotignola fu soppressa nel 1937, in seguito al passaggio delle sue funzioni all'Ente comunale di assistenza (E.C.A.) di Cotignola, istituito dalla legge del 3 agosto 1937, n. 847.</eac-cpf:biogHist>
+	</eac-cpf:descriptionArea>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001497">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">associative</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001497"/>
+		<dc:date>1894-1909</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001501">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">associative</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001501"/>
+		<dc:date>1861-[1895]</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001503">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">associative</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001503"/>
+		<dc:date>[1890-1895]</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001498">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">associative</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001498"/>
+		<dc:date>[1845-1937]</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001483">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-child</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001483"/>
+		<dc:date>1859-1937</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001484">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-child</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001484"/>
+		<dc:date>1859-1937</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001485">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-child</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001485"/>
+		<dc:date>1859-1937</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001486">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-child</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001486"/>
+		<dc:date>1859-1937</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001487">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-child</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001487"/>
+		<dc:date>1859-1937</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001488">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-child</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001488"/>
+		<dc:date>1859-1937</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001489">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-child</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001489"/>
+		<dc:date>1859-1937</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001490">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-child</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001490"/>
+		<dc:date>1859-1937</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001491">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-child</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001491"/>
+		<dc:date>1859-1937</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001492">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-child</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001492"/>
+		<dc:date>1859-1937</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001493">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-child</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001493"/>
+		<dc:date>1859-1937</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001494">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-child</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001494"/>
+		<dc:date>1859-1937</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001495">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-child</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001495"/>
+		<dc:date>1859-1937</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001496">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-child</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001496"/>
+		<dc:date>1859-1937</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001479">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">temporal-earlier</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001479"/>
+		<dc:date>1859-1860</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001481">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">temporal-earlier</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001481"/>
+		<dc:date>1859-1860</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001482">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">temporal-earlier</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001482"/>
+		<dc:date>1859-1860</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001499">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">temporal-later</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001499"/>
+		<dc:date>1937</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001500">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">temporal-later</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001500"/>
+		<dc:date>1938</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationResource/IT-ER-IBC-039009-001-004">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">creatorOf</rdfs:label>
+		<dcterms:relation rdf:resource="uod/IT-ER-IBC-039009-001-004"/>
+	</eac-cpf:relation>
+	<eac-cpf:place rdf:about="luoghiSAN/Cotignola_8_130">
+		<rdfs:label>Cotignola</rdfs:label>
+		<dc:title>Cotignola</dc:title>
+		<eac-cpf:placeRole>sede</eac-cpf:placeRole>
+	</eac-cpf:place>
+	<skos:Concept rdf:about="luoghiSAN/Cotignola_8_130">
+		<rdfs:label xml:lang="it">Cotignola</rdfs:label>
+		<skos:prefLabel xml:lang="it">Cotignola</skos:prefLabel>
+		<dc:title xml:lang="it">Cotignola</dc:title>
+	</skos:Concept>
+	<eac-cpf:corporateBody rdf:about="eac-cpf/IT-ER-IBC-SP00001-0001481">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Congregazione leopoldina di Cotignola, 1749 - 1808; 1822 - 1859</rdfs:label>
+		<dc:title>Congregazione leopoldina di Cotignola, 1749 - 1808; 1822 - 1859</dc:title>
+		<dc:date>1749 - 1808; 1822 - 1859</dc:date>
+		<dcterms:temporal>1749-01-01/1859-12-31</dcterms:temporal>
+		<dc:coverage>Cotignola</dc:coverage>
+		<foaf:name>Congregazione leopoldina di Cotignola</foaf:name>
+		<dcterms:provenance rdf:resource="IBCSAN"/>
+		<dcterms:isReferencedBy rdf:resource="http://archivi.ibc.regione.emilia-romagna.it/eac-cpf/IT-ER-IBC-SP00001-0001481"/>
+		<eac-cpf:control rdf:resource="control/IT-ER-IBC-SP00001-0001481"/>
+		<eac-cpf:description rdf:resource="description/IT-ER-IBC-SP00001-0001481"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001487"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001488"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001489"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001479"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001479"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001480"/>
+		<eac-cpf:resourceRelation rdf:resource="relationResource/IT-ER-IBC-AS00227-0001510"/>
+	</eac-cpf:corporateBody>
+	<eac-cpf:controlArea rdf:about="control/IT-ER-IBC-SP00001-0001481">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area del controllo:	Congregazione leopoldina di Cotignola</rdfs:label>
+		<eac-cpf:recordID>IT-ER-IBC-SP00001-0001481</eac-cpf:recordID>
+		<eac-cpf:maintenanceStatus>scheda pubblicata</eac-cpf:maintenanceStatus>
+	</eac-cpf:controlArea>
+	<eac-cpf:descriptionArea rdf:about="description/IT-ER-IBC-SP00001-0001481">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area della descrizione: 	Congregazione leopoldina di Cotignola</rdfs:label>
+		<eac-cpf:nameEntry rdf:parseType="Resource">
+			<authorizedForm>IBCSAN</authorizedForm>
+			<foaf:name>Congregazione leopoldina di Cotignola</foaf:name>
+		</eac-cpf:nameEntry>
+		<eac-cpf:existDates>1749 - 1808; 1822 - 1859</eac-cpf:existDates>
+		<eac-cpf:hasPlace rdf:resource="luoghiSAN/Cotignola_8_289"/>
+		<eac-cpf:biogHist>La Congregazione leopoldina fu istituita con testamento dell'abate Pietro Leopoldo Testi del 13 giugno 1749, a rogito del notaio Lodovico Valvassori di Lugo, al fine di amministrare le opere pie da esso fondate con i lasciti previsti nel suo testamento: un ospedale per infermi a scopo di ricovero e cura dei poveri di Cotignola e della limitrofa parrocchia di S. Severo, sotto il titolo di S. Antonio (aperto nel 1766); il mantenimento di alcuni giovani agli studi; la corresponsione di aiuti ai carcerati e di doti a zitelle di Cotignola. Come presidente della congregazione fu nominato il rettore dei gesuiti di Cotignola, affiancato da due discendenti della famiglia Testi e da 5 membri di altri corpi morali di Cotignola, fra cui il priore della comunità, un canonico di S. Stefano, il guardiano dei frati Minori, i priori della Compagnia del Sacramento e della Compagnia di S. Giuseppe.&lt;br /&gt;La Congregazione leopoldina amministrò l'ospedale e le altre opere pie Testi fino all'istituzione della Congregazione della carità sotto il Regno d'Italia (decreto del 21 dicembre 1807), attiva dal primo marzo 1808; in particolare, l'ospedale fu riunito e concentrato nella neonata Congregazione nel 1809 (con decreto "partecipato" alla congregazione dal dispaccio del Prefetto del Dipartimento del Reno, n. 7329, e per il decreto vice prefettizio n.1360), sebbene gli eredi Testi si opponessero ritenendo l'opera pia di loro diritto patronale. Il Ministero dell'interno del Regno italico definì non attendibili le pretese dei Testi.&lt;br /&gt;La Congregazione della carità amministrò l'ospedale e le altre opere pie Testi fino al 1821, quando gli eredi Testi riuscirono a ottenere dal Vescovo di Faenza, che controllava la congregazione dal 1815, di ricostituire la Congregazione leopoldina, riportando l'ospedale e le altre opere pie Testi all'autonomia amministrativa. In questa occasione ci fu anche una consegna ufficiale dell'archivio relativo alle opere pie Testi dalla Congregazione di carità alla Congregazione leopoldina (l'archivio ritornò poi sotto la Congregazione di carità nel 1859).&lt;br /&gt;La Congregazione leopoldina di Cotignola fu soppressa in seguito all'istituzione della Congregazione di carità del Governo provvisorio delle Romagne (decreto del regio commissario d'Azeglio del 25 luglio 1859 e "decreto Cipriani" del 19 agosto 1859), poi del Regno di Sardegna (legge del 20 novembre 1859 e regolamento del 18 agosto 1860), infine della Congregazione di carità dello Stato italiano (legge del 3 agosto 1862, n. 753), in cui le opere pie Testi furono concentrate, seguendone poi le vicende normative.</eac-cpf:biogHist>
+	</eac-cpf:descriptionArea>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001487">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-child</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001487"/>
+		<dc:date>1749-1809; 1822-1860</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001488">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-child</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001488"/>
+		<dc:date>1749-1809; 1822-1860</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001489">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-child</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001489"/>
+		<dc:date>1749-1809; 1822-1860</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001479">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">temporal-earlier</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001479"/>
+		<dc:date>1822</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001479">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">temporal-later</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001479"/>
+		<dc:date>1809</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001480">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">temporal-later</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001480"/>
+		<dc:date>1859-1860</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationResource/IT-ER-IBC-AS00227-0001510">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">creatorOf</rdfs:label>
+		<dcterms:relation rdf:resource="uod/IT-ER-IBC-AS00227-0001510"/>
+	</eac-cpf:relation>
+	<eac-cpf:place rdf:about="luoghiSAN/Cotignola_8_289">
+		<rdfs:label>Cotignola</rdfs:label>
+		<dc:title>Cotignola</dc:title>
+		<eac-cpf:placeRole>sede</eac-cpf:placeRole>
+	</eac-cpf:place>
+	<skos:Concept rdf:about="luoghiSAN/Cotignola_8_289">
+		<rdfs:label xml:lang="it">Cotignola</rdfs:label>
+		<skos:prefLabel xml:lang="it">Cotignola</skos:prefLabel>
+		<dc:title xml:lang="it">Cotignola</dc:title>
+	</skos:Concept>
+	<eac-cpf:corporateBody rdf:about="eac-cpf/IT-ER-IBC-SP00001-0001482">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Congregazione fabiana di Cotignola, 1849 - 1859</rdfs:label>
+		<dc:title>Congregazione fabiana di Cotignola, 1849 - 1859</dc:title>
+		<dc:date>1849 - 1859</dc:date>
+		<dcterms:temporal>1849-01-01/1859-12-31</dcterms:temporal>
+		<dc:coverage>Cotignola</dc:coverage>
+		<foaf:name>Congregazione fabiana di Cotignola</foaf:name>
+		<dcterms:provenance rdf:resource="IBCSAN"/>
+		<dcterms:isReferencedBy rdf:resource="http://archivi.ibc.regione.emilia-romagna.it/eac-cpf/IT-ER-IBC-SP00001-0001482"/>
+		<eac-cpf:control rdf:resource="control/IT-ER-IBC-SP00001-0001482"/>
+		<eac-cpf:description rdf:resource="description/IT-ER-IBC-SP00001-0001482"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001493"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001480"/>
+		<eac-cpf:resourceRelation rdf:resource="relationResource/IT-ER-IBC-AS00227-0001511"/>
+	</eac-cpf:corporateBody>
+	<eac-cpf:controlArea rdf:about="control/IT-ER-IBC-SP00001-0001482">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area del controllo:	Congregazione fabiana di Cotignola</rdfs:label>
+		<eac-cpf:recordID>IT-ER-IBC-SP00001-0001482</eac-cpf:recordID>
+		<eac-cpf:maintenanceStatus>scheda pubblicata</eac-cpf:maintenanceStatus>
+	</eac-cpf:controlArea>
+	<eac-cpf:descriptionArea rdf:about="description/IT-ER-IBC-SP00001-0001482">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area della descrizione: 	Congregazione fabiana di Cotignola</rdfs:label>
+		<eac-cpf:nameEntry rdf:parseType="Resource">
+			<authorizedForm>IBCSAN</authorizedForm>
+			<foaf:name>Congregazione fabiana di Cotignola</foaf:name>
+		</eac-cpf:nameEntry>
+		<eac-cpf:existDates>1849 - 1859</eac-cpf:existDates>
+		<eac-cpf:hasPlace rdf:resource="luoghiSAN/Cotignola_8_363"/>
+		<eac-cpf:biogHist>Fu istituita con testamento del capitano Fabio Tarlazzi del 3 ottobre 1829, a rogito del notaio Scipione Urbini di Ravenna, anche se fu composta e iniziò effettivamente a funzionare solo nel 1849, con il compito di amministrare le opere pie Tarlazzi: un ospedale per incurabili dove mantenere e accogliere caritatevolmente i poveri ammalati delle parrocchie di Cotignola e S. Severo; il mantenimento agli studi presso il seminario di Faenza quattro giovani.&lt;br /&gt;Per finanziare le opere pie il testatore aveva previsto di accumulare una rendita da alcuni suoi beni,  il cui compito era stato affidato a un amministratore da lui nominato. Tale operazione tardava a compiersi e gli eredi fecero ricorso contro l'amministratore, avendo in breve ragione. Gli eredi poterono nominare un proprio uomo di fiducia, che raccolse in breve i fondi necessari ad avviare le opere pie Tarlazzi. Il 29 settembre 1849 (documento a rogito del notaio Giovanni Graziani di Cotignola) gli eredi poterono consegnare direttamente 20.000 scudi ai rettori dell'istituto Tarlazzi, nominati dal vescovo, che provvidero a realizzare ciò che il testatore aveva deciso. Successivamente al 29 settembre 1849 fu costituita la Congregazione fabiana, posta sotto la tutela del vescovo di Faenza, che si riuniva negli uffici della Congregazione di carità di Cotignola, non disponendone di propri. L'ospizio per gli incurabili inaugurò il 21 agosto del 1856, come testimoniato dal decreto del Vescovo di Faenza (cfr. Biblioteca comunale di Cotignola, Archivio della Congregazione di carità, &lt;em&gt;Carteggio amministrativo&lt;/em&gt;, 1856, Opera pia Tarlazzi, b. 70). Tale amministrazione funzionò fino al 1859, quando la Congregazione fabiana fu soppressa in seguito all'istituzione della Congregazione di carità normata dal Governo provvisorio delle Romagne (decreto del regio commissario d'Azeglio del 25 luglio 1859 e "decreto Cipriani" del 19 agosto 1859), poi dal Regno di Sardegna (legge del 20 novembre 1859 e regolamento del 18 agosto 1860), infine dallo Stato italiano (legge del 3 agosto 1862, n. 753), a cui le opere pie Tarlazzi furono annesse. In particolare, l'ospizio incurabili fu annesso ed eretto in ente morale con i regi decreti del 19 luglio 1863 e del 6 aprile 1865.</eac-cpf:biogHist>
+	</eac-cpf:descriptionArea>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001493">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-child</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001493"/>
+		<dc:date>1849-1860</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001480">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">temporal-later</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001480"/>
+		<dc:date>1859-1860</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationResource/IT-ER-IBC-AS00227-0001511">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">creatorOf</rdfs:label>
+		<dcterms:relation rdf:resource="uod/IT-ER-IBC-AS00227-0001511"/>
+	</eac-cpf:relation>
+	<eac-cpf:place rdf:about="luoghiSAN/Cotignola_8_363">
+		<rdfs:label>Cotignola</rdfs:label>
+		<dc:title>Cotignola</dc:title>
+		<eac-cpf:placeRole>sede</eac-cpf:placeRole>
+	</eac-cpf:place>
+	<skos:Concept rdf:about="luoghiSAN/Cotignola_8_363">
+		<rdfs:label xml:lang="it">Cotignola</rdfs:label>
+		<skos:prefLabel xml:lang="it">Cotignola</skos:prefLabel>
+		<dc:title xml:lang="it">Cotignola</dc:title>
+	</skos:Concept>
+	<eac-cpf:corporateBody rdf:about="eac-cpf/IT-ER-IBC-SP00001-0001483">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Monte di pietà di Cotignola, 1602 - 1924</rdfs:label>
+		<dc:title>Monte di pietà di Cotignola, 1602 - 1924</dc:title>
+		<dc:date>1602 - 1924</dc:date>
+		<dcterms:temporal>1602-01-01/1924-12-31</dcterms:temporal>
+		<dc:coverage>Cotignola</dc:coverage>
+		<foaf:name>Monte di pietà di Cotignola</foaf:name>
+		<dcterms:provenance rdf:resource="IBCSAN"/>
+		<dcterms:isReferencedBy rdf:resource="http://archivi.ibc.regione.emilia-romagna.it/eac-cpf/IT-ER-IBC-SP00001-0001483"/>
+		<eac-cpf:control rdf:resource="control/IT-ER-IBC-SP00001-0001483"/>
+		<eac-cpf:description rdf:resource="description/IT-ER-IBC-SP00001-0001483"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001479"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001480"/>
+	</eac-cpf:corporateBody>
+	<eac-cpf:controlArea rdf:about="control/IT-ER-IBC-SP00001-0001483">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area del controllo:	Monte di pietà di Cotignola</rdfs:label>
+		<eac-cpf:recordID>IT-ER-IBC-SP00001-0001483</eac-cpf:recordID>
+		<eac-cpf:maintenanceStatus>scheda pubblicata</eac-cpf:maintenanceStatus>
+	</eac-cpf:controlArea>
+	<eac-cpf:descriptionArea rdf:about="description/IT-ER-IBC-SP00001-0001483">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area della descrizione: 	Monte di pietà di Cotignola</rdfs:label>
+		<eac-cpf:nameEntry rdf:parseType="Resource">
+			<authorizedForm>IBCSAN</authorizedForm>
+			<foaf:name>Monte di pietà di Cotignola</foaf:name>
+		</eac-cpf:nameEntry>
+		<eac-cpf:existDates>1602 - 1924</eac-cpf:existDates>
+		<eac-cpf:hasPlace rdf:resource="luoghiSAN/Cotignola_8_417"/>
+		<eac-cpf:biogHist>Fu istituito nel 1602 con il testamento di Maddalena Biancoli del 9 marzo 1602 che lasciò un fondo di 1000 lire di bolognini alla comunità locale per istituire un sacro monte di pietà, finalizzato a ricevere a sovvenzione gratuita i beni dei poveri del territorio di Cotignola. Altri benefattori furono il sacerdote Francesco Bennoli, con testamento del 14 maggio 1672, che lasciò un podere e una possessione, e il canonico Alessandro Bencivenni, nel 1676, che legò all'istituto una terra chiamata "terra Bencivenni". Ad amministrare il monte di pietà la comunità di Cotignola pose due uomini, chiamati "conservatori del S. Monte", scelti fra i consiglieri della Comunità, uno nel ruolo di "depositario" e uno nel ruolo di "cassiere". Essi dovevano rendere conto del loro operato alla comunità e all'autorità tutoria, ovvero al vescovo della diocesi. Come sede del monte fu inizialmente affittato un edificio della Confraternita della misericordia. Dopo il passaggio dell'amministrazione del monte alla neonata Congregazione della carità napoleonica (attiva a Cotignola dal 1° marzo 1808), l'edificio fu acquistato il 26 aprile del 1808 dal regio Demanio del Regno italico, con atto a rogito di Serafino Betti di Bologna. Questo stesso edificio, oltre che luogo per la conservazione dei pegni, fu in parte adibito a sede della nuova Congregazione di carità, dei suoi uffici e archivi. Il Monte di pietà seguì le vicende delle Congregazione della carità, che passò dal controllo governativo a quello vescovile nel 1815, fino alla concentrazione nella Congregazione di carità (istituita dalla legge dello Stato italiano del 3 agosto 1862, n. 753) in base al R.D. del 19 luglio 1863. Il suo statuto fu approvato il 10 novembre 1864, con R.D. del 26 febbraio 1865 e vidimato dal Ministero dell'interno il 5 marzo 1865. Successivi statuti sono testimoniati nel 1905, approvato con R.D. del 4 gennaio 1906, e nel 1932, approvato con R.D. del 16 giugno 1932. L'attività del Monte di pietà fu sospesa dalla Commissione amministrativa nel 1924, con delibera del 7 febbraio, approvata il 6 marzo dello stesso anno, perché ormai l'istituzione era andata in declino. Nel 1930 fu proposta la devoluzione delle sue rendite all'ospedale Testi di Cotignola (cfr. Biblioteca comunale di Cotignola, Archivio della Congregazione di carità, &lt;em&gt;Carteggio,&lt;/em&gt; &lt;em&gt;Carteggio amministrativo. Titolario "tabella B"&lt;/em&gt;, 1930, 1935, fasc. tit. II, bb. 133, 135).</eac-cpf:biogHist>
+	</eac-cpf:descriptionArea>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001479">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-parent</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001479"/>
+		<dc:date>1808-1859</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001480">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-parent</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001480"/>
+		<dc:date>1859-1924</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:place rdf:about="luoghiSAN/Cotignola_8_417">
+		<rdfs:label>Cotignola</rdfs:label>
+		<dc:title>Cotignola</dc:title>
+		<eac-cpf:placeRole>sede</eac-cpf:placeRole>
+	</eac-cpf:place>
+	<skos:Concept rdf:about="luoghiSAN/Cotignola_8_417">
+		<rdfs:label xml:lang="it">Cotignola</rdfs:label>
+		<skos:prefLabel xml:lang="it">Cotignola</skos:prefLabel>
+		<dc:title xml:lang="it">Cotignola</dc:title>
+	</skos:Concept>
+	<eac-cpf:corporateBody rdf:about="eac-cpf/IT-ER-IBC-SP00001-0001484">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Opera pia orfanotrofio femminile di Cotignola, 1635 - [2008]</rdfs:label>
+		<dc:title>Opera pia orfanotrofio femminile di Cotignola, 1635 - [2008]</dc:title>
+		<dc:date>1635 - [2008]</dc:date>
+		<dcterms:temporal>1635-01-01/2008-12-31</dcterms:temporal>
+		<dc:coverage>Cotignola</dc:coverage>
+		<foaf:name>Opera pia orfanotrofio femminile di Cotignola</foaf:name>
+		<dcterms:provenance rdf:resource="IBCSAN"/>
+		<dcterms:isReferencedBy rdf:resource="http://archivi.ibc.regione.emilia-romagna.it/eac-cpf/IT-ER-IBC-SP00001-0001484"/>
+		<eac-cpf:control rdf:resource="control/IT-ER-IBC-SP00001-0001484"/>
+		<eac-cpf:description rdf:resource="description/IT-ER-IBC-SP00001-0001484"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001486"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001493"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001479"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001480"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001500"/>
+	</eac-cpf:corporateBody>
+	<eac-cpf:controlArea rdf:about="control/IT-ER-IBC-SP00001-0001484">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area del controllo:	Opera pia orfanotrofio femminile di Cotignola</rdfs:label>
+		<eac-cpf:recordID>IT-ER-IBC-SP00001-0001484</eac-cpf:recordID>
+		<eac-cpf:maintenanceStatus>scheda pubblicata</eac-cpf:maintenanceStatus>
+	</eac-cpf:controlArea>
+	<eac-cpf:descriptionArea rdf:about="description/IT-ER-IBC-SP00001-0001484">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area della descrizione: 	Opera pia orfanotrofio femminile di Cotignola</rdfs:label>
+		<eac-cpf:nameEntry rdf:parseType="Resource">
+			<authorizedForm>IBCSAN</authorizedForm>
+			<foaf:name>Opera pia orfanotrofio femminile di Cotignola</foaf:name>
+		</eac-cpf:nameEntry>
+		<eac-cpf:existDates>1635 - [2008]</eac-cpf:existDates>
+		<eac-cpf:hasPlace rdf:resource="luoghiSAN/Cotignola_8_468"/>
+		<eac-cpf:biogHist>Fu istituito nel 1635 con il testamento del sacerdote Gaspare Bolis del 30 agosto 1635, a rogito del notaio Gaspare Biancoli, che lasciò due possessioni per l'erezione di un ospizio nella sua casa, sotto il titolo di S. Orsola, in cui accogliere e mantenere fanciulle povere e orfane di entrambi i genitori della terra di Cotignola. Come amministratore il testatore nominò la Confraternita del SS. Sacramento di Cotignola, che, alla morte del testatore, rese in breve tempo la casa adatta ad accogliere le fanciulle. Il vescovo di Faenza emanò una sorta di statuto dell'opera pia ("Capitoli delle orfane del cardinale Marcello vescovo di Faenza" [1697-1706]): la Compagnia del SS. Sacramento doveva appoggiarsi a una congregazione di uomini, sia religiosi che secolari, denomianti "conservatori" (non meno di 8, eletti annualmente; i "religiosi" erano scelti fra quelli della Compagnia); fra i "conservatori" dovevano essere nominati due "priori", rappresentanti legali dell'orfanotrofio; un "provvediore" aveva in mano la gestione economica dell'istituto (personale, entrate/spese, contabilità, inventari dei beni, ecc.), ed agiva sotto il controllo dei priori e del vescovo; un "depositario", o "deputato", teneva la cassa dell'orfanotrofio, compilando un "libro ... bollato e cartolato dal notaio vescovile..." in cui annotava i denari e le cose che depositate o prelevate, e poteva elargire denaro solo se autorizzato dai "conservatori" o dai "priori", dietro rilascio del mandato; le fanciulle dovevano essere orfane di entrambi i genitori, povere, del territorio di Cotignola, con precedenza per quelle più "a rischio", dovevano avere "buoni costumi" ed essere in buona salute; l'ammissione avveniva dai 7 ai 14 anni e la permanenza fino ai 25 anni; alle fanciulle che si sposavano era fornita una dote.
+Altri testatori che lasciarono beni in favore dell'orfanotrofio femminile furono don Francesco Benini, che lasciò un podere; Bernardino Rota, che lasciò un podere (testamento del 18 dicembre 1763, a rogito del notaio Gian Battista Randi di Cotignola); Giovanna Ducenti, che lasciò tutti i suoi beni (testamento dell'8 aprile 1764 del notaio cotignolese Terenzio Zarabbini, pubblicato il 15 luglio 1772); Caterina Bedeschi, che lasciò un piccolo podere (testamento dell&amp;#x91;8 maggio 1761, del notaio Gian Battista Randi cotignolese, aperto il 18 dicembre 1763); Cecilia Samaritani (testamento del 13 gennaio 1854, del notaio Giovanni Battista Curoli di Faenza, pubblicato il 14 gennaio dello stesso anno); Bulzacca Maria vedova Calderoni (testamento del 23 settembre 1912). I beni della Ducenti furono soggetti a una lite fra Savino Berardi, pretendente all'eredità, e i commissari della Confraternita. Dopo due anni fu deciso che il Berardi avesse diritto a una possessione e all'usufrutto di tutti gli altri beni per tutta la vita; alla sua morte tutti i beni sarebbero poi andati all'orfanotrofio. Alla sua morte il Berardi nominò l'istituto suo erede universale, lasciando l'usufrutto della sola possessione alla moglie.
+L'opera pia fu amministrata dalla Confraternita fino all'istituzione della Congregazione della carità in epoca napoleonica (decreto del 21 dicembre 1807), attiva dal 1° marzo 1808, a cui fu annessa. L'orfanotrofio era gestito da madri pie, provenienti da Coriano, che curavano l'economia interna e l'educazione delle fanciulle, oltre all'istruzione nelle pubbliche scuole per le fanciulle del paese. Altro personale erano una serva, uno "spenditore", un cappellano e un confessore. Nel 1813 la Congregazione acquistò come nuova sede per le orfane il convento del soppresso ordine delle Clarisse, vendendo la vecchia sede. Con la Restaurazione, la Confraternita del SS. Sacramento rivendicò l'amministrazione dell'istituto, ma l'Autorità tutoria diede parere favorevole alla Congregazione di carità, che continuò ad amministrarla, concedendo però a tre confratelli della confraternita di prendere parte alle riunioni della Congregazione limitatamente alle decisioni per le orfane. Questa partecipazione cessò con il passaggio sotto la tutela governativa della congregazione di carità in seguito alla legislazione del Governo provvisorio delle Romagne (decreto del 25 luglio 1859 e "decreto Cipriani" del 19 agosto 1859), del Regno di Sardegna (legge del 20 novembre 1859 e regolamento del 18 agosto 1860) e, in seguito, dello Stato italiano (legge del 3 agosto 1862, n. 753). Queste modifiche a livello istituzionale non dovettero incidere molto nella pratica della gestione amministrativa dell' opera pia che, in realtà, rimase sempre sottoposta al controllo amministrativo di una congregazione. L'orfanotrofio fu concentrato sotto la Congregazione di carità istituita nel 1862 con il regio decreto del 19 luglio 1863 e regolamentato con regio decreto del 1865: l'orfanotrofio doveva "ricoverare, mantenere, istruire ed educare le orfane di entrambi i genitori della terra di Cotignola, e dotarle qualora vadano a marito"; l'ammissione era dai 7 ai 14 anni e la dimissione ai 20 anni; il frutto del lavoro rimanerva per 1/3 alle orfane. Nel "Regolamento" del 1868, che riprendeva in buona parte i "Capitoli" vescovili del [1697-1706], si legge che il numero delle orfane ammesse dipendeva dalle risorse delle rendite ed era compreso fra le 15 e le 20 e che la gestione dell'istituto era affidato a una direttrice (acquisti, istruzione, dispensa, tenuta dei registri). Pochi anni dopo fu stilato un capitolato [1872] fra la Congregazione di carità e le Madri pie di Coriano per il mantenimento di due consorelle a cui era affidata l'istruzione (insegnamento religione e lavori donneschi) delle orfane dell'orfanotrofio e delle fanciulle di Cotignola nella scuola pubblica funzionante nell'istituto. La scuola doveva essere per almeno 40 fanciulle, divise in due classi ("delle civili" e "delle povere"). La Congregazione pagava una somma alla casa centrale delle monache di Coriano e per la visita annuale della Madre superiora; inoltre, la Congregazione si sarebbe occupata anche della corresponsione di una retta per mantenere le madri pie che, dopo almeno 15 anni di servizio, fossero divenute inabili al lavoro. 
+L'opera pia seguì negli anni successivi le vicende normative della Congregazione di carità, in particolare con la legge del 17 lug. 1890, n. 6972, divenne un'istituzione di pubblica assistenza e beneficenza. Fu regolamentata con il regolamento del 16 luglio 1890, approvato dal regio commissario, che ricalcava quello dell'orfanotrofio maschile: le fanciulle dovevano essere orfane di entrambi o uno solo dei genitori, con precedenza per le fanciulle orfane di entrambi e più miserabili; erano mantenute fino all'età di 20 anni; come impegati erano previste una direttrice, una maestra (nel caso in cui le orfane non frequantasseroo le scuole pubbliche comunali, ormai esterne all'orfanotrofio), un cappellano, un servizio di cucina. Lo statuto organico che fu deliberato il 6 novembre 1911, modificato l'11 luglio 1913 e poi approvato con delibera del 13 febbraio 1914 (approvato dal Ministero dell'interno il 29 marzo 1914), stabiliva che le orfane dovevano esserlo di entrambi i genitori, eccezionalmente di uno solo, con i genitori residenti a Cotignola da almeno 5 anni; le orfane non povere o di altri comuni potevano essere accolte solo se c'erano posti disponibili e dietro pagamento di una retta; l'ammissione avveniva dai 6 ai 12 anni; le fanciulle dovevano essere in buona salute e non potevano essere ammesse contemporaneamente due sorelle, salvo casi eccezionali; erano dimesse a 17 anni e riconsegnate al parente più prossimo o a un tutore; il sussidio dotale di 100 lire era elargito una sola volta e non oltre i 25 anni.
+Nel 1927 il Commissario straordinario della congregazione, di nomina prefettizia, deliberò che le orfane fossero trasferite presso la struttura "Emiliani" di Fognano, a causa di problemi economici, con la quale fu stipulata una convenzione (cfr. Biblioteca comunale di Cotignola, Archivio della Congregazione di carità di Cotignola, &lt;em&gt;Carteggio&lt;/em&gt;, &lt;em&gt;Carteggio amministrativo. Titolario "tabella B"&lt;/em&gt;, 1927, tit. IV, b. 131). Tale trasferimento era ancora attivo nel 1938.
+In seguito alla legge del 3 giugno 1937, n. 847, istitutiva di un ente comunale di assistenza (E.C.A.) in ogni comune e anche a Cotignola, l'orfanotrofio femminile fu decentrato in amministrazione autonoma con tutte le altre istituzioni pubbliche di assistenza e beneficenza (II.PP.AA.BB.) di Cotignola che avevano "... fini diversi dall'assistenza generica, immediata e temporanea, come ospedali, ricoveri di vecchi ed inabili, orfanotrofi, ecc." (art. 8), andando a costituire le Opere pie raggruppate (OO.PP.RR.) di Cotignola insieme all'orfanotrofio maschile, all'ospedale Testi e all'opera pia Zarabbini, in base al regio decreto legge del 16 giugno 1938, n. 1168.
+Nel censimento condotto dall'Istituto dei beni culturali della Regione Emilia-Romagna nel 1980 l'istituto non risultava attivo.
+Il Consiglio comunale di Cotignola con le delibere del 9 ottobre 1980, n. 294, e del 29 luglio 1981, nn. 225-226, espresse un parere sull'assoggettabilità a liquidazione di tutte le opere pie di Cotignola, sia quelle che definite "ex E.C.A." che quelle "ex OO.PP.RR.", decretando che tutte fossero assoggettate a liquidazione, in attuazione del D.P.R. del 24 luglio 1977, n. 616, e ai sensi dell'art. 5, comma 1 della legge regionale dell'8 aprile 1980, n. 25. Da questa liquidazione furono escluse le opere pie orfanotrofio femminile, Tarlazzi (casa di riposo) e Zarabbini. 
+L'opera pia orfanotrofio femminile fu una di quelle fuse nell'Azienda pubblica di Servizi alla Persona (A.S.P.) dei Comuni della Bassa Romagna, nata a Bagnacavallo il 1° febbraio 2008 dalla trasformazione e fusione delle 8 istituzioni pubbliche di assistenza e beneficenza (II.PP.AA.BB.) del territorio di Lugo, in base alla legge regionale del 12 marzo 2003, n. 2, fra cui anche l'istituto riunito di assistenza Tarlazzi-Zarabbini di Cotignola. Le istituzioni fuse nell'A.S.P. di Lugo erano tutti enti attivi nell'ambito assistenziale, sociale e socio-sanitario, nei confronti di anziani, disabili e minori.</eac-cpf:biogHist>
+	</eac-cpf:descriptionArea>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001486">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">associative</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001486"/>
+		<dc:date>2008</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001493">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">associative</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001493"/>
+		<dc:date>2008</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001479">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-parent</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001479"/>
+		<dc:date>1808-1859</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001480">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-parent</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001480"/>
+		<dc:date>1859-1937</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001500">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-parent</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001500"/>
+		<dc:date>1938-1978</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:place rdf:about="luoghiSAN/Cotignola_8_468">
+		<rdfs:label>Cotignola</rdfs:label>
+		<dc:title>Cotignola</dc:title>
+		<eac-cpf:placeRole>sede</eac-cpf:placeRole>
+	</eac-cpf:place>
+	<skos:Concept rdf:about="luoghiSAN/Cotignola_8_468">
+		<rdfs:label xml:lang="it">Cotignola</rdfs:label>
+		<skos:prefLabel xml:lang="it">Cotignola</skos:prefLabel>
+		<dc:title xml:lang="it">Cotignola</dc:title>
+	</skos:Concept>
+	<eac-cpf:corporateBody rdf:about="eac-cpf/IT-ER-IBC-SP00001-0001485">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Opera pia orfanotrofio maschile di Cotignola, 1686 - 1983</rdfs:label>
+		<dc:title>Opera pia orfanotrofio maschile di Cotignola, 1686 - 1983</dc:title>
+		<dc:date>1686 - 1983</dc:date>
+		<dcterms:temporal>1686-01-01/1983-12-31</dcterms:temporal>
+		<dc:coverage>Cotignola</dc:coverage>
+		<foaf:name>Opera pia orfanotrofio maschile di Cotignola</foaf:name>
+		<dcterms:provenance rdf:resource="IBCSAN"/>
+		<dcterms:isReferencedBy rdf:resource="http://archivi.ibc.regione.emilia-romagna.it/eac-cpf/IT-ER-IBC-SP00001-0001485"/>
+		<eac-cpf:control rdf:resource="control/IT-ER-IBC-SP00001-0001485"/>
+		<eac-cpf:description rdf:resource="description/IT-ER-IBC-SP00001-0001485"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001479"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001480"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001500"/>
+	</eac-cpf:corporateBody>
+	<eac-cpf:controlArea rdf:about="control/IT-ER-IBC-SP00001-0001485">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area del controllo:	Opera pia orfanotrofio maschile di Cotignola</rdfs:label>
+		<eac-cpf:recordID>IT-ER-IBC-SP00001-0001485</eac-cpf:recordID>
+		<eac-cpf:maintenanceStatus>scheda pubblicata</eac-cpf:maintenanceStatus>
+	</eac-cpf:controlArea>
+	<eac-cpf:descriptionArea rdf:about="description/IT-ER-IBC-SP00001-0001485">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area della descrizione: 	Opera pia orfanotrofio maschile di Cotignola</rdfs:label>
+		<eac-cpf:nameEntry rdf:parseType="Resource">
+			<authorizedForm>IBCSAN</authorizedForm>
+			<foaf:name>Opera pia orfanotrofio maschile di Cotignola</foaf:name>
+		</eac-cpf:nameEntry>
+		<eac-cpf:existDates>1686 - 1983</eac-cpf:existDates>
+		<eac-cpf:hasPlace rdf:resource="luoghiSAN/Cotignola_8_534"/>
+		<eac-cpf:biogHist>Fu istituito nel 1686 con il testamento del canonico Tommaso Grandi del 7 giugno 1686, a rogito del notaio Antonio Cesti di Cotignola, che lasciò una possessione, un podere, un capitale di beni e la sua casa in cui dare sede all'ospizio per accogliere i giovani maschi orfani di entrambi i genitori della terra di Cotignola. Come amministratrice fu chiamata dal testatore la Confraternita della concezione, che in pochi anni sistemò la casa per accogliere gli orfani. Altri benefattori furono il sacerdote Giuseppe Randi, che lasciò un podere (testamento del 6 aprile 1716, a rogito del notaio Carlo Pignattini di Faenza); Ricci Domenico, testamento del 7 settembre 1867 a rogito del notaio Lorenzo Rossi di Lugo; don Antonio Testi, con testamento del 1721 a rogito del notaio Girolamo Saverio Azzaroli di Lugo; Margherita Randi, vedova di Domenico Randi, che lasciò la sua intera eredità (testamento del 28 maggio 1883, accettata nel 1887; cfr. Biblioteca comunale di Cotignola, Archivio della Congregazione di carità di Cotignola, &lt;em&gt;Carteggio,&lt;/em&gt; &lt;em&gt;Carteggio amministrativo. Titolario "tabella B"&lt;/em&gt;, 1887, tit. III, rub. 1, b. 100). L'istituto era condotto da un rettore, che era anche l'economo interno, ed era gestito da una famiglia che si occupava dei servizi. Nel "Capitolato del rettore" ([1862], copia di quello del primo settembre 1857) si legge che "... al rettore era affidata l'educazione religiosa e morale, l'istruzione scolastica e a un mestiere degli orfani ...".
+Il 1° marzo 1808 l'orfanotrofio fu concentrato sotto l'amministrazione della locale Congregazione di carità d'istituzione napoleonica (decreto reale del 21 dicembre 1807). Nel 1815 passò sotto la tutela vescovile diocesana, con la Restaurazione, sotto la quale rimase fino al 1859, quando in seguito alla legislazione del Governo provvisorio delle Romagne (decreti del 25 luglio e del 19 agosto 1859) e del Regno di Sardegna (legge del 20 novembre 1859 e regolamento del 18 agosto 1860), fu restaurata la tutela governativa. Fu poi annesso alla Congregazione di carità dello Stato italiano (istituita con la legge del 3 agosto 1862, n. 753) con regio decreto del 19 luglio 1863. Lo statuto organico dell'orfanotrofio fu deliberato dalla Congregazione il 9 novembre 1864 e sancito dal re con dercreto del 7 marzo 1865. Nello Statuto si legge che: scopo dell'istituto era di ospitare, accudire ed istruire orfani maschi di entrambi i genitori, i quali genitori dovevano aver abitato in Cotignola per almeno 10 anni; gli orfani erano ammessi dai 6 ai 14 anni e dimessi ai 20 anni; il prodotto dei lavori degli orfani restava a loro per metà. Nel 1872, in base al R.D. del 17 marzo 1872, che teneva in conto delle deliberazioni della Congregazione di carità di Cotignola del 22 maggio 1871, del consiglio comunale di Cotignola del 23 ottobre 1871 e del parere favorevole del Consiglio di stato del 27 febbraio 1872, i cinque orfani ospitati presso l'orfanotrofio furono trasferiti presso l'orfanotrofio maschile di Faenza per insufficienza di risorse, e lì mantenuti con le rendite del legato del fondatore (cfr. Biblioteca comunale di Cotignola, Archivio della Congregazione di carità di Cotignola, &lt;em&gt;Carteggio,&lt;/em&gt; &lt;em&gt;Carteggio amministrativo, Titolario "tabella B"&lt;/em&gt;, 1871-1872, tit. III, rub. 1, bb. 91-92).
+Il pio istituto subì le stesse vicende normative della Congregazione di carità che l'amministrava, in particolare divenendo istituzione di pubblica assistenza e beneficenza in base alla legge del 17 luglio 1890, n. 6972. Poco dopo fu emanato un nuovo regolamento dell'istituto (16-17 luglio 1890), seconda stesura di quello approvato dalla Congregazione il 28 dicembre del 1868, ma non dal regio commissario. Le principali modifche rispetto allo statuto del 1864-1865 riguardarono la possibilità d'ammissione di orfani anche solo di uno dei due genitori, con precedenza però per gli orfani di entrambi e per i più miserabili; un orfano caginevole di salute non poteva essere ammesso, ma si passava una piccola sovvenzione a una famiglia di parenti disposta ad accoglierlo; come impiegati erano previsti un direttore, un maestro, un inserviente e un direttore spirituale.
+In seguito alla legge del 3 giugno 1937, n. 847, istitutiva di un ente comunale di assistenza (E.C.A.) in ogni comune e anche a Cotignola, l'orfanotrofio maschile fu decentrato in amministrazione autonoma con tutte le altre istituzioni pubbliche di assistenza e beneficenza (II.PP.AA.BB.) di Cotignola che avevano "... fini diversi dall'assistenza generica, immediata e temporanea, come ospedali, ricoveri di vecchi ed inabili, orfanotrofi, ecc." (art. 8), andando a costituire le Opere pie raggruppate (OO.PP.RR.) di Cotignola insieme all'orfanotrofio femminile, all'ospedale Testi e all'opera pia Zarabbini, in base al regio decreto legge del 16 giugno 1938, n. 1168.
+Nel censimento condotto dall'Istituto dei beni culturali della Regione Emilia-Romagna nel 1980 l'istituto non risultava attivo.
+Il consiglio comunale di Cotignola con le delibere del 9 ottobre 1980, n. 294, e del 29 luglio 1981, nn. 225-226, espresse un parere sull'assoggettabilità a liquidazione di tutte le opere pie di Cotignola, sia quelle che definite "ex ECA" che quelle "ex OO.PP.RR.", di quest'ultime faceva parte anche l'orfanotrofio maschile, decretando che tutte fossero assoggettate a liquidazione, in attuazione del D.P.R. del 24 luglio 1977, n. 616, e ai sensi dell'art. 5, comma 1 della legge regionale dell'8 aprile 1980, n. 25. L'opera pia fu soppressa nel 1983 con decreto del presidente della Regione Emilia-Romagna e tutto il suo patrimonio passò al Comune di Cotignola ("beni, rapporti giuridici, carteggi e documenti"); infatti, il consiglio comunale di Cotignola ne approvò il consuntivo del 1983 con le delibere nn. 344-347 del 5 ottobre 1984. Nel 1985 il consiglio comunale di Cotignola stabilì che gli avanzi d'amministrazione dell'opera pia fossero utilizzati come contributo per la casa di riposo di Cotignola, opera pia Tarlazzi (delibera del 31 gennaio, n. 18).</eac-cpf:biogHist>
+	</eac-cpf:descriptionArea>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001479">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-parent</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001479"/>
+		<dc:date>1808-1859</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001480">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-parent</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001480"/>
+		<dc:date>1859-1937</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001500">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-parent</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001500"/>
+		<dc:date>1938-1978</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:place rdf:about="luoghiSAN/Cotignola_8_534">
+		<rdfs:label>Cotignola</rdfs:label>
+		<dc:title>Cotignola</dc:title>
+		<eac-cpf:placeRole>sede</eac-cpf:placeRole>
+	</eac-cpf:place>
+	<skos:Concept rdf:about="luoghiSAN/Cotignola_8_534">
+		<rdfs:label xml:lang="it">Cotignola</rdfs:label>
+		<skos:prefLabel xml:lang="it">Cotignola</skos:prefLabel>
+		<dc:title xml:lang="it">Cotignola</dc:title>
+	</skos:Concept>
+	<eac-cpf:corporateBody rdf:about="eac-cpf/IT-ER-IBC-SP00001-0001486">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Opera pia Zarabbini di Cotignola, 1779 - 1989</rdfs:label>
+		<dc:title>Opera pia Zarabbini di Cotignola, 1779 - 1989</dc:title>
+		<dc:date>1779 - 1989</dc:date>
+		<dcterms:temporal>1779-01-01/1989-12-31</dcterms:temporal>
+		<dc:coverage>Cotignola</dc:coverage>
+		<foaf:name>Opera pia Zarabbini di Cotignola</foaf:name>
+		<dcterms:provenance rdf:resource="IBCSAN"/>
+		<dcterms:isReferencedBy rdf:resource="http://archivi.ibc.regione.emilia-romagna.it/eac-cpf/IT-ER-IBC-SP00001-0001486"/>
+		<eac-cpf:control rdf:resource="control/IT-ER-IBC-SP00001-0001486"/>
+		<eac-cpf:description rdf:resource="description/IT-ER-IBC-SP00001-0001486"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001493"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001493"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001484"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001479"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001480"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001500"/>
+	</eac-cpf:corporateBody>
+	<eac-cpf:controlArea rdf:about="control/IT-ER-IBC-SP00001-0001486">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area del controllo:	Opera pia Zarabbini di Cotignola</rdfs:label>
+		<eac-cpf:recordID>IT-ER-IBC-SP00001-0001486</eac-cpf:recordID>
+		<eac-cpf:maintenanceStatus>scheda pubblicata</eac-cpf:maintenanceStatus>
+	</eac-cpf:controlArea>
+	<eac-cpf:descriptionArea rdf:about="description/IT-ER-IBC-SP00001-0001486">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area della descrizione: 	Opera pia Zarabbini di Cotignola</rdfs:label>
+		<eac-cpf:nameEntry rdf:parseType="Resource">
+			<authorizedForm>IBCSAN</authorizedForm>
+			<foaf:name>Opera pia Zarabbini di Cotignola</foaf:name>
+		</eac-cpf:nameEntry>
+		<eac-cpf:existDates>1779 - 1989</eac-cpf:existDates>
+		<eac-cpf:hasPlace rdf:resource="luoghiSAN/Cotignola_8_590"/>
+		<eac-cpf:biogHist>Fu istituito nel 1779 con il testamento del sacerdote Giuseppe Zarabbini del 18 ottobre 1778, consegnato al notaio Cristoforo Cassano di Cotignola il 26 aprile 1779, che lasciò un cumulo di 4000 scudi romani per acquistare una possessione, la cui rendita, dopo aver pagato le spese di tasse, amministrazione, sarebbe stata distribuita in sussidi trimestrali ai poveri di Cotignola che avevano compiuto i 70 anni, ormai inabili a guadagnarsi da vivere, "cioè contadini ed artisti". L'elemosina trimestrale era distribuita ai vecchi divisi in due categorie, gli "impotenti fisicamente" e gli "impotenti moralmente", così come stabilito dal Vescovo di Faenza il 22 febbraio 1794, dove i primi prendevano un sussidio quasi doppio dei secondi. Gli amministratori furono inizialmente due esecutori testamentari.
+L'istituto Zarabbini fu annesso alla Congregazione della carità napoleonica (istituita con decreto del 21 dicembre 1807), attiva a Cotignola dal 1° marzo 1808, e sotto di essa rimase anche dopo la Restaurazione, quando la congregazione continuò a esistere e opereare, anche se passò dal controllo governativo a quello del vescovo di Faenza. La legislazione successiva modificò lo status istituzionale della Congregazione di carità di Cotignola che, seguendo le vicende politiche del territorio, passò in pochi mesi da istituzione dipendente dal controllo vescovile nello Stato pontificio, a istituzione governativa, prima normata sotto il Governo provvisorio delle Romagne (decreti del 25 luglio e 19 agosto del 1859) e il Regno di Sardegna (legge del 20 novembre 1859 e regolamento del 18 agosto 1860) e, in seguito, sotto lo Stato italiano (legge del 3 agosto 1862, n. 753). Queste modifiche a livello istituzionale non dovettero incidere molto nella pratica della gestione amministrativa dell'opera pia che, in realtà, rimase sempre sottoposta al controllo amministrativo di una congregazione. Fu concentrata sotto la Congregazione di carità con R.D. del 19 luglio 1863. L'opera pia seguì negli anni successivi le vicende normative della congregazione, in particolare con la legge del 17 luglio 1890, n. 6972, divenne un'istituzione di pubblica assistenza e beneficenza.
+Nel 1932 fu approvato un nuovo statuto in cui risultava modificato l'art. 1, rispetto al precedente del 1865: la Commissione della congregazione di carità aveva deciso di assegnare le rendite dell'opera pia Zarabbini, il cui fine non corrispondeva più all'interesse di pubblica beneficenza, all'ospizio incurabili Tarlazzi di Cotignola, ai sensi dell'art. 70 della legge del 17 luglio 1890 (cfr. Biblioteca comunale di Cotignola, Archivio della Congregazione di carità di Cotignola, &lt;em&gt;Carteggio,&lt;/em&gt; &lt;em&gt;Carteggio amministrativo. Titolario "tabella B"&lt;/em&gt;, 1932, tit. V, rub. 1, b. 136).
+In seguito alla legge del 3 giugno 1937, n. 847, istitutiva di un ente comunale di assistenza (E.C.A.) in ogni comune e anche a Cotignola, l'opera pia Zarabbini fu decentrata in amministrazione autonoma con tutte le altre istituzioni pubbliche di assistenza e beneficenza (II.PP.AA.BB.) di Cotignola che avevano "... fini diversi dall'assistenza generica, immediata e temporanea, come ospedali, ricoveri di vecchi ed inabili, orfanotrofi, ecc." (art. 8), andando a costituire le Opere pie raggruppate (OO.PP.RR.) di Cotignola insieme agli orfanotrofi maschile e femminile e all'ospedale Testi, in base al regio decreto legge del 16 giugno 1938, n. 1168.
+Nel censimento condotto dall'Istituto dei beni culturali della Regione Emilia-Romagna nel 1980 l'istituto risultava attivo nell'assistenza economica ai bisognosi.
+Il consiglio comunale di Cotignola con le delibere del 9 ottobre 1980, n. 294, e del 29 luglio 1981, nn. 225-226, espresse un parere sull'assoggettabilità a liquidazione di tutte le opere pie di Cotignola, sia quelle che definite "ex E.C.A." che quelle "ex OO.PP.RR.", decretando che tutte fossero assoggettate a liquidazione, in attuazione del D.P.R. del 24 luglio 1977, n. 616, e ai sensi dell'art. 5, comma 1 della legge regionale dell'8 aprile 1980, n. 25. Da questa liquidazione furono escluse le opere pie orfanotrofio femminile, Tarlazzi (casa di riposo) e Zarabbini. Nel 1989 sempre il consiglio comunale di Cotignola deliberò sulla proposta di fusione fra l'opera pia Tarlazzi e l'opera pia Zarabbini, per cui fu adottato un nuovo statuto (delibera n. 203 del 7 luglio 1989).
+L'istituto riunito di assistenza Tarlazzi-Zarabbini fu uno di quelli fusi nell'Azienda pubblica di Servizi alla Persona (ASP) dei Comuni della Bassa Romagna, nata a Bagnacavallo il 1° febbraio 2008 dalla trasformazione e fusione delle 8 istituzioni pubbliche di assistenza e beneficenza (II.PP.AA.BB.) del territorio di Lugo, in base alla legge regionale del 12 marzo 2003, n. 2, fra cui anche l'opera pia orfanotrofio femminile di Cotignola. Le istituzioni fuse nell'A.S.P. di Lugo erano tutti enti attivi nell'ambito assistenziale, sociale e socio-sanitario, nei confronti di anziani, disabili e minori.</eac-cpf:biogHist>
+	</eac-cpf:descriptionArea>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001493">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">associative</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001493"/>
+		<dc:date>1989</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001493">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">associative</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001493"/>
+		<dc:date>2008</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001484">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">associative</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001484"/>
+		<dc:date>2008</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001479">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-parent</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001479"/>
+		<dc:date>1808-1859</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001480">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-parent</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001480"/>
+		<dc:date>1859-1937</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001500">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-parent</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001500"/>
+		<dc:date>1938-1978</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:place rdf:about="luoghiSAN/Cotignola_8_590">
+		<rdfs:label>Cotignola</rdfs:label>
+		<dc:title>Cotignola</dc:title>
+		<eac-cpf:placeRole>sede</eac-cpf:placeRole>
+	</eac-cpf:place>
+	<skos:Concept rdf:about="luoghiSAN/Cotignola_8_590">
+		<rdfs:label xml:lang="it">Cotignola</rdfs:label>
+		<skos:prefLabel xml:lang="it">Cotignola</skos:prefLabel>
+		<dc:title xml:lang="it">Cotignola</dc:title>
+	</skos:Concept>
+	<eac-cpf:corporateBody rdf:about="eac-cpf/IT-ER-IBC-SP00001-0001487">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Opera pia Ospedale Testi di Cotignola, 1749 - 1976</rdfs:label>
+		<dc:title>Opera pia Ospedale Testi di Cotignola, 1749 - 1976</dc:title>
+		<dc:date>1749 - 1976</dc:date>
+		<dcterms:temporal>1749-01-01/1976-12-31</dcterms:temporal>
+		<dc:coverage>Cotignola</dc:coverage>
+		<foaf:name>Opera pia Ospedale Testi di Cotignola</foaf:name>
+		<dcterms:provenance rdf:resource="IBCSAN"/>
+		<dcterms:isReferencedBy rdf:resource="http://archivi.ibc.regione.emilia-romagna.it/eac-cpf/IT-ER-IBC-SP00001-0001487"/>
+		<eac-cpf:control rdf:resource="control/IT-ER-IBC-SP00001-0001487"/>
+		<eac-cpf:description rdf:resource="description/IT-ER-IBC-SP00001-0001487"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001488"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001489"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001481"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001479"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001480"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001500"/>
+	</eac-cpf:corporateBody>
+	<eac-cpf:controlArea rdf:about="control/IT-ER-IBC-SP00001-0001487">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area del controllo:	Opera pia Ospedale Testi di Cotignola</rdfs:label>
+		<eac-cpf:recordID>IT-ER-IBC-SP00001-0001487</eac-cpf:recordID>
+		<eac-cpf:maintenanceStatus>scheda pubblicata</eac-cpf:maintenanceStatus>
+	</eac-cpf:controlArea>
+	<eac-cpf:descriptionArea rdf:about="description/IT-ER-IBC-SP00001-0001487">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area della descrizione: 	Opera pia Ospedale Testi di Cotignola</rdfs:label>
+		<eac-cpf:nameEntry rdf:parseType="Resource">
+			<authorizedForm>IBCSAN</authorizedForm>
+			<foaf:name>Opera pia Ospedale Testi di Cotignola</foaf:name>
+		</eac-cpf:nameEntry>
+		<eac-cpf:existDates>1749 - 1976</eac-cpf:existDates>
+		<eac-cpf:hasPlace rdf:resource="luoghiSAN/Cotignola_8_661"/>
+		<eac-cpf:biogHist>Fu istituito con testamento dell'abate Pietro Leopoldo Testi del 13 giugno 1749, a rogito del notaio Lodovico Valvassori di Lugo, e codicillo del 26 febbraio 1752, a rogito del notaio Filippo Grossi di Faenza, nel quale il testatore previde di formare un cumulo di 24000 scudi da dividere in tre parti, per far fronte a tre ambiti di beneficenza: la fondazione di un ospedale per infermi, a scopo di ricovero e cura dei poveri di Cotignola e della limitrofa parrocchia di S. Severo, e delle parrocchie vicine, da erigersi di fronte all'orfanotrofio femminile e da intitolare a S. Antonio da Padova e a S. Liborio vescovo (aperto nel 1766); il mantenimento di alcuni giovani agli studi; la corresponsione di aiuti ai carcerati e doti a zitelle di Cotignola. Come amministratore dell'ospedale, che aveva l'onere di amministrare le altre opere pie (carcerati e doti, studi), il testatore prepose una congregazione, che volle nominare "leopoldina&amp;quot;, e come presidente fu nominato il rettore dei gesuiti di Cotignola, affiancato da due discendenti della famiglia Testi e da 5 membri di altri corpi morali di Cotignola, fra cui il Priore della comunità, un canonico di S. Stefano, il Guardiano dei frati Minori, i priori della Compagnia del Sacramento e della Compagnia di S. Giuseppe.
+La Congregazione leopoldina amministrò l'ospedale e le altre opere pie Testi fino all'istituzione della Congregazione della carità sotto il Regno d'Italia (decreto del 21 dicembre 1807), attiva dal primo marzo 1808, a cui furono riuniti e concentrati il 19 aprile 1809 (con decreto &amp;quot;partecipato&amp;quot; alla congregazione dal dispaccio del Prefetto del Dipartimento del Reno, n. 7329, e per il decreto vice prefettizio n.1360), sebbene gli eredi Testi si opponessero ritenendo le opere pie di loro diritto patronale. Il Ministero dell'interno del Regno italico definì non attendibili le pretese dei Testi.
+La Congregazione di carità amministrò l'ospedale e le altre opere pie fino al 1821, quando nel 1822 gli eredi Testi riuscirono a ottenere pressp il vescovo di Faenza la ricostituzione della Congregazione leopoldina e di poter concentrare sotto di essa le opere pie Testi.
+L'ospedale, insieme alle altre opere pie Testi, passò poi sotto la Congregazione di carità normata dal Governo provvisorio delle Romagne (decreto del 25 luglio 1859 e &amp;quot;decreto Cipriani&amp;quot; del 19 agosto 1859) e dal Regno di Sardegna (legge del 20 novembre 1859 e regolamento del 18 agosto 1860) e, in seguito, sotto la Congregazione istituita dallo Stato italiano (legge del 3 agosto 1862, n. 753) con regio decreto del 6 aprile 1865, n. 808. Il 5 maggio 1868 fu approvato uno statuto, in cui si prevedeva che l'ospedale mantenesse a cura completa i malati di malattie acute e poveri delle parrocchie di Cotignola e S. Severo; che potesse essere aperto anche ad ammalati di altri comuni, fra cui Barbiano e Budrio, che non avessero trovato posto nell'ospedale di Lugo; che fosse intitolato a sant'Antonio da Padova e san Liborio vescovo. In uno statuto del 25 novembre 1872, approvato pochi anni dopo (R.D. Del 30 gennaio 1873), del tutto simile al precedente, si legge che come impiegati dell'ospedale erano previsti un direttore o economo, un cappellano, un medico, un chirurgo, un infermiere per gli uomini, un'infermiera per le donne, un cuoco.
+L'opera pia seguì negli anni successivi le vicende normative della Congregazione di carità, in particolare in base alla legge del 17 luglio 1890, n. 6972, fu annoverata fra le istituzioni di pubblica assistenza e beneficenza. Un regolamento interno dell'ospedale fu stilato il 10 luglio 1890, con regole sull'ammissione degli ammalati, sul personale, sul servizio sanitario, sui decessi.
+In seguito alla legge del 3 giugno 1937, n. 847, istitutiva di un ente comunale di assistenza (E.C.A.) in ogni comune e così a Cotignola, l'ospedale Testi fu decentrato in amministrazione autonoma con tutte le altre istituzioni pubbliche di assistenza e beneficenza (II.PP.AA.BB.) di Cotignola che avevano &amp;quot;... fini diversi dall'assistenza generica, immediata e temporanea, come ospedali, ricoveri di vecchi ed inabili, orfanotrofi, ecc.&amp;quot; (art. 8), andando a costituire le Opere pie raggruppate (OO.PP.RR.) di Cotignola insieme agli orfanotrofi maschile e femminile e all'opera pia Zarabbini, in base al regio decreto legge del 16 giugno 1938, n. 1168. Pochi mesi dopo, con regio decreto del 30 settembre 1938, n. 1631 (in altre fonti, la data riportata è il 21 gennaio 1939), l'ospedale fu classificato &amp;quot;infermeria&amp;quot; dalla Prefettura. Nel 1940 risulta che l'ospedale di Cotignola ammettesse anche invalidi provenienti da ospedali militari.
+Nel 1968, con la legge del 12 febbraio, n. 132 (&amp;quot;legge Mariotti") gli ospedali che erano ancora affidati a enti di assistenza e beneficenza furono trasfromati in enti ospedalieri, ovvero in enti di diritto pubblico. L'ospedale Testi, però, che fu confermato come infermeria dalla delibera della Giunta regionale dell'Emilia-Romagna del 22 ottobre 1971, n. 330, divenne ente ospedaliero solamente nel 1972, con decreto del Presidente della Giunta regionale del 31 gennaio 1972, n. 1. Nella pratica continuò a essere amministrato con le altre opere pie di Cotignola fino al maggio del 1976, quando fu fuso insieme agli ospedali di Alfonsine, Bagnacavallo, Conselice, Fusignano, Lugo e Massalombarda nell'Ente ospedaliero del comprensorio di Lugo (legge della Regione Emilia-Romagna del 23 gennaio 1976, n. 4). Successivamente, in seguito all'istituzione del Sistema sanitario nazionale (SSN) (legge del 23 dicembre 1978, n. 833) e delle unità sanitarie locali (UU.SS.LL.), l'ospedale fu assimilato all'U.S.L. n. 36 di Lugo. Fu chiuso nel 1985-1986 e l'attività trasferita a Fusignano: già il 5 marzo 1986 il Consiglio comunale di Cotignola deliberava per la sistemazione dell'ex padiglione dell'ospedale.</eac-cpf:biogHist>
+	</eac-cpf:descriptionArea>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001488">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">associative</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001488"/>
+		<dc:date>1749-1938</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001489">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">associative</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001489"/>
+		<dc:date>1749-1938</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001481">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-parent</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001481"/>
+		<dc:date>1749-1809; 1822-1860</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001479">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-parent</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001479"/>
+		<dc:date>1809-1821</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001480">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-parent</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001480"/>
+		<dc:date>1860-1937</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001500">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-parent</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001500"/>
+		<dc:date>1938-1976</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:place rdf:about="luoghiSAN/Cotignola_8_661">
+		<rdfs:label>Cotignola</rdfs:label>
+		<dc:title>Cotignola</dc:title>
+		<eac-cpf:placeRole>sede</eac-cpf:placeRole>
+	</eac-cpf:place>
+	<skos:Concept rdf:about="luoghiSAN/Cotignola_8_661">
+		<rdfs:label xml:lang="it">Cotignola</rdfs:label>
+		<skos:prefLabel xml:lang="it">Cotignola</skos:prefLabel>
+		<dc:title xml:lang="it">Cotignola</dc:title>
+	</skos:Concept>
+	<eac-cpf:corporateBody rdf:about="eac-cpf/IT-ER-IBC-SP00001-0001488">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Opera pia studi Testi di Cotignola, 1749 - 1983</rdfs:label>
+		<dc:title>Opera pia studi Testi di Cotignola, 1749 - 1983</dc:title>
+		<dc:date>1749 - 1983</dc:date>
+		<dcterms:temporal>1749-01-01/1983-12-31</dcterms:temporal>
+		<dc:coverage>Cotignola</dc:coverage>
+		<foaf:name>Opera pia studi Testi di Cotignola</foaf:name>
+		<dcterms:provenance rdf:resource="IBCSAN"/>
+		<dcterms:isReferencedBy rdf:resource="http://archivi.ibc.regione.emilia-romagna.it/eac-cpf/IT-ER-IBC-SP00001-0001488"/>
+		<eac-cpf:control rdf:resource="control/IT-ER-IBC-SP00001-0001488"/>
+		<eac-cpf:description rdf:resource="description/IT-ER-IBC-SP00001-0001488"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001487"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001489"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001481"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001479"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001480"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001499"/>
+	</eac-cpf:corporateBody>
+	<eac-cpf:controlArea rdf:about="control/IT-ER-IBC-SP00001-0001488">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area del controllo:	Opera pia studi Testi di Cotignola</rdfs:label>
+		<eac-cpf:recordID>IT-ER-IBC-SP00001-0001488</eac-cpf:recordID>
+		<eac-cpf:maintenanceStatus>scheda pubblicata</eac-cpf:maintenanceStatus>
+	</eac-cpf:controlArea>
+	<eac-cpf:descriptionArea rdf:about="description/IT-ER-IBC-SP00001-0001488">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area della descrizione: 	Opera pia studi Testi di Cotignola</rdfs:label>
+		<eac-cpf:nameEntry rdf:parseType="Resource">
+			<authorizedForm>IBCSAN</authorizedForm>
+			<foaf:name>Opera pia studi Testi di Cotignola</foaf:name>
+		</eac-cpf:nameEntry>
+		<eac-cpf:existDates>1749 - 1983</eac-cpf:existDates>
+		<eac-cpf:hasPlace rdf:resource="luoghiSAN/Cotignola_8_732"/>
+		<eac-cpf:biogHist>Fu istituita con testamento dell'abate Leopoldo Testi del 13 giugno 1749, a rogito del notaio Lodovico Valvassori di Lugo, e codicillo del 26 febbraio 1752, a rogito del notaio Filippo Grossi di Faenza, nel quale il testatore divise le sue rendite in tre parti, per far fronte a tre ambiti di beneficenza: la fondazione di un ospedale per infermi, a scopo di ricovero e cura dei poveri di Cotignola e della limitrofa parrocchia di S. Severo, sotto il titolo di S. Antonio; il mantenimento di alcuni giovani agli studi; la corresponsione di aiuti ai carcerati e di doti a zitelle di Cotignola. In particolare erano previsti dei sussidi per il mantenimento agli studi delle scienze e arti liberali i giovani della famiglia Testi, a ciascuno dei quali ogni anno si versava un assegno a seconda della materia studiata e del luogo in cui frequentava gli studi.
+Come amministratore delle opere pie il testatore prepose una congregazione, che volle nominare "leopoldina&amp;quot;, e come presidente fu nominato il rettore dei gesuiti di Cotignola, affiancato da due membri della famiglia Testi, suoi eredi, e da 5 membri di altri corpi morali di Cotignola.
+La Congregazione leopoldina amministrò l'opera pia fino all'istituzione della Congregazione della carità sotto il Regno d'Italia (decreto del 21 dicembre 1807), attiva dal primo marzo 1808, a cui fu riunita e concentrata nel 1809 (con decreto &amp;quot;partecipato&amp;quot; alla congregazione dal dispaccio del Prefetto del Dipartimento del Reno, n. 7329, e per il decreto vice prefettizio n.1360), sebbene gli eredi Testi si opponessero ritenendo l'opera pia di loro diritto patronale. Il Ministero dell'interno del Regno italico definì non attendibili le pretese dei Testi.
+La Congregazione della carità amministrò le opere pie Testi fino al 1821, quando queste riuscirono ad ottenere nuovamente l'autonomia amministrativa andando a ricomporre la Congregazione leopoldina. La situazione rimase tale fino a quando l'opera pia fu concentrata sotto la Congregazione di carità normata dal Governo provvisorio delle Romagne (decreto del 25 luglio 1859 e &amp;quot;decreto Cipriani&amp;quot; del 19 agosto 1859), dal Regno di Sardegna (legge del 20 novembre 1859 e regolamento del 128 agosto 1860) e, in seguito, sotto la Congregazione istituita dallo Stato italiano (legge del 3 agosto 1862, n. 753), con regio decreto del 6 aprile 1865, n. 808. Il 5 maggio 1868, il 25 novembre 1872 e il primo luglio 1873 furono approvati gli statuti, con cui si stabilivano la finalità e i modi dell'elargizione dei sussidi: i giovani che dovevano essere mantenuti agli studi delle arti liberali dovevano essere nati da un legittimo matrimonio degli eredi Testi; in mancanza di maschi, i sussidi sarebbero andati alle femmine della famiglia; in mancanza della linea legittima, i sussidi sarebbero stati destinati a giovani capaci di Cotignola, a patto che fossero nati da un matrimonio legittimo.
+L'opera pia seguì negli anni successivi le vicende normative della Congregazione di carità, in particolare in base alla legge del 17 luglio 1890, n. 6972, fu annoverata fra le istituzioni di pubblica assistenza e beneficenza. Il regolamento dell'opera pia del 20 luglio 1890, che si richiamava a quello già stilato il 4 giugno 1872, prevedeva che i sussidi andassero dalle 250 alle 500 lire, a seconda che gli studi perseguiti fossero ginnasiali, tecnici o primari, o universitari e che il sussidio decadesse in caso di bocciatura o cattiva condotta.
+In seguito alla legge del 3 giugno 1937, n. 847, istitutiva di un ente comunale di assistenza (E.C.A.) in ogni comune e anche a Cotignola, l'opera pia fu concentrata nell'Ente comunale di assistenza (E.C.A.) di Cotingola con tutte le altre istituzioni pubbliche di assistenza e beneficenza (II.PP.AA.BB.) e opere pie della città con lo stesso fine di provvedere &amp;quot; ... all'assistenza generica, immediata e temporanea, con soccorsi in danaro o un natura o con prestazioni ...&amp;quot; (art. 7), in base al regio decreto legge del 16 giugno 1938, n. 1168.
+Nel censimento condotto dall'Istituto dei beni culturali della Regione Emilia-Romagna nel 1980 l'istituto risultava attivo nel pagamento di rette per ricoveri in altri enti.
+Il consiglio comunale di Cotignola con le delibere del 9 ottobre 1980, n. 294, e del 29 luglio 1981, nn. 225-226, espresse un parere sull'assoggettabilità a liquidazione di tutte le opere pie di Cotignola, sia quelle che definite &amp;quot;ex ECA&amp;quot; che quelle &amp;quot;ex OO.PP.RR.&amp;quot;, decretando che tutte fossero assoggettate a liquidazione, in attuazione del D.P.R. del 24 luglio 1977, n. 616, e ai sensi dell'art. 5, comma 1 della legge regionale dell'8 aprile 1980, n. 25.
+L'opera pia fu soppressa nel 1983 con decreto del presidente della Regione Emilia-Romagna e tutto il suo patrimonio passò al Comune di Cotignola (&amp;quot;beni, rapporti giuridici, carteggi e documenti"); infatti, il consiglio comunale di Cotignola ne approvò il consuntivo del 1983 con le delibere nn. 344-347 del 5 ottobre 1984. Nel 1985 il consiglio comunale di Cotignola stabilì che gli avanzi d'amministrazione dell'opera pia fossero utilizzati come contributo per la casa di riposo di Cotignola,opera pia Tarlazzi (delibera del 31 gennaio, n. 18).</eac-cpf:biogHist>
+	</eac-cpf:descriptionArea>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001487">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">associative</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001487"/>
+		<dc:date>1749-1938</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001489">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">associative</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001489"/>
+		<dc:date>1749-1983</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001481">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-parent</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001481"/>
+		<dc:date>1749-1809; 1822-1860</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001479">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-parent</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001479"/>
+		<dc:date>1809-1821</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001480">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-parent</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001480"/>
+		<dc:date>1860-1937</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001499">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-parent</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001499"/>
+		<dc:date>1937-1978</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:place rdf:about="luoghiSAN/Cotignola_8_732">
+		<rdfs:label>Cotignola</rdfs:label>
+		<dc:title>Cotignola</dc:title>
+		<eac-cpf:placeRole>sede</eac-cpf:placeRole>
+	</eac-cpf:place>
+	<skos:Concept rdf:about="luoghiSAN/Cotignola_8_732">
+		<rdfs:label xml:lang="it">Cotignola</rdfs:label>
+		<skos:prefLabel xml:lang="it">Cotignola</skos:prefLabel>
+		<dc:title xml:lang="it">Cotignola</dc:title>
+	</skos:Concept>
+	<eac-cpf:corporateBody rdf:about="eac-cpf/IT-ER-IBC-SP00001-0001489">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Opera pia carcerati e doti Testi di Cotignola, 1749 - 1983</rdfs:label>
+		<dc:title>Opera pia carcerati e doti Testi di Cotignola, 1749 - 1983</dc:title>
+		<dc:date>1749 - 1983</dc:date>
+		<dcterms:temporal>1749-01-01/1983-12-31</dcterms:temporal>
+		<dc:coverage>Cotignola</dc:coverage>
+		<foaf:name>Opera pia carcerati e doti Testi di Cotignola</foaf:name>
+		<dcterms:provenance rdf:resource="IBCSAN"/>
+		<dcterms:isReferencedBy rdf:resource="http://archivi.ibc.regione.emilia-romagna.it/eac-cpf/IT-ER-IBC-SP00001-0001489"/>
+		<eac-cpf:control rdf:resource="control/IT-ER-IBC-SP00001-0001489"/>
+		<eac-cpf:description rdf:resource="description/IT-ER-IBC-SP00001-0001489"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001487"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001488"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001481"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001479"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001480"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001499"/>
+	</eac-cpf:corporateBody>
+	<eac-cpf:controlArea rdf:about="control/IT-ER-IBC-SP00001-0001489">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area del controllo:	Opera pia carcerati e doti Testi di Cotignola</rdfs:label>
+		<eac-cpf:recordID>IT-ER-IBC-SP00001-0001489</eac-cpf:recordID>
+		<eac-cpf:maintenanceStatus>scheda pubblicata</eac-cpf:maintenanceStatus>
+	</eac-cpf:controlArea>
+	<eac-cpf:descriptionArea rdf:about="description/IT-ER-IBC-SP00001-0001489">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area della descrizione: 	Opera pia carcerati e doti Testi di Cotignola</rdfs:label>
+		<eac-cpf:nameEntry rdf:parseType="Resource">
+			<authorizedForm>IBCSAN</authorizedForm>
+			<foaf:name>Opera pia carcerati e doti Testi di Cotignola</foaf:name>
+		</eac-cpf:nameEntry>
+		<eac-cpf:existDates>1749 - 1983</eac-cpf:existDates>
+		<eac-cpf:hasPlace rdf:resource="luoghiSAN/Cotignola_8_803"/>
+		<eac-cpf:biogHist>Fu istituita con testamento dell'abate Leopoldo Testi del 13 giugno 1749, a rogito del notaio Lodovico Valvassori di Lugo, e codicillo del 26 febbraio 1752, a rogito del notaio Filippo Grossi di Faenza, nel quale il testatore divise le sue rendite in tre parti, per far fronte a tre ambiti di beneficenza: la fondazione di un ospedale per infermi, a scopo di ricovero e cura dei poveri di Cotignola e della limitrofa parrocchia di S. Severo, sotto il titolo di S. Antonio; il mantenimento di alcuni giovani agli studi; la corresponsione di aiuti ai carcerati e di doti a zitelle di Cotignola. In particolare erano previsti dei sussidi ai carcerati detenuti nella terra di Cotignola e, con la rimanenza, fornire una dote alle zitelle in procinto di sposarsi della terra di Cotignola. Dal 1816 le carceri del territorio di Cotignola furono distrutte, perché cessò la carica di Giusdicente (una particolare carica governativa che aveva il territorio cotignolese e che gestiva anche le carceri sul territorio) e i carcerati furono allora trasferiti alle carceri distrettuali di Lugo; allora la parte di legato fino ad allora concessa ai carcerati fu in buona parte riversata nell'elemosina per le doti delle zitelle. Le zitelle erano individuate annualmente tramite concorso pubblico ed estratte a sorte.
+Come amministratore delle opere pie il testatore prepose una congregazione, che volle nominare "leopoldina&amp;quot;, e come presidente fu nominato il rettore dei gesuiti di Cotignola, affiancato da due membri della famiglia Testi, suoi eredi, e da 5 membri di altri corpi morali di Cotignola.
+La Congregazione leopoldina amministrò l'opera pia fino all'istituzione della Congregazione della carità sotto il Regno d'Italia (decreto del 21 dicembre 1807), attiva dal primo marzo 1808, a cui fu riunita e concentrata nel 1809 (con decreto &amp;quot;partecipato&amp;quot; alla congregazione dal dispaccio del Prefetto del Dipartimento del Reno, n. 7329, e per il decreto vice prefettizio n.1360), sebbene gli eredi Testi si opponessero ritenendo l'opera pia di loro diritto patronale. Il Ministero dell'interno del Regno italico definì non attendibili le pretese dei Testi.
+La Congregazione della carità amministrò l'ospedale e le altre opere pie fino al 1821, quando l'opera pia riuscì ad ottenere nuovamente l'autonomia amministrativa andando a ricomporre la Congregazione Leopoldina con le altre opere pie Testi. La situazione rimase tale fino a quando l'opera pia fu concentrata sotto la Congregazione di carità normata dal Governo provvisorio delle Romagne (decreto del 25 luglio 1859 e &amp;quot;decreto Cipriani&amp;quot; del 19 agosto 1859), dal Regno di Sardegna (legge del 20 novembre 1859 e regolamento del 18 agosto 1860) e, in seguito, sotto la Congregazione istituita dallo Stato italiano (legge del 3 agosto 1862, n. 753), con regio decreto del 6 aprile 1865, n. 808. Il 5 maggio 1868 e il 25 novembre 1872 furono approvati gli statuti, con cui si stabilivano la finalità e i modi dell'elargizione dei sussidi. In base al regolamento interno approvato il 3 giugno 1872 le zitelle erano ammesse al concorso per l'aggiudicazione delle doti nella seconda metà di maggio, dovevano presentare la fede di battesimo e di domicilio, il certificato di buon costume, il certificato di povertà e il certificato che erano in procinto di maritarsi; se il numero delle domande era inferiore o pari a quello delle doti, queste erano tutte assegnate, altrimenti le doti erano aggiudicate con un'estrazione a sorte.
+L'opera pia seguì negli anni successivi le vicende normative della Congregazione di carità, in particolare in base alla legge del 17 luglio 1890, n. 6972, fu annoverata fra le istituzioni di pubblica assistenza e beneficenza. Un regolamento dell'opera pia carcerati e doti deliberato il 4 novembre 1890 richiamò per la maggior parte quello già deliberato nel 1872.
+In seguito alla legge del 3 giugno 1937, n. 847, istitutiva di un ente comunale di assistenza (E.C.A.) in ogni comune e anche a Cotignola, l'opera pia fu concentrata nell'E.C.A. di Cotingola con tutte le altre istituzioni pubbliche di assistenza e beneficenza (II.PP.AA.BB.) e opere pie della città con lo stesso fine di provvedere &amp;quot; ... all'assistenza generica, immediata e temporanea, con soccorsi in danaro o un natura o con prestazioni ...&amp;quot; (art. 7), in base al regio decreto legge del 16 giugno 1938, n. 1168.
+Nel censimento condotto dall'Istituto dei beni culturali della Regione Emilia-Romagna nel 1980 l'istituto non risultava attivo.
+Il consiglio comunale di Cotignola con le delibere del 9 ottobre 1980, n. 294, e del 29 luglio 1981, nn. 225-226, espresse un parere sull'assoggettabilità a liquidazione di tutte le opere pie di Cotignola, sia quelle che definite &amp;quot;ex ECA&amp;quot; che quelle &amp;quot;ex OO.PP.RR.&amp;quot;, decretando che tutte fossero assoggettate a liquidazione, in attuazione del D.P.R. del 24 luglio 1977, n. 616, e ai sensi dell'art. 5, comma 1 della legge regionale dell'8 aprile 1980, n. 25.
+L'opera pia fu soppressa nel 1983 con decreto del presidente della Regione Emilia-Romagna e tutto il suo patrimonio passò al Comune di Cotignola; infatti, il consiglio comunale di Cotignola ne approvò il consuntivo del 1983 con le delibere nn. 344-347 del 5 ottobre 1984 (&amp;quot;beni, rapporti giuridici, carteggi e documenti"). Nel 1985 il consiglio comunale di Cotignola stabilì che gli avanzi d'amminsitrazione dell'opera pia fossero utilizzati come contributo per la casa di riposo di Cotignola,opera pia Tarlazzi (delibera del 31 gennaio, n. 18).</eac-cpf:biogHist>
+	</eac-cpf:descriptionArea>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001487">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">associative</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001487"/>
+		<dc:date>1749-1938</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001488">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">associative</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001488"/>
+		<dc:date>1749-1983</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001481">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-parent</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001481"/>
+		<dc:date>1749-1809; 1822-1860</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001479">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-parent</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001479"/>
+		<dc:date>1809-1821</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001480">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-parent</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001480"/>
+		<dc:date>1860-1937</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001499">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-parent</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001499"/>
+		<dc:date>1937-1978</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:place rdf:about="luoghiSAN/Cotignola_8_803">
+		<rdfs:label>Cotignola</rdfs:label>
+		<dc:title>Cotignola</dc:title>
+		<eac-cpf:placeRole>sede</eac-cpf:placeRole>
+	</eac-cpf:place>
+	<skos:Concept rdf:about="luoghiSAN/Cotignola_8_803">
+		<rdfs:label xml:lang="it">Cotignola</rdfs:label>
+		<skos:prefLabel xml:lang="it">Cotignola</skos:prefLabel>
+		<dc:title xml:lang="it">Cotignola</dc:title>
+	</skos:Concept>
+	<eac-cpf:corporateBody rdf:about="eac-cpf/IT-ER-IBC-SP00001-0001490">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Opera pia Baldini di Cotignola, 1490 - 1983</rdfs:label>
+		<dc:title>Opera pia Baldini di Cotignola, 1490 - 1983</dc:title>
+		<dc:date>1490 - 1983</dc:date>
+		<dcterms:temporal>1490-01-01/1983-12-31</dcterms:temporal>
+		<dc:coverage>Cotignola</dc:coverage>
+		<foaf:name>Opera pia Baldini di Cotignola</foaf:name>
+		<dcterms:provenance rdf:resource="IBCSAN"/>
+		<dcterms:isReferencedBy rdf:resource="http://archivi.ibc.regione.emilia-romagna.it/eac-cpf/IT-ER-IBC-SP00001-0001490"/>
+		<eac-cpf:control rdf:resource="control/IT-ER-IBC-SP00001-0001490"/>
+		<eac-cpf:description rdf:resource="description/IT-ER-IBC-SP00001-0001490"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001479"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001480"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001499"/>
+	</eac-cpf:corporateBody>
+	<eac-cpf:controlArea rdf:about="control/IT-ER-IBC-SP00001-0001490">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area del controllo:	Opera pia Baldini di Cotignola</rdfs:label>
+		<eac-cpf:recordID>IT-ER-IBC-SP00001-0001490</eac-cpf:recordID>
+		<eac-cpf:maintenanceStatus>scheda pubblicata</eac-cpf:maintenanceStatus>
+	</eac-cpf:controlArea>
+	<eac-cpf:descriptionArea rdf:about="description/IT-ER-IBC-SP00001-0001490">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area della descrizione: 	Opera pia Baldini di Cotignola</rdfs:label>
+		<eac-cpf:nameEntry rdf:parseType="Resource">
+			<authorizedForm>IBCSAN</authorizedForm>
+			<foaf:name>Opera pia Baldini di Cotignola</foaf:name>
+		</eac-cpf:nameEntry>
+		<eac-cpf:existDates>1490 - 1983</eac-cpf:existDates>
+		<eac-cpf:hasPlace rdf:resource="luoghiSAN/Cotignola_8_874"/>
+		<eac-cpf:biogHist>Fu istituito nel 1490 con testamento di Gherardo Graziani Baldini del 7 settembre 1490, a rogito del notaio Giovanni Marozzi di Cotignola, che nominò proprio erede universale, in mancanza di eredi diretti, l'ospedale di S. Maria della misericordia, gestito da una confraternita, con il compito di utilizzare i fondi derivanti dalle rendite di una possessione e un podere per sostenere annualmente i discendenti della propria parentela Graziani e per dotare le zitelle della stessa famiglia che fossero in procinto di sposarsi: ogni anno si doveva elargire una prefissata dote alla/e zitella/e della famiglia e la restante rendita dividerla ugualmente fra i membri della famiglia.
+L'opera pia Baldini fu annessa alla Congregazione della carità napoleonica (istituita con decreto del 21 dicembre 1807), attiva a Cotignola dal 1° marzo 1808, e sotto di essa rimase anche dopo la Restaurazione, quando la congregazione continuò a esistere e opereare, passando dal controllo governativo a quello del vescovo di Faenza. La famiglia Baldini tentò più volte di avocarne l'amministrazione, ma le loro pretese furono respinte sia dal governo italico, che dal governo pontificio.
+La legislazione successiva modificò lo &lt;em&gt;status&lt;/em&gt; istituzionale della Congregazione di carità di Cotignola che, seguendo le vicende politiche del territorio, passò in pochi mesi da istituzione dipendente dal controllo vescovile nello Stato pontificio, a istituzione governativa, prima normata sotto il Governo provvisorio delle Romagne (decreto del 25 luglio 1859 e "decreto Cipriani" del 19 agosto 1859), poi sotto il Regno di Sardegna (legge del 20 novembre 1859 e regolamento del 18 agosto 1860) e, in seguito, sotto lo Stato italiano (legge del 3 agosto 1862, n. 753). Queste modifiche a livello istituzionale non dovettero incidere di molto nella pratica della gestione amministrativa dell' opera pia che, in realtà, rimase sempre sottoposta al controllo amministrativo di una congregazione. L'opera pia fu cocentrata sotto la Congregazione di carità con il R.D. del 19 luglio 1863 e seguì negli anni successivi le vicende normative della Congregazione di carità, anche se in base alla legge del 17 luglio 1890, n. 6972, non fu annoverata fra le istituzioni di pubblica assistenza e beneficenza (II.PP.AA.BB.) in quanto la beneficenza che elargiva non poteva essere considerata pubblica dato che si rivolgeva solamente ai membri di alcune specifiche famiglie.
+In seguito alla legge del 3 giugno 1937, n. 847, istitutiva di un ente comunale di assistenza (E.C.A.) in ogni comune e anche a Cotignola, l'opera pia Baldini fu concentrata nell'E.C.A. di Cotingola con tutte le altre II.PP.AA.BB. e opere pie della città con lo stesso fine di provvedere " ... all'assistenza generica, immediata e temporanea, con soccorsi in danaro o un natura o con prestazioni ..." (art. 7), in base al regio decreto legge del 16 giugno 1938, n. 1168.
+Nel censimento condotto dall'Istituto dei beni culturali della Regione Emilia-Romagna nel 1980 l'istituto risultava attivo nell'assistenza i bisognosi, in particolare nel pagamento di rette per ricoveri in istituti.
+Il consiglio comunale di Cotignola con le delibere del 9 ottobre 1980, n. 294, e del 29 luglio 1981, nn. 225-226, espresse un parere sull'assoggettabilità a liquidazione di tutte le opere pie di Cotignola, sia quelle che definite "ex ECA" che quelle "ex OO.PP.RR.", decretando che tutte fossero assoggettate a liquidazione, in attuazione del D.P.R. del 24 luglio 1977, n. 616, e ai sensi dell'art. 5, comma 1 della legge regionale dell'8 aprile 1980, n. 25.
+L'opera pia fu soppressa nel 1983 con decreto del presidente della Regione Emilia-Romagna e tutto il suo patrimonio passò al Comune di Cotignola ("beni, rapporti giuridici, carteggi e documenti"); infatti, il consiglio comunale di Cotignola ne approvò il conto consuntivo del 1983 con le delibere nn. 344-347 del 5 ottobre 1984. Nel 1985 il consiglio comunale di Cotignola stabilì che gli avanzi d'amminsitrazione dell'opera pia fossero utilizzati come contributo per la casa di riposo di Cotignola, opera pia Tarlazzi (delibera del 31 gennaio 1985, n. 18).</eac-cpf:biogHist>
+	</eac-cpf:descriptionArea>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001479">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-parent</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001479"/>
+		<dc:date>1808-1859</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001480">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-parent</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001480"/>
+		<dc:date>1859-1937</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001499">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-parent</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001499"/>
+		<dc:date>1937-1978</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:place rdf:about="luoghiSAN/Cotignola_8_874">
+		<rdfs:label>Cotignola</rdfs:label>
+		<dc:title>Cotignola</dc:title>
+		<eac-cpf:placeRole>sede</eac-cpf:placeRole>
+	</eac-cpf:place>
+	<skos:Concept rdf:about="luoghiSAN/Cotignola_8_874">
+		<rdfs:label xml:lang="it">Cotignola</rdfs:label>
+		<skos:prefLabel xml:lang="it">Cotignola</skos:prefLabel>
+		<dc:title xml:lang="it">Cotignola</dc:title>
+	</skos:Concept>
+	<eac-cpf:corporateBody rdf:about="eac-cpf/IT-ER-IBC-SP00001-0001491">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Opera pia Galvanelli di Cotignola, 1591 - [1981]</rdfs:label>
+		<dc:title>Opera pia Galvanelli di Cotignola, 1591 - [1981]</dc:title>
+		<dc:date>1591 - [1981]</dc:date>
+		<dcterms:temporal>1591-01-01/1981-12-31</dcterms:temporal>
+		<dc:coverage>Cotignola</dc:coverage>
+		<foaf:name>Opera pia Galvanelli di Cotignola</foaf:name>
+		<dcterms:provenance rdf:resource="IBCSAN"/>
+		<dcterms:isReferencedBy rdf:resource="http://archivi.ibc.regione.emilia-romagna.it/eac-cpf/IT-ER-IBC-SP00001-0001491"/>
+		<eac-cpf:control rdf:resource="control/IT-ER-IBC-SP00001-0001491"/>
+		<eac-cpf:description rdf:resource="description/IT-ER-IBC-SP00001-0001491"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001479"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001480"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001499"/>
+	</eac-cpf:corporateBody>
+	<eac-cpf:controlArea rdf:about="control/IT-ER-IBC-SP00001-0001491">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area del controllo:	Opera pia Galvanelli di Cotignola</rdfs:label>
+		<eac-cpf:recordID>IT-ER-IBC-SP00001-0001491</eac-cpf:recordID>
+		<eac-cpf:maintenanceStatus>scheda pubblicata</eac-cpf:maintenanceStatus>
+	</eac-cpf:controlArea>
+	<eac-cpf:descriptionArea rdf:about="description/IT-ER-IBC-SP00001-0001491">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area della descrizione: 	Opera pia Galvanelli di Cotignola</rdfs:label>
+		<eac-cpf:nameEntry rdf:parseType="Resource">
+			<authorizedForm>IBCSAN</authorizedForm>
+			<foaf:name>Opera pia Galvanelli di Cotignola</foaf:name>
+		</eac-cpf:nameEntry>
+		<eac-cpf:existDates>1591 - [1981]</eac-cpf:existDates>
+		<eac-cpf:hasPlace rdf:resource="luoghiSAN/Cotignola_8_930"/>
+		<eac-cpf:biogHist>Fu istituita nel 1591 con testamento del sacerdote Girolamo Galvanelli del 21 maggio 1591, che lasciò una casa, trasformata poi in un capitale di censo, finalizzata a fornire rendite per le doti alle zitelle povere e aiuti per i maschi poveri della famiglia Galvanelli. Tale elargizione doveva essere amministrata dalla Società del SS. nome di Dio.
+L'opera pia Galvanelli fu annessa alla Congregazione della carità napoleonica (istituita con decreto del 21 dicembre 1807), attiva a Cotignola dal 1° marzo 1808, e sotto di essa rimase anche dopo la Restaurazione, quando la congregazione continuò a esistere e opereare, anche se passò dal controllo governativo a quello del vescovo di Faenza.
+La legislazione successiva modificò lo &lt;em&gt;status&lt;/em&gt; istituzionale della Congregazione di carità di Cotignola che, seguendo le vicende politiche del territorio, passò in pochi mesi da istituzione dipendente dal controllo vescovile nello Stato pontificio, a istituzione governativa, prima normata sotto il Governo provvisorio delle Romagne (decreto del 25 lluglio 1859 e "decreto Cipriani" del 19 agosto 1859), poi sotto il Regno di Sardegna (legge del 20 novembre 1859 e regolamento del 18 agosto 1860) e, in seguito, sotto lo Stato italiano (legge del 3 agosto 1862, n. 753). Queste modifiche a livello istituzionale non dovettero incidere molto nella pratica della gestione amministrativa dell' opera pia che, in realtà, rimase sempre sottoposta al controllo amministrativo di una congregazione. Fu concentrata nella Congregazione di carità di Cotignola in base al R.D. del 19 luglio 1863. Lo statuto fu approvato il 9 novembre 1864. L'opera pia seguì negli anni successivi le vicende normative della Congregazione di carità, anche se in base alla legge del 17 luglio 1890, n. 6972, non fu annoverata fra le istituzioni di pubblica assistenza e beneficenza (II.PP.AA.BB.) in quanto la beneficenza che elargiva non poteva essere considerata pbblica dato che si rivolgeva solamente ai membri di alcune specifiche famiglie.
+In seguito alla legge del 3 giugno 1937, n. 847, istitutiva di un ente comunale di assistenza (E.C.A.) in ogni comune e anche a Cotignola, l'opera pia Galvanelli fu concentrata nell'E.C.A. di Cotingola con tutte le altre istituzioni pubbliche di assistenza e beneficenza (II.PP.AA.BB.) e opere pie della città con lo stesso fine di provvedere " ... all'assistenza generica, immediata e temporanea, con soccorsi in danaro o un natura o con prestazioni ..." (art. 7), in base al regio decreto legge del 16 giugno 1938, n. 1168.
+Nel censimento condotto dall'Istituto dei beni culturali della Regione Emilia-Romagna nel 1980 l'istituto non risultava attivo.
+Il consiglio comunale di Cotignola con le delibere del 9 ottobre 1980, n. 294, e del 29 luglio 1981, nn. 225-226, espresse un parere sull'assoggettabilità a liquidazione di tutte le opere pie di Cotignola, sia quelle che definite "ex ECA" che quelle "ex OO.PP.RR.", decretando che tutte fossero assoggettate a liquidazione, in attuazione del D.P.R. del 24 luglio 1977, n. 616, e ai sensi dell'art. 5, comma 1 della legge regionale dell'8 aprile 1980, n. 25.</eac-cpf:biogHist>
+	</eac-cpf:descriptionArea>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001479">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-parent</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001479"/>
+		<dc:date>1808-1859</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001480">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-parent</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001480"/>
+		<dc:date>1859-1937</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001499">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-parent</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001499"/>
+		<dc:date>1937-1978</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:place rdf:about="luoghiSAN/Cotignola_8_930">
+		<rdfs:label>Cotignola</rdfs:label>
+		<dc:title>Cotignola</dc:title>
+		<eac-cpf:placeRole>sede</eac-cpf:placeRole>
+	</eac-cpf:place>
+	<skos:Concept rdf:about="luoghiSAN/Cotignola_8_930">
+		<rdfs:label xml:lang="it">Cotignola</rdfs:label>
+		<skos:prefLabel xml:lang="it">Cotignola</skos:prefLabel>
+		<dc:title xml:lang="it">Cotignola</dc:title>
+	</skos:Concept>
+	<eac-cpf:corporateBody rdf:about="eac-cpf/IT-ER-IBC-SP00001-0001492">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Opera pia Cortesi di Cotignola, 1582 - [1981]</rdfs:label>
+		<dc:title>Opera pia Cortesi di Cotignola, 1582 - [1981]</dc:title>
+		<dc:date>1582 - [1981]</dc:date>
+		<dcterms:temporal>1582-01-01/1981-12-31</dcterms:temporal>
+		<dc:coverage>Cotignola</dc:coverage>
+		<foaf:name>Opera pia Cortesi di Cotignola</foaf:name>
+		<dcterms:provenance rdf:resource="IBCSAN"/>
+		<dcterms:isReferencedBy rdf:resource="http://archivi.ibc.regione.emilia-romagna.it/eac-cpf/IT-ER-IBC-SP00001-0001492"/>
+		<eac-cpf:control rdf:resource="control/IT-ER-IBC-SP00001-0001492"/>
+		<eac-cpf:description rdf:resource="description/IT-ER-IBC-SP00001-0001492"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001479"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001480"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001499"/>
+	</eac-cpf:corporateBody>
+	<eac-cpf:controlArea rdf:about="control/IT-ER-IBC-SP00001-0001492">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area del controllo:	Opera pia Cortesi di Cotignola</rdfs:label>
+		<eac-cpf:recordID>IT-ER-IBC-SP00001-0001492</eac-cpf:recordID>
+		<eac-cpf:maintenanceStatus>scheda pubblicata</eac-cpf:maintenanceStatus>
+	</eac-cpf:controlArea>
+	<eac-cpf:descriptionArea rdf:about="description/IT-ER-IBC-SP00001-0001492">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area della descrizione: 	Opera pia Cortesi di Cotignola</rdfs:label>
+		<eac-cpf:nameEntry rdf:parseType="Resource">
+			<authorizedForm>IBCSAN</authorizedForm>
+			<foaf:name>Opera pia Cortesi di Cotignola</foaf:name>
+		</eac-cpf:nameEntry>
+		<eac-cpf:nameEntry rdf:parseType="Resource">
+			<authorizedForm>IBCSAN</authorizedForm>
+			<foaf:name>Opera pia Cortesi e Marangoni di Cotignola</foaf:name>
+		</eac-cpf:nameEntry>
+		<eac-cpf:existDates>1582 - [1981]</eac-cpf:existDates>
+		<eac-cpf:hasPlace rdf:resource="luoghiSAN/Cotignola_8_989"/>
+		<eac-cpf:biogHist>Fu istituito nel 1582 con testamento di Bernardino Cortesi del 3 aprile 1582, che lasciò una possessione alla Confraternita di S. Giuseppe con l'onere di distribuire metà della rendita in sussidi annuali ai poveri della parentela della famiglia Cortesi, ovvero ai membri delle famiglie Marangoni, Battistini e Lunardelli. Dopo la soppressione della confraternita, il Governo italico ne avocò a sé la possessione, emettendo a favore delle famiglie Cortesi e Marangoni una cartella di credito sul Monte Napoleone, a sostituzione della precedente rendita fondiaria, e passando al Comune il compito di distribuire annualmente i sussidi.
+Quando nel 1815 Cotignola tornò al Governo pontificio e la Congregazione della carità tornò sotto la tutela vescovile risultavano esserci problemi di debiti arretrati nell'amministrazione dell'opera pia. Per risolverli il governo capitalizzò una nuova cifra, ma talmente esigua che veniva distribuita solo ogni due anni (" &amp;#x85; ritornato nel 1815 il Governo pontificio passò ad esso un tal debito verso il Comune, che anzi il Governo stesso stato in quei tempi alcuni anni di non pagare l'annua quota, infine assestata e liquidate le cose, la capitalizzò ancor essa per la somma arretrata e così venne ridotta ad annui scudi romani &amp;#x85;"; cfr. la relazione sull'incameramento delle opere pie da parte della Congregazione di carità nel 1860 in Biblioteca comunale di Cotignola, Archivio della Congregazione di carità di Cotignola, &lt;em&gt;Statuti e regolamenti&lt;/em&gt;, fasc. &lt;em&gt;Congregazione di carità&lt;/em&gt;, b. 203). Nel 1859 l'amministrazione della rendita fu passata dal Comune alla Congregazione di carità normata dal Governo provvisorio delle Romagne (decreto del 25 luglio 1859 e "decreto Cipriani" del 19 agosto 1859), dal Regno di Sardegna (legge del 20 novembre 1859 e regolamento del 18 agosto 1860) e, in seguito, sotto la Congregazione istituita dallo Stato italiano (legge del 3 agosto 1862, n. 753). L'opera pia fu concentrata sotto la Congregazione di carità in base al R.D. del 19 luglio 1863 e regolamentata in base allo statuto approvato il 9 novembre 1864 ("sussidiare gli individui più poveri e miserabili della parentela Cortesi e specialmente della famiglia dei Marangoni, Battistini e Lunardelli, tutti dei Cortesi").
+L'opera pia seguì negli anni successivi le vicende normative della Congregazione di carità, anche se in base alla legge del 17 luglio 1890, n. 6972, non fu annoverata fra le istituzioni di pubblica assistenza e beneficenza (II.PP.AA.BB.) in quanto la beneficenza che elargiva non poteva essere considerata pbblica dato che si rivolgeva solamente ai membri di alcune specifiche famiglie.
+In seguito alla legge del 3 giugno 1937, n. 847, istitutiva di un ente comunale di assistenza (E.C.A.) in ogni comune e anche a Cotignola, l'opera pia Cortesi e Marangoni fu concentrata nell'E.C.A. di Cotingola con tutte le altre II.PP.AA.BB. e opere pie della città con lo stesso fine di provvedere " ... all'assistenza generica, immediata e temporanea, con soccorsi in danaro o un natura o con prestazioni ..." (art. 7), in base al regio decreto legge del 16 giugno 1938, n. 1168.
+Nel censimento condotto dall'Istituto dei beni culturali della Regione Emilia-Romagna nel 1980 l'istituto non risultava attivo.
+Il consiglio comunale di Cotignola con le delibere del 9 ottobre 1980, n. 294, e del 29 luglio 1981, nn. 225-226, espresse un parere sull'assoggettabilità a liquidazione di tutte le opere pie di Cotignola, sia quelle che definite "ex ECA" che quelle "ex OO.PP.RR.", decretando che tutte fossero assoggettate a liquidazione, in attuazione del D.P.R. del 24 luglio 1977, n. 616, e ai sensi dell'art. 5, comma 1 della legge regionale dell'8 aprile 1980, n. 25.</eac-cpf:biogHist>
+	</eac-cpf:descriptionArea>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001479">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-parent</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001479"/>
+		<dc:date>1808-1859</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001480">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-parent</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001480"/>
+		<dc:date>1859-1937</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001499">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-parent</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001499"/>
+		<dc:date>1937-1978</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:place rdf:about="luoghiSAN/Cotignola_8_989">
+		<rdfs:label>Cotignola</rdfs:label>
+		<dc:title>Cotignola</dc:title>
+		<eac-cpf:placeRole>sede</eac-cpf:placeRole>
+	</eac-cpf:place>
+	<skos:Concept rdf:about="luoghiSAN/Cotignola_8_989">
+		<rdfs:label xml:lang="it">Cotignola</rdfs:label>
+		<skos:prefLabel xml:lang="it">Cotignola</skos:prefLabel>
+		<dc:title xml:lang="it">Cotignola</dc:title>
+	</skos:Concept>
+	<eac-cpf:corporateBody rdf:about="eac-cpf/IT-ER-IBC-SP00001-0001493">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Opera pia Tarlazzi di Cotignola, 1829 - [2008]</rdfs:label>
+		<dc:title>Opera pia Tarlazzi di Cotignola, 1829 - [2008]</dc:title>
+		<dc:date>1829 - [2008]</dc:date>
+		<dcterms:temporal>1829-01-01/2008-12-31</dcterms:temporal>
+		<dc:coverage>Cotignola</dc:coverage>
+		<foaf:name>Opera pia Tarlazzi di Cotignola</foaf:name>
+		<dcterms:provenance rdf:resource="IBCSAN"/>
+		<dcterms:isReferencedBy rdf:resource="http://archivi.ibc.regione.emilia-romagna.it/eac-cpf/IT-ER-IBC-SP00001-0001493"/>
+		<eac-cpf:control rdf:resource="control/IT-ER-IBC-SP00001-0001493"/>
+		<eac-cpf:description rdf:resource="description/IT-ER-IBC-SP00001-0001493"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001486"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001486"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001484"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001482"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001480"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001499"/>
+	</eac-cpf:corporateBody>
+	<eac-cpf:controlArea rdf:about="control/IT-ER-IBC-SP00001-0001493">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area del controllo:	Opera pia Tarlazzi di Cotignola</rdfs:label>
+		<eac-cpf:recordID>IT-ER-IBC-SP00001-0001493</eac-cpf:recordID>
+		<eac-cpf:maintenanceStatus>scheda pubblicata</eac-cpf:maintenanceStatus>
+	</eac-cpf:controlArea>
+	<eac-cpf:descriptionArea rdf:about="description/IT-ER-IBC-SP00001-0001493">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area della descrizione: 	Opera pia Tarlazzi di Cotignola</rdfs:label>
+		<eac-cpf:nameEntry rdf:parseType="Resource">
+			<authorizedForm>IBCSAN</authorizedForm>
+			<foaf:name>Opera pia Tarlazzi di Cotignola</foaf:name>
+		</eac-cpf:nameEntry>
+		<eac-cpf:nameEntry rdf:parseType="Resource">
+			<authorizedForm>IBCSAN</authorizedForm>
+			<foaf:name>Opera pia Ospizio incurabili di Cotignola</foaf:name>
+		</eac-cpf:nameEntry>
+		<eac-cpf:existDates>1829 - [2008]</eac-cpf:existDates>
+		<eac-cpf:hasPlace rdf:resource="luoghiSAN/Cotignola_8_1048"/>
+		<eac-cpf:biogHist>Fu istituito nel 1829 con testamento del capitano Fabio Tarlazzi del 3 ottobre 1829, a rogito del notaio Scipione Urbini di Ravenna, dove si stabiliva di fondare un ospedale per incurabili dove mantenere e accogliere caritatevolmente i poveri ammalati delle parrocchie di Cotignola e S. Severo; altro legato del testatore era finalizzato a mantenere agli studi presso il seminario di Faenza quattro giovani. Il testatore stabilì di creare un cumulo con le sue sostanze fino a raggiungere la cifra di 20.000 scudi romani per poter istituire l'ospedale. Come amministratore il testatore scelse tale Girolamo Emiliani, che avrebbe avuto il compito di raccogliere ed investire man mano le sostanze fino a raggiungere la cifra prefissata. Dopo 14 anni il cumulo non risultava ancora completato e gli eredi Tarlazzi chiesero di poter accedere ai conti, ma l'amministratore negò l'accesso. Gli eredi fecero allora ricorso a Roma, riuscendo a ottenere di poter esaminare i conti, che risultarono non soddisfacenti. Gli eredi ottennero di estromettere l'Emiliani grazie all'intervento del vescovo di Faenza, e come amministratore fu nominato il fattore Pietro Tamburini. Raggiunto il cumulo, gli eredi riebbero finalmente l'uso dei beni dell'eredità e consegnarono direttamente i 20.000 scudi ai rettori dell'istituto, nominati dal vescovo, tramite un documento del 29 settembre 1849, a rogito del notaio Giovanni Graziani di Cotignola. I rettori provviderò a realizzare ciò che il testatore aveva deciso: la fondazione di un ospedale-ospizio in una casa appositamente lasciata con il testamento, dove mantenere 6 poveri incurabili di Cotignola, 3 maschi e 3 femmine, con una dote di 14.000 scudi romani su 20.000 (il numero degli incurabili fu alzato a 8 con il regolamento del primo novembre 1868). Con i restanti 6000 scudi romani si dovevano mantenere agli studi presso il seminario di Faenza 4 giovani che "davano speranze di divenire buoni sacerdoti". Nel caso in cui fossero rimasti annualmente dei soldi, si sarebbero dovuti erogare in doti. Le regole per l'ammissione degli incurabili, la scelta dei giovani e la distribuzione delle doti erano stabilite nel testamento. Il 10 ottobre 1856 fu emanato un regolamento in cui si stabilivano le mansioni dei rettori dell'opera pia, le regole per l'ammissione degli incurabili, l'assistenza offerta, il personale (un ministro interno, controllato dalla Congregazione fabiana; un infermiere e un'infermiera, uno per i maschi e l'altra per le femmine; un computista; un fattore; un cassiere).
+Altri benefattori furono: Domenica Tarlazzi, con testamento del 26 maggio 1851 (pubblicato il 14 agosto 1852); Giacomo Testi, con testamento del 16 luglio 1877 (pubblicato il 27 febbraio 1883); Vitaliano Fenati, con testamento del 7 settembre 1929 (pubblicato il 10 marzo 1930).
+Dal 1849 al 1859 l'amministrazione dell'opera pia Tarlazzi fu svolta dalla Congregazione, denominata "fabiana", dal nome del testatore, che funzionò, sotto la tutela vescovile, fino a quando l'opera pia fu concentrata nella Congregazione di carità normata dal Governo provvisorio delle Romagne (decreto del 25 luglio 1859 e "decreto Cipriani" del 19 agosto 1859), dal Regno di Sardegna (legge del 20 novembre 1859 e regolamento del 18 agosto 1860) e, in seguito, sotto la Congregazione istituita dallo Stato italiano (legge del 3 agosto 1862, n. 753), a cui fu concentrata in base al R.D. del 6 aprile 1865. Il 20 gennaio 1865 fu approvato lo statuto dove si confermava che finalità dell'opera pia era di mantenere i poveri e incurabili, dotati di certificato medico d'incurabilità, del territorio di Cotignola e della diocesi faentina e di mantenere 4 giovani allo studio per il sacerdozio nel seminario di Faenza; in mancanza di questi, di elargire doti di 266 lire a zitelle. Nel 1864 la Congregazione di carità tentò di riformare questa parte del legato dell'opera pia, valutando di non legare necessariamente la concessione del sussidio alla frequenza del seminario e al divenire sacerdoti, ma di ampliarla anche a quei giovani che s'iscrivessero a un collegio a a studi universitari; il vescovo di Faenza si oppose a tale trasformazione, ma negli anni 1908-1910 fu effettivamente eliminata la clausola del sacerdozio e i sussidi dell'opera pia studi furono destinati a maschi e femmine del territorio di Cotignola meritevoli negli studi.
+L'opera pia seguì negli anni successivi le vicende normative della Congregazione di carità, in particolare con la legge del 17 luglio 1890, n.6972, che istituì le istituzioni di pubblica assistenza e beneficenza.
+In seguito alla legge del 3 giugno 1937, n. 847, istitutiva di un ente comunale di assistenza (E.C.A.) in ogni comune e anche a Cotignola, l'opera pia Tarlazzi fu concentrata nell'E.C.A. di Cotingola con tutte le altre istituzioni di pubblica assistenza e beneficenza (II.PP.AA.BB.) e opere pie della città con lo stesso fine di provvedere " ... all'assistenza generica, immediata e temporanea, con soccorsi in danaro o un natura o con prestazioni ..." (art. 7), in base al regio decreto legge del 16 giugno 1938, n. 1168.
+Nel censimento condotto dall'Istituto dei beni culturali della Regione Emilia-Romagna nel 1980 l'istituto risultava attivo come casa di riposo per anziani.
+Nel 1969 il Consiglio comunale di Cotignola deliberò una convenzione con l'ospizio invalidi per il ricovero d'indigenti del territorio comunale; il Comune avrebbe pagato le rette degli invalidi e elargito alla casa di riposo un contributo (delibere nn. 62, 64 del 14 maggio 1969 e n. 89 del 10 luglio 1969).
+Con delibera del 15 dicembre 1978, n. 337, il consiglio comunale di Cotignola nominò una commissione consultiva per la gestione della casa di riposo e per le attribuzioni delle istituzioni pubbliche di assistenza e beneficenza già amministrate dall'E.C.A. di Cotignola. Successivamente, sempre il consiglio comunale, con le delibere del 9 ottobre 1980, n. 294, e del 29 luglio 1981, nn. 225-226, espresse un parere sull'assoggettabilità a liquidazione di tutte le opere pie di Cotignola, sia quelle che definite "ex E.C.A." che quelle "ex OO.PP.RR.", decretando che tutte fossero assoggettate a liquidazione, in attuazione del D.P.R. del 24 luglio 1977, n. 616, e ai sensi dell'art. 5, comma 1 della legge regionale dell'8 aprile 1980, n. 25. Da questa liquidazione furono escluse le opere pie orfanotrofio femminile, Tarlazzi (casa di riposo) e Zarabbini. Ai sensi dell'art. 1 della legge della Regione Emilia-Romagna del 1983 (legge del 2 settembre 1983, n. 35, "Amministrazione delle istituzioni pubbliche di assistenza e beneficenza già cocentrate o amministrate dai disciolti enti comunali di assistenza"), la Giunta regionale comprese l'opera pia Tarlazzi fra le istituzioni di cui all'art. 1 e il Comune di Cotignola mantenne la possibilità d'intervenire nell'elezione del consiglio d'amministrazione. Nella stessa delibera d'elezione del consiglio d'amministrazione, il Comune avanzò "Proposte di programma per gestione Enti minori di Cotignola", dove si stabiliva che l'ospizio andava gestito come casa protetta in collaborazione con l'Unità sanitaria locale (U.S.L.) di Ravenna e il reparto geriatrico dell'ospedale di Cotignola (delibera del consiglio comunale del 3 febbraio 1984, n. 37).
+Nel 1989 il Consiglio comunale di Cotignola deliberò sulla proposta di fusione fra l'opera pia Tarlazzi e l'opera pia Zarabbini, per cui fu adottato un nuovo statuto (delibera n. 203 del 7 luglio 1989).
+L'istituto riunito di assistenza Tarlazzi-Zarabbini fu uno di quelli fusi nell'Azienda pubblica di Servizi alla Persona (ASP) dei Comuni della Bassa Romagna, nata a Bagnacavallo il 1° febbraio 2008 dalla trasformazione e fusione delle 8 istituzioni pubbliche di assistenza e beneficenza (II.PP.AA.BB.) del territorio di Lugo, in base alla legge regionale del 12 marzo 2003, n. 2, fra cui anche l'opera pia orfanotrofio femminile di Cotignola. Le istituzioni fuse nell'A.S.P. di Lugo erano tutti enti attivi nell'ambito assistenziale, sociale e socio-sanitario, nei confronti di anziani, disabili e minori.</eac-cpf:biogHist>
+	</eac-cpf:descriptionArea>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001486">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">associative</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001486"/>
+		<dc:date>1989</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001486">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">associative</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001486"/>
+		<dc:date>2008</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001484">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">associative</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001484"/>
+		<dc:date>2008</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001482">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-parent</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001482"/>
+		<dc:date>1849-1860</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001480">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-parent</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001480"/>
+		<dc:date>1859-1937</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001499">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-parent</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001499"/>
+		<dc:date>1937-1978</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:place rdf:about="luoghiSAN/Cotignola_8_1048">
+		<rdfs:label>Cotignola</rdfs:label>
+		<dc:title>Cotignola</dc:title>
+		<eac-cpf:placeRole>sede</eac-cpf:placeRole>
+	</eac-cpf:place>
+	<skos:Concept rdf:about="luoghiSAN/Cotignola_8_1048">
+		<rdfs:label xml:lang="it">Cotignola</rdfs:label>
+		<skos:prefLabel xml:lang="it">Cotignola</skos:prefLabel>
+		<dc:title xml:lang="it">Cotignola</dc:title>
+	</skos:Concept>
+	<eac-cpf:corporateBody rdf:about="eac-cpf/IT-ER-IBC-SP00001-0001494">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Opera pia Minguzzi di Cotignola, 1858 - [1981]</rdfs:label>
+		<dc:title>Opera pia Minguzzi di Cotignola, 1858 - [1981]</dc:title>
+		<dc:date>1858 - [1981]</dc:date>
+		<dcterms:temporal>1858-01-01/1981-12-31</dcterms:temporal>
+		<dc:coverage>Cotignola</dc:coverage>
+		<foaf:name>Opera pia Minguzzi di Cotignola</foaf:name>
+		<dcterms:provenance rdf:resource="IBCSAN"/>
+		<dcterms:isReferencedBy rdf:resource="http://archivi.ibc.regione.emilia-romagna.it/eac-cpf/IT-ER-IBC-SP00001-0001494"/>
+		<eac-cpf:control rdf:resource="control/IT-ER-IBC-SP00001-0001494"/>
+		<eac-cpf:description rdf:resource="description/IT-ER-IBC-SP00001-0001494"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001480"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001499"/>
+	</eac-cpf:corporateBody>
+	<eac-cpf:controlArea rdf:about="control/IT-ER-IBC-SP00001-0001494">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area del controllo:	Opera pia Minguzzi di Cotignola</rdfs:label>
+		<eac-cpf:recordID>IT-ER-IBC-SP00001-0001494</eac-cpf:recordID>
+		<eac-cpf:maintenanceStatus>scheda pubblicata</eac-cpf:maintenanceStatus>
+	</eac-cpf:controlArea>
+	<eac-cpf:descriptionArea rdf:about="description/IT-ER-IBC-SP00001-0001494">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area della descrizione: 	Opera pia Minguzzi di Cotignola</rdfs:label>
+		<eac-cpf:nameEntry rdf:parseType="Resource">
+			<authorizedForm>IBCSAN</authorizedForm>
+			<foaf:name>Opera pia Minguzzi di Cotignola</foaf:name>
+		</eac-cpf:nameEntry>
+		<eac-cpf:existDates>1858 - [1981]</eac-cpf:existDates>
+		<eac-cpf:hasPlace rdf:resource="luoghiSAN/Cotignola_8_1119"/>
+		<eac-cpf:biogHist>Fu istituito nel con testamento del sacerdote don Bartolomeo Minguzzi del 20 gennaio 1858, a rogito del notaio Giovanni Graziani di Cotignola, aperto il 7 ottobre 1859, dopo la morte del testatore avvenuta il 4 ottobre, che lasciò parte della rendita per elargire elemosine ai poveri infermi che non potevano essere accolti nell'ospedale Testi e nell'ospizio Tarlazzi e parte per opere di culto (feste religiose, celebrazione di messe, organizzazione di un "corso di sante missioni&amp;quot; ogni tre anni nella parrocchia arcipretale di S. Stefano, ecc.). Come amministratore il fondatore nominò l'arciprete &amp;quot;pro tempore&amp;quot; di Cotignola. Nello stesso testamento, il Minguzzi nominava l'amministratore dell'opera pia Baruzzi, così come stabilito dal fondatore di quella, don Giosuè Baruzzi, nel 1841. L'opera pia Minguzzi fu concentrata nella Congregazione di carità normata dal Governo provvisorio delle Romagne (decreto del 25 luglio 1859 e &amp;quot;decreto Cipriani&amp;quot; del 19 agosto 1859) e dal Regno di Sardegna (legge del 20 novembre 1859 e regolamento del 18 agosto 1860), anche se non risultava ancora concentrata nel 1860, e, in seguito, sotto la Congregazione istituita dallo Stato italiano (legge del 3 agosto 1862, n. 753), a cui fu annessa con il regio decreto del 19 luglio 1863. In base al regolamento del 4 giugno 1872 risultava che l'opera pia doveva distribuire sussidi in denaro, tramite formazione di elenchi dei poveri; i requisiti per l'ammissione era di essere delle parrocchie di Cotignola di essere infermi tali da non poter essere accolti nell'ospizio Tarlazzi e nell'ospedale Testi.
+L'opera pia seguì negli anni successivi le vicende normative della Congregazione di carità, in particolare con la legge del 17 luglio 1890, n. 6972, che istituì le istituzioni di pubblica assistenza e beneficenza. Un successivo regolamento, che riprese quello del 1872, fu emanato il 4 novembre 1890. Nel 1908-1910 la Congregazione di carità determinò una trasformazione dei legati di culto stabiliti dal testatore e amministrati dall'opera pia, ai sensi della legge del 1890, in un'ulteriore elargizione per i poveri infermi e cronici.
+In seguito alla legge del 3 giugno 1937, n. 847, istitutiva di un ente comunale di assistenza (E.C.A.) in ogni comune e anche a Cotignola, l'opera pia Minguzzi fu concentrata nell'E.C.A. di Cotingola con tutte le altre istituzioni pubbliche di assistenza e beneficenza (II.PP.AA.BB.) e opere pie della città con lo stesso fine di provvedere &amp;quot; ... all'assistenza generica, immediata e temporanea, con soccorsi in danaro o un natura o con prestazioni ...&amp;quot; (art. 7), in base al regio decreto legge del 16 giugno 1938, n. 1168.
+Nel censimento condotto dall'Istituto dei beni culturali della Regione Emilia-Romagna nel 1980 l'istituto non risultava attivo.
+Il consiglio comunale di Cotignola con le delibere del 9 ottobre 1980, n. 294, e del 29 luglio 1981, nn. 225-226, espresse un parere sull'assoggettabilità a liquidazione di tutte le opere pie di Cotignola, sia quelle che definite &amp;quot;ex ECA&amp;quot; che quelle &amp;quot;ex OO.PP.RR.", decretando che tutte fossero assoggettate a liquidazione, in attuazione del D.P.R. del 24 luglio 1977, n. 616, e ai sensi dell'art. 5, comma 1 della legge regionale dell'8 aprile 1980, n. 25.</eac-cpf:biogHist>
+	</eac-cpf:descriptionArea>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001480">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-parent</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001480"/>
+		<dc:date>[1860]-1937</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001499">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-parent</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001499"/>
+		<dc:date>1937-1978</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:place rdf:about="luoghiSAN/Cotignola_8_1119">
+		<rdfs:label>Cotignola</rdfs:label>
+		<dc:title>Cotignola</dc:title>
+		<eac-cpf:placeRole>sede</eac-cpf:placeRole>
+	</eac-cpf:place>
+	<skos:Concept rdf:about="luoghiSAN/Cotignola_8_1119">
+		<rdfs:label xml:lang="it">Cotignola</rdfs:label>
+		<skos:prefLabel xml:lang="it">Cotignola</skos:prefLabel>
+		<dc:title xml:lang="it">Cotignola</dc:title>
+	</skos:Concept>
+	<eac-cpf:corporateBody rdf:about="eac-cpf/IT-ER-IBC-SP00001-0001495">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Opera pia Baruzzi di Cotignola, 1841 - [1981]</rdfs:label>
+		<dc:title>Opera pia Baruzzi di Cotignola, 1841 - [1981]</dc:title>
+		<dc:date>1841 - [1981]</dc:date>
+		<dcterms:temporal>1841-01-01/1981-12-31</dcterms:temporal>
+		<dc:coverage>Cotignola</dc:coverage>
+		<foaf:name>Opera pia Baruzzi di Cotignola</foaf:name>
+		<dcterms:provenance rdf:resource="IBCSAN"/>
+		<dcterms:isReferencedBy rdf:resource="http://archivi.ibc.regione.emilia-romagna.it/eac-cpf/IT-ER-IBC-SP00001-0001495"/>
+		<eac-cpf:control rdf:resource="control/IT-ER-IBC-SP00001-0001495"/>
+		<eac-cpf:description rdf:resource="description/IT-ER-IBC-SP00001-0001495"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001480"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001499"/>
+	</eac-cpf:corporateBody>
+	<eac-cpf:controlArea rdf:about="control/IT-ER-IBC-SP00001-0001495">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area del controllo:	Opera pia Baruzzi di Cotignola</rdfs:label>
+		<eac-cpf:recordID>IT-ER-IBC-SP00001-0001495</eac-cpf:recordID>
+		<eac-cpf:maintenanceStatus>scheda pubblicata</eac-cpf:maintenanceStatus>
+	</eac-cpf:controlArea>
+	<eac-cpf:descriptionArea rdf:about="description/IT-ER-IBC-SP00001-0001495">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area della descrizione: 	Opera pia Baruzzi di Cotignola</rdfs:label>
+		<eac-cpf:nameEntry rdf:parseType="Resource">
+			<authorizedForm>IBCSAN</authorizedForm>
+			<foaf:name>Opera pia Baruzzi di Cotignola</foaf:name>
+		</eac-cpf:nameEntry>
+		<eac-cpf:existDates>1841 - [1981]</eac-cpf:existDates>
+		<eac-cpf:hasPlace rdf:resource="luoghiSAN/Cotignola_8_1170"/>
+		<eac-cpf:biogHist>Fu istituito nel 1841 con testamento del sacerdote Giosuè Baruzzi del 23 settembre 1841, a rogito del notaio Patrizio Cassani di Cotignola, che erogò per celebrare due messe al mese in memoria del testatore e per un'altra funzione di chiesa e per elargire elemosina ai poveri, coi mezzi derivati dalle rendite del fondatore.
+L'opera pia fu concentrata nella Congregazione di carità normata dal Governo provvisorio delle Romagne (decreto del 25 luglio 1859 e "decreto Cipriani&amp;quot; del 19 agosto 1859), dal Regno di Sardegna (legge del 20 novembre 1859 e regolamento del 18 agosto 1860) e, in seguito, sotto la Congregazione istituita dallo Stato italiano (legge del 3 agosto 1862, n. 753), a cui fu concentrata in base al regio decreto del 6 aprile 1865. In base al regolamento del 4 giugno 1872 risultava che l'opera pia doveva distribuire sussidi in denaro, tramite formazione di elenchi dei poveri; i requisiti per l'ammissione era di essere poveri e del comune di Cotignola.
+L'opera pia seguì negli anni successivi le vicende normative della Congregazione di carità, in particolare con la legge del 17 luglio 1890, n. 6972, che istituì le istituzioni di pubblica assistenza e beneficenza. Un successivo regolamento, che riprese quello del 1872, fu emanato il 4 novembre 1890.
+In seguito alla legge del 3 giugno 1937, n. 847, istitutiva di un ente comunale di assistenza (E.C.A.) in ogni comune e anche a Cotignola, l'opera pia fu concentrata nell'E.C.A. di Cotingola con tutte le altre istituzioni pubbliche di assistenza e beneficenza (II.PP.AA.BB.) e opere pie della città con lo stesso fine di provvedere &amp;quot; ... all'assistenza generica, immediata e temporanea, con soccorsi in danaro o un natura o con prestazioni ...&amp;quot; (art. 7), in base al regio decreto legge del 16 giugno 1938, n. 1168.
+Nel censimento condotto dall'Istituto dei beni culturali della Regione Emilia-Romagna nel 1980 l'istituto non risultava attivo.
+Il consiglio comunale di Cotignola con le delibere del 9 ottobre 1980, n. 294, e del 29 luglio 1981, nn. 225-226, espresse un parere sull'assoggettabilità a liquidazione di tutte le opere pie di Cotignola, sia quelle che definite &amp;quot;ex ECA&amp;quot; che quelle &amp;quot;ex OO.PP.RR.", decretando che tutte fossero assoggettate a liquidazione, in attuazione del D.P.R. del 24 luglio 1977, n. 616, e ai sensi dell'art. 5, comma 1 della legge regionale dell'8 aprile 1980, n. 25.</eac-cpf:biogHist>
+	</eac-cpf:descriptionArea>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001480">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-parent</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001480"/>
+		<dc:date>1859-1937</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001499">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-parent</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001499"/>
+		<dc:date>1937-1978</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:place rdf:about="luoghiSAN/Cotignola_8_1170">
+		<rdfs:label>Cotignola</rdfs:label>
+		<dc:title>Cotignola</dc:title>
+		<eac-cpf:placeRole>sede</eac-cpf:placeRole>
+	</eac-cpf:place>
+	<skos:Concept rdf:about="luoghiSAN/Cotignola_8_1170">
+		<rdfs:label xml:lang="it">Cotignola</rdfs:label>
+		<skos:prefLabel xml:lang="it">Cotignola</skos:prefLabel>
+		<dc:title xml:lang="it">Cotignola</dc:title>
+	</skos:Concept>
+	<eac-cpf:corporateBody rdf:about="eac-cpf/IT-ER-IBC-SP00001-0001496">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Opera pia Cointeressati Zannoni di Cotignola, 1852 - 1938</rdfs:label>
+		<dc:title>Opera pia Cointeressati Zannoni di Cotignola, 1852 - 1938</dc:title>
+		<dc:date>1852 - 1938</dc:date>
+		<dcterms:temporal>1852-01-01/1938-12-31</dcterms:temporal>
+		<dc:coverage>Cotignola</dc:coverage>
+		<foaf:name>Opera pia Cointeressati Zannoni di Cotignola</foaf:name>
+		<dcterms:provenance rdf:resource="IBCSAN"/>
+		<dcterms:isReferencedBy rdf:resource="http://archivi.ibc.regione.emilia-romagna.it/eac-cpf/IT-ER-IBC-SP00001-0001496"/>
+		<eac-cpf:control rdf:resource="control/IT-ER-IBC-SP00001-0001496"/>
+		<eac-cpf:description rdf:resource="description/IT-ER-IBC-SP00001-0001496"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001480"/>
+	</eac-cpf:corporateBody>
+	<eac-cpf:controlArea rdf:about="control/IT-ER-IBC-SP00001-0001496">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area del controllo:	Opera pia Cointeressati Zannoni di Cotignola</rdfs:label>
+		<eac-cpf:recordID>IT-ER-IBC-SP00001-0001496</eac-cpf:recordID>
+		<eac-cpf:maintenanceStatus>scheda pubblicata</eac-cpf:maintenanceStatus>
+	</eac-cpf:controlArea>
+	<eac-cpf:descriptionArea rdf:about="description/IT-ER-IBC-SP00001-0001496">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area della descrizione: 	Opera pia Cointeressati Zannoni di Cotignola</rdfs:label>
+		<eac-cpf:nameEntry rdf:parseType="Resource">
+			<authorizedForm>IBCSAN</authorizedForm>
+			<foaf:name>Opera pia Cointeressati Zannoni di Cotignola</foaf:name>
+		</eac-cpf:nameEntry>
+		<eac-cpf:existDates>1852 - 1938</eac-cpf:existDates>
+		<eac-cpf:hasPlace rdf:resource="luoghiSAN/Cotignola_8_1221"/>
+		<eac-cpf:biogHist>Fu istituito nel 1852 dalla stessa Congregazione della carità di Cotignola per sanare i debiti delle opere pie di Cotignola causati dall'operato del cassiere Giovanni Zannoni. Il cassiere della Congregazione, infatti, aveva lasciato un ingente debito nelle casse degli istituti del Monte di pietà, degli orfanotrofi maschile e femminile, delle opere pie Baldini e Galvanelli, e fu pertanto costretto a cedere come riparazione, anche se insufficiente, i suoi beni alla Congregazione che, dopo aver pagato gli altri debiti dello Zannoni, conservò una possessione dal cui reddito ricavare man mano le cifre per ripagare gli istituti creditori. Dopo aver pagato tutti i debiti, la Congregazione aveva intenzione di destinare questo istituto a divenire un istituto elemosiniero per tutti i poveri del comune. Fu concentrato nella Congregazione di carità istituita con legge del 3 agosto 1862, n. 753, in base al R.D. del 19 luglio 1863. Nel 1898 la Congregazione propose di devolvere le rendite derivate dall'istituto all'ospedale Testi (cfr. Archivio della Congregazione di carità di Cotignola, &lt;em&gt;Carteggio,&lt;/em&gt; &lt;em&gt;Carteggio amministrativo. Titolario "tabella B"&lt;/em&gt;, 1898, tit. VIII, b. 109). Nel 1938, con il R.D. dell'11 ottobre, l'istituto fu fuso con l'Ente comunale di assistenza (E.C.A.) di Cotignola (cfr. Biblioteca comunale di Cotignola, Archivio dell'Ente comunale di assistenza di Cotignola, &lt;em&gt;Carteggio amministrativo&lt;/em&gt;, 1938, b. 142).</eac-cpf:biogHist>
+	</eac-cpf:descriptionArea>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001480">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hierarchical-parent</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001480"/>
+		<dc:date>1859-1938</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:place rdf:about="luoghiSAN/Cotignola_8_1221">
+		<rdfs:label>Cotignola</rdfs:label>
+		<dc:title>Cotignola</dc:title>
+		<eac-cpf:placeRole>sede</eac-cpf:placeRole>
+	</eac-cpf:place>
+	<skos:Concept rdf:about="luoghiSAN/Cotignola_8_1221">
+		<rdfs:label xml:lang="it">Cotignola</rdfs:label>
+		<skos:prefLabel xml:lang="it">Cotignola</skos:prefLabel>
+		<dc:title xml:lang="it">Cotignola</dc:title>
+	</skos:Concept>
+	<eac-cpf:corporateBody rdf:about="eac-cpf/IT-ER-IBC-SP00001-0001497">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Opera pia Spada di Cotignola, 1883 - [1981]</rdfs:label>
+		<dc:title>Opera pia Spada di Cotignola, 1883 - [1981]</dc:title>
+		<dc:date>1883 - [1981]</dc:date>
+		<dcterms:temporal>1883-01-01/1981-12-31</dcterms:temporal>
+		<dc:coverage>Cotignola</dc:coverage>
+		<foaf:name>Opera pia Spada di Cotignola</foaf:name>
+		<dcterms:provenance rdf:resource="IBCSAN"/>
+		<dcterms:isReferencedBy rdf:resource="http://archivi.ibc.regione.emilia-romagna.it/eac-cpf/IT-ER-IBC-SP00001-0001497"/>
+		<eac-cpf:control rdf:resource="control/IT-ER-IBC-SP00001-0001497"/>
+		<eac-cpf:description rdf:resource="description/IT-ER-IBC-SP00001-0001497"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001480"/>
+	</eac-cpf:corporateBody>
+	<eac-cpf:controlArea rdf:about="control/IT-ER-IBC-SP00001-0001497">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area del controllo:	Opera pia Spada di Cotignola</rdfs:label>
+		<eac-cpf:recordID>IT-ER-IBC-SP00001-0001497</eac-cpf:recordID>
+		<eac-cpf:maintenanceStatus>scheda pubblicata</eac-cpf:maintenanceStatus>
+	</eac-cpf:controlArea>
+	<eac-cpf:descriptionArea rdf:about="description/IT-ER-IBC-SP00001-0001497">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area della descrizione: 	Opera pia Spada di Cotignola</rdfs:label>
+		<eac-cpf:nameEntry rdf:parseType="Resource">
+			<authorizedForm>IBCSAN</authorizedForm>
+			<foaf:name>Opera pia Spada di Cotignola</foaf:name>
+		</eac-cpf:nameEntry>
+		<eac-cpf:existDates>1883 - [1981]</eac-cpf:existDates>
+		<eac-cpf:hasPlace rdf:resource="luoghiSAN/Cotignola_8_1267"/>
+		<eac-cpf:biogHist>Fu istituita nel 1883 con testamento del sacerdote Giovanni Spada del 3 gennaio 1883, a rogito del notaio Antonio Grilli, con lo scopo di "aiutare, mediante sussidi in denaro o con somministrazione gratuita di generi alimentari, medicine, ecc. i poveri della parrochia di S. Stefano, in particolare quelli che, trovandosi ammalati, non potevano trovare ricovero negli istituti locali", utilizzando le rendite dei beni del fondatore. Per volere del testatore l'opera pia doveva essere amministrata dall'arciprete &lt;em&gt;pro tempore&lt;/em&gt; di Cotignola e da due altri sacerdoti (il numero di membri del consiglio d'amministrazione fu portato a cinque, fra cui sempre l'arciprete di Cotignola, due sacerdoti e due altri membri nominati dal Vescovo di Faenza solo con lo statuto nel 1952-1953).&lt;br /&gt;Fu eretta in ente morale con r.d. del 28 luglio 1890. In base all'art. 89 della legge del 17 luglio 1890, gli amministratori dell'opera pia avrebbero avuto l'obbligo di denuncia al sindaco di Cotignola dello stato dell'opera pia, ma l'amministratore sottolineava che, essendo questa un'istituzione ecclesiastica, non aveva alcun obbligo di concentramento, raggruppamento o trasformazione (artt. 56 e 60, cap. VI della legge del 1890). A sua volta, Il presidente della Congregazione di carità di Cotignola scrisse una relazione a favore del concentramento delle opere pie Biondi, Spada e Graziani, facendo leva sul fatto che la legge stabiliva che tutti gli istituti che avevano un fine elemosiniero dovevano essere concentrati. Infatti, la Congregazione di carità deliberò per il concentramento il 7 dicembre 1893. Il 21 giugno 1894 il Consiglio comunale di Cotignola, sentito il parere legale di due avvocati, deliberò di rigettare l'ipotesi di concentramento, ammettendo solo una collaborazione per l'elargizione delle elemosine. Il 30 agosto 1894 anche la Giunta provinciale amministrativa di Ravenna dava parere favorevole al concentramento, mentre il 9 maggio 1895 il Ministero dell'Interno esprimeva totale accordo col Consiglio comunale di Cotignola che aveva espresso parere contrario. Il Consiglio comunale cambiò idea nel 1907 (delibera del 21 ottobre) e approvò il concentramento dell'opera pia Spada nella Congregazione di carità, approvato poi dalla Congregazione di carità stessa con delibera del 26 novembre. Il 21 aprile 1908 anche la Commissione provinciale per l'assistenza e la beneficenza pubblica diede parere favorevole, nonostante l'opposizione dell'arciprete di Cotignola, amministratore dell'opera pia Spada.&lt;br /&gt;L'opera pia fu concentrata con R.D. del 10 gennaio 1909, ma il 5 marzo gli eredi Spada fecero ricorso e a ottobre-novembre di quell'anno il Consiglio di stato annullò il decreto. Infatti, in un prospetto delle opere pie stilato nel [1955], l'opera pia Spada risultava amministrata non dall'Ente comunale di assistenza (E.C.A.) e nemmeno dalle Opere pie raggruppate (OO.PP.RR.), ma da una Commissione prefettizia. &lt;br /&gt;Nel censimento condotto dall'Istituto dei beni culturali della Regione Emilia-Romagna nel 1980 l'istituto risultava ancora attivo per offrire "assistenza domiciliare per handicappati, pagamento di rette per ricoveri in istituti, assistenza econmica a bisognosi, contributi e sussidi scolastiic, sussidi per opere parrocchiali".&lt;br /&gt;Il consiglio comunale di Cotignola con le delibere del 9 ottobre 1980, n. 294, e del 29 luglio 1981, nn. 225-226, espresse un parere sull'assoggettabilità a liquidazione di tutte le opere pie di Cotignola, sia quelle che definite "ex ECA" che quelle "ex OO.PP.RR.", sia quelle in amministrazione autonoma, decretando che tutte fossero assoggettate a liquidazione, in attuazione del D.P.R. del 24 luglio 1977, n. 616, e ai sensi dell'art. 5, comma 1 della legge regionale dell'8 aprile 1980, n. 25.</eac-cpf:biogHist>
+	</eac-cpf:descriptionArea>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001480">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">associative</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001480"/>
+		<dc:date>1894-1909</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:place rdf:about="luoghiSAN/Cotignola_8_1267">
+		<rdfs:label>Cotignola</rdfs:label>
+		<dc:title>Cotignola</dc:title>
+		<eac-cpf:placeRole>sede</eac-cpf:placeRole>
+	</eac-cpf:place>
+	<skos:Concept rdf:about="luoghiSAN/Cotignola_8_1267">
+		<rdfs:label xml:lang="it">Cotignola</rdfs:label>
+		<skos:prefLabel xml:lang="it">Cotignola</skos:prefLabel>
+		<dc:title xml:lang="it">Cotignola</dc:title>
+	</skos:Concept>
+	<eac-cpf:corporateBody rdf:about="eac-cpf/IT-ER-IBC-SP00001-0001498">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Asilo infantile Carlo Maria Spada di Cotignola, 1845 -[1981]</rdfs:label>
+		<dc:title>Asilo infantile Carlo Maria Spada di Cotignola, 1845 -[1981]</dc:title>
+		<dc:date>1845 -[1981]</dc:date>
+		<dcterms:temporal>1845-01-01/1845-12-31</dcterms:temporal>
+		<dc:coverage>Cotignola</dc:coverage>
+		<foaf:name>Asilo infantile Carlo Maria Spada di Cotignola</foaf:name>
+		<dcterms:provenance rdf:resource="IBCSAN"/>
+		<dcterms:isReferencedBy rdf:resource="http://archivi.ibc.regione.emilia-romagna.it/eac-cpf/IT-ER-IBC-SP00001-0001498"/>
+		<eac-cpf:control rdf:resource="control/IT-ER-IBC-SP00001-0001498"/>
+		<eac-cpf:description rdf:resource="description/IT-ER-IBC-SP00001-0001498"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001480"/>
+	</eac-cpf:corporateBody>
+	<eac-cpf:controlArea rdf:about="control/IT-ER-IBC-SP00001-0001498">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area del controllo:	Asilo infantile Carlo Maria Spada di Cotignola</rdfs:label>
+		<eac-cpf:recordID>IT-ER-IBC-SP00001-0001498</eac-cpf:recordID>
+		<eac-cpf:maintenanceStatus>scheda pubblicata</eac-cpf:maintenanceStatus>
+	</eac-cpf:controlArea>
+	<eac-cpf:descriptionArea rdf:about="description/IT-ER-IBC-SP00001-0001498">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area della descrizione: 	Asilo infantile Carlo Maria Spada di Cotignola</rdfs:label>
+		<eac-cpf:nameEntry rdf:parseType="Resource">
+			<authorizedForm>IBCSAN</authorizedForm>
+			<foaf:name>Asilo infantile Carlo Maria Spada di Cotignola</foaf:name>
+		</eac-cpf:nameEntry>
+		<eac-cpf:existDates>1845 -[1981]</eac-cpf:existDates>
+		<eac-cpf:hasPlace rdf:resource="luoghiSAN/Cotignola_8_1313"/>
+		<eac-cpf:biogHist>L'istituto era stato fondato con R.D. del 15 marzo 1845, istituito da illustri cittadini di Cotignola, col concorso del Comune e della Congregazione di carità, ed eretto in ente morale con R.D. del 1885, poi modificato nel 1941, per "togliere dalla strada i figli dei poveri onde allontanarli dai pericoli corporali cui l'inncuria o la triste condizione dei parenti li espone". Nel 1924 il cotignolese Carlo Maria Spada elargì una grossa somma per risanare l'asilo, e per questo gli fu intitolato. Un secondo benefattore fu Angelo Maltoni. Nel 1928 la Congregazione di carità alienò un edificio di proprietà dell'opera pia orfanotrofio femminile per farne la sede dell'asilo infantile di Cotignola (cfr. Biblioteca comunale di Cotignola, Archivio della Congregazione di carità di Cotignola, &lt;em&gt;Carteggio&lt;/em&gt;, &lt;em&gt;Carteggio amministrativo. Titolario "tabella B"&lt;/em&gt;, 1928, tit. IV, rub. 11, busta 132) e nella documentazione contabile, da cui risulta che la Congregazione di carità di Cotignola partecipava all'amministrazione (cfr. Biblioteca comunale di Cotignola, Archivio della Congregazione di carità di Cotignola, &lt;em&gt;Registri dei mandati, &lt;/em&gt;1935) e così, dopo il 1937, l'Ente comunale di assistenza (E.C.A.) di Cotignola (cfr. Biblioteca comunale di Cotignola, Archivio dell'Ente comunale di assistenza di Cotignola, &lt;em&gt;Bilanci preventivi, &lt;/em&gt;1942-1944, e &lt;em&gt;Registri dei mandati, &lt;/em&gt;1939). S'ipotizza che l'asilo fosse solo amministrato dalla Congregazione poi dall'E.C.A., ma che non vi fosse stato concentrato: infatti, da documentazione successiva l'asilo risulta avere un'amministraizone autonoma. Nel censimento condotto dall'Istituto dei beni culturali della Regione Emilia-Romagna nel 1980 l'istituto non era annoverato né fra le opere pie "ex E.C.A." né fra quelle "ex OO.PP.RR.", e risultava ancora attivo come scuola materna.&lt;br /&gt;Il consiglio comunale di Cotignola con le delibere del 9 ottobre 1980, n. 294, e del 29 luglio 1981, nn. 225-226, espresse un parere sull'assoggettabilità a liquidazione di tutte le opere pie di Cotignola, sia quelle che definite "ex ECA" che quelle "ex OO.PP.RR.", sia quelle in amministraizone autonoma, come l'asilo infantile, decretando che tutte fossero assoggettate a liquidazione, in attuazione del D.P.R. del 24 luglio 1977, n. 616, e ai sensi dell'art. 5, comma 1 della legge regionale dell'8 aprile 1980, n. 25.</eac-cpf:biogHist>
+	</eac-cpf:descriptionArea>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001480">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">associative</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001480"/>
+		<dc:date>[1845-1937]</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:place rdf:about="luoghiSAN/Cotignola_8_1313">
+		<rdfs:label>Cotignola</rdfs:label>
+		<dc:title>Cotignola</dc:title>
+		<eac-cpf:placeRole>sede</eac-cpf:placeRole>
+	</eac-cpf:place>
+	<skos:Concept rdf:about="luoghiSAN/Cotignola_8_1313">
+		<rdfs:label xml:lang="it">Cotignola</rdfs:label>
+		<skos:prefLabel xml:lang="it">Cotignola</skos:prefLabel>
+		<dc:title xml:lang="it">Cotignola</dc:title>
+	</skos:Concept>
+	<eac-cpf:corporateBody rdf:about="eac-cpf/IT-ER-IBC-SP00001-0001499">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ente comunale di assistenza di Cotignola, 1937 - 1978</rdfs:label>
+		<dc:title>Ente comunale di assistenza di Cotignola, 1937 - 1978</dc:title>
+		<dc:date>1937 - 1978</dc:date>
+		<dcterms:temporal>1937-01-01/1978-12-31</dcterms:temporal>
+		<dc:coverage>Cotignola</dc:coverage>
+		<foaf:name>Ente comunale di assistenza di Cotignola</foaf:name>
+		<dcterms:provenance rdf:resource="IBCSAN"/>
+		<dcterms:isReferencedBy rdf:resource="http://archivi.ibc.regione.emilia-romagna.it/eac-cpf/IT-ER-IBC-SP00001-0001499"/>
+		<eac-cpf:control rdf:resource="control/IT-ER-IBC-SP00001-0001499"/>
+		<eac-cpf:description rdf:resource="description/IT-ER-IBC-SP00001-0001499"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001500"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001480"/>
+	</eac-cpf:corporateBody>
+	<eac-cpf:controlArea rdf:about="control/IT-ER-IBC-SP00001-0001499">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area del controllo:	Ente comunale di assistenza di Cotignola</rdfs:label>
+		<eac-cpf:recordID>IT-ER-IBC-SP00001-0001499</eac-cpf:recordID>
+		<eac-cpf:maintenanceStatus>scheda pubblicata</eac-cpf:maintenanceStatus>
+	</eac-cpf:controlArea>
+	<eac-cpf:descriptionArea rdf:about="description/IT-ER-IBC-SP00001-0001499">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area della descrizione: 	Ente comunale di assistenza di Cotignola</rdfs:label>
+		<eac-cpf:nameEntry rdf:parseType="Resource">
+			<authorizedForm>IBCSAN</authorizedForm>
+			<foaf:name>Ente comunale di assistenza di Cotignola</foaf:name>
+		</eac-cpf:nameEntry>
+		<eac-cpf:nameEntry rdf:parseType="Resource">
+			<authorizedForm>IBCSAN</authorizedForm>
+			<foaf:name>ECA di Cotignola</foaf:name>
+		</eac-cpf:nameEntry>
+		<eac-cpf:existDates>1937 - 1978</eac-cpf:existDates>
+		<eac-cpf:hasPlace rdf:resource="luoghiSAN/Cotignola_8_1362"/>
+		<eac-cpf:biogHist>L'Ente comunale di assistenza (ECA) di Cotignola fu istituito con la legge del 3 giugno 1937, n. 847, e raccolse le attribuzioni esercitate fino a quella data dalla Congregazione di carità. Nello statuto approvato il 22 giugno 1955 si legge che l'ECA, definito "ex Congregazione di carità, ex Opera pia cointeressati Zannoni&amp;quot;, aveva il compito di assistere &amp;quot;... coloro che si trovavano in condizioni di particolare necessità ... [attuare] il coordinamento ed il migliore impiego delle varie attività assistenziali esistenti nel comune [assicurare] ... l'intervento degli organi, enti o istituti di assistenza o di previdenza ... [promuovere] ... la costituzione e lo sviluppo di qualsiasi attività assistenziale, ritenuta utile ai fini di maggiore benessere delle classi meno agiate.&amp;quot; (art. 2). In particolare, l'ECA doveva amministrare, mantenendoli separati, il patrimonio e la contabilità delle istituzioni di assistenza e beneficenza a esso affidate e doveva curare le erogazioni delle rendite ai fini della beneficenza. Le opere pie che furono concentrate nell'ECA di Cotignola, perchè in base all'art. 7 della legge del 3 agosto 1937 avevano lo stesso fine di &amp;quot;assistenza generica immediata e temporanea, con soccorsi in danaro o in natura o con prestazioni ...", furono l'Opera pia Baldini, le opere pie Baruzzi, Galvanelli, Cortesi e Marangoni, Minguzzi, l'Opera pia Carcerati e doti (Testi), l'Opera pia Studi Testi, l'Opera pia ospizio degli invalidi (Tarlazzi) (art. 4 dello statuto del 1955).</eac-cpf:biogHist>
+	</eac-cpf:descriptionArea>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001500">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">associative</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001500"/>
+		<dc:date>1938</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001480">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">temporal-earlier</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001480"/>
+		<dc:date>1937</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:place rdf:about="luoghiSAN/Cotignola_8_1362">
+		<rdfs:label>Cotignola</rdfs:label>
+		<dc:title>Cotignola</dc:title>
+		<eac-cpf:placeRole>sede</eac-cpf:placeRole>
+	</eac-cpf:place>
+	<skos:Concept rdf:about="luoghiSAN/Cotignola_8_1362">
+		<rdfs:label xml:lang="it">Cotignola</rdfs:label>
+		<skos:prefLabel xml:lang="it">Cotignola</skos:prefLabel>
+		<dc:title xml:lang="it">Cotignola</dc:title>
+	</skos:Concept>
+	<eac-cpf:corporateBody rdf:about="eac-cpf/IT-ER-IBC-SP00001-0001500">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Opere pie raggruppate di Cotignola, 1938 - [1977]</rdfs:label>
+		<dc:title>Opere pie raggruppate di Cotignola, 1938 - [1977]</dc:title>
+		<dc:date>1938 - [1977]</dc:date>
+		<dcterms:temporal>1938-01-01/1977-12-31</dcterms:temporal>
+		<dc:coverage>Cotignola</dc:coverage>
+		<foaf:name>Opere pie raggruppate di Cotignola</foaf:name>
+		<dcterms:provenance rdf:resource="IBCSAN"/>
+		<dcterms:isReferencedBy rdf:resource="http://archivi.ibc.regione.emilia-romagna.it/eac-cpf/IT-ER-IBC-SP00001-0001500"/>
+		<eac-cpf:control rdf:resource="control/IT-ER-IBC-SP00001-0001500"/>
+		<eac-cpf:description rdf:resource="description/IT-ER-IBC-SP00001-0001500"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001499"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001480"/>
+	</eac-cpf:corporateBody>
+	<eac-cpf:controlArea rdf:about="control/IT-ER-IBC-SP00001-0001500">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area del controllo:	Opere pie raggruppate di Cotignola</rdfs:label>
+		<eac-cpf:recordID>IT-ER-IBC-SP00001-0001500</eac-cpf:recordID>
+		<eac-cpf:maintenanceStatus>scheda pubblicata</eac-cpf:maintenanceStatus>
+	</eac-cpf:controlArea>
+	<eac-cpf:descriptionArea rdf:about="description/IT-ER-IBC-SP00001-0001500">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area della descrizione: 	Opere pie raggruppate di Cotignola</rdfs:label>
+		<eac-cpf:nameEntry rdf:parseType="Resource">
+			<authorizedForm>IBCSAN</authorizedForm>
+			<foaf:name>Opere pie raggruppate di Cotignola</foaf:name>
+		</eac-cpf:nameEntry>
+		<eac-cpf:existDates>1938 - [1977]</eac-cpf:existDates>
+		<eac-cpf:hasPlace rdf:resource="luoghiSAN/Cotignola_8_1413"/>
+		<eac-cpf:biogHist>Le Opere pie raggruppate (OO.PP.RR.) di Cotignola furono istituite con la legge del 3 giugno 1937, n. 847 e con il regio decreto legge del 16 giugno 1938, n. 1168, e raccolsero parte delle attribuzioni esercitate fino a quella data dalla Congregazione di carità. Nello statuto approvato nel [1955] si legge che le OO.PP.RR. avevano il compito di assistere "... coloro che si trovavano in particolari condizioni di bisogno, e che si trovavano nelle condizioni volute dai vari benefattori, testatori e fondatori delle istituzioni benefiche che fanno parte delle OO.PP.RR. suddette ..." (art. 2). In particolare, le OO.PP.RR. dovevano amministrare, mantenendoli separati, il patrimonio e la contabilità delle istituzioni di assistenza e beneficenza a esse affidate e dovevano curare le erogazioni delle rendite ai fini della beneficenza. Le opere pie che furono concentrate nelle OO.PP.RR. di Cotignola, perchè in base all'art. 8 della legge del 3 agosto 1937 avevano "... fini diversi dalla assistenza generica, immediata e temporanea, come ospedali, ricoveri di vecchi ed inabili, orfanotrofi, ecc.", furono l'Opera pia Ospedale infermi (Testi), l'Opera pia Orfanotrofio femmine, l'Opera pia Orfanotrofio maschi, l'Opera pia Zarabbini (art. 4 dello statuto del [1955]).
+Nel censimento condotto dall'Istituto dei beni culturali della Regione Emilia-Romagna nel 1980 le opere pie orfanotrofio femminile e orfanotrofio maschile non risultavano più attive, mentre l'opera pia Zarabbini risultava attiva come assistenza economica ai bisognosi. Negli anni successivi, all'opera pia Zarabbini fu unita l'opera pia Tarlazzi, la cui amministrazione era rimasta sotto l'ECA dopo il 1937, e nel 2008 furono fra le istituti riuniti di assitenza e beneficenza (II.RR.AA.BB.) fusi nell'Azienda pubblica di Servizi alla Persona (ASP) dei Comuni della Bassa Romagna, nata a Bagnacavallo il 1° febbraio 2008 dalla trasformazione e fusione delle 8 istituzioni pubbliche di assistenza e beneficenza (II.PP.AA.BB.) del territorio di Lugo (in base alla legge regionale del 12 marzo 2003, n. 2), fra cui era annoverato anche l'orfanotrofio femminile di Cotignola. Le II.PP.AA.BB. fuse nell'ASP di Lugo erano tutte attive nell'ambito assistenziale, sociale e socio-sanitario, nei confronti di anziani, disabili e minori. L'Opera pia Ospedale infermi (Testi), invece, fu trasfromato in ente pubblico ospedaliero nel 1968, con la legge del 12 febbraio, n. 132 ("legge Mariotti"); nel 1976 fu fuso insieme agli ospedali di Alfonsine, Bagnacavallo, Conselice, Fusignano, Lugo e Massalombarda nell'Ente ospedaliero del comprensorio di Lugo; con la legge del 23 dicembre 1978, n. 833, che istituiva il sistema sanitario nazionale (SSN) e le unità sanitarie locali (USL), entrò nell'USL di Ravenna.</eac-cpf:biogHist>
+	</eac-cpf:descriptionArea>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001499">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">associative</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001499"/>
+		<dc:date>1938</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001480">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">temporal-earlier</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001480"/>
+		<dc:date>1938</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:place rdf:about="luoghiSAN/Cotignola_8_1413">
+		<rdfs:label>Cotignola</rdfs:label>
+		<dc:title>Cotignola</dc:title>
+		<eac-cpf:placeRole>sede</eac-cpf:placeRole>
+	</eac-cpf:place>
+	<skos:Concept rdf:about="luoghiSAN/Cotignola_8_1413">
+		<rdfs:label xml:lang="it">Cotignola</rdfs:label>
+		<skos:prefLabel xml:lang="it">Cotignola</skos:prefLabel>
+		<dc:title xml:lang="it">Cotignola</dc:title>
+	</skos:Concept>
+	<eac-cpf:corporateBody rdf:about="eac-cpf/IT-ER-IBC-SP00001-0001501">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pio istituto Biondi di Barbiano, 1718 - [1895]</rdfs:label>
+		<dc:title>Pio istituto Biondi di Barbiano, 1718 - [1895]</dc:title>
+		<dc:date>1718 - [1895]</dc:date>
+		<dcterms:temporal>1718-01-01/1895-12-31</dcterms:temporal>
+		<dc:coverage>Barbiano</dc:coverage>
+		<foaf:name>Pio istituto Biondi di Barbiano</foaf:name>
+		<dcterms:provenance rdf:resource="IBCSAN"/>
+		<dcterms:isReferencedBy rdf:resource="http://archivi.ibc.regione.emilia-romagna.it/eac-cpf/IT-ER-IBC-SP00001-0001501"/>
+		<eac-cpf:control rdf:resource="control/IT-ER-IBC-SP00001-0001501"/>
+		<eac-cpf:description rdf:resource="description/IT-ER-IBC-SP00001-0001501"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001480"/>
+	</eac-cpf:corporateBody>
+	<eac-cpf:controlArea rdf:about="control/IT-ER-IBC-SP00001-0001501">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area del controllo:	Pio istituto Biondi di Barbiano</rdfs:label>
+		<eac-cpf:recordID>IT-ER-IBC-SP00001-0001501</eac-cpf:recordID>
+		<eac-cpf:maintenanceStatus>scheda pubblicata</eac-cpf:maintenanceStatus>
+	</eac-cpf:controlArea>
+	<eac-cpf:descriptionArea rdf:about="description/IT-ER-IBC-SP00001-0001501">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area della descrizione: 	Pio istituto Biondi di Barbiano</rdfs:label>
+		<eac-cpf:nameEntry rdf:parseType="Resource">
+			<authorizedForm>IBCSAN</authorizedForm>
+			<foaf:name>Pio istituto Biondi di Barbiano</foaf:name>
+		</eac-cpf:nameEntry>
+		<eac-cpf:existDates>1718 - [1895]</eac-cpf:existDates>
+		<eac-cpf:hasPlace rdf:resource="luoghiSAN/Barbiano_8_1464"/>
+		<eac-cpf:biogHist>Fu istituita nel 1718 a Barbiano del territorio di Cotignola tramite un atto pubblico del sacerdote don Giambattista Biondi del 28 luglio 1718 (&lt;em&gt;donatio inter vivos&lt;/em&gt;), a rogito del notaio Giovanni Lodovico Valvassori di Lugo, con vari finalità: erogare una messa al giorno nella chiesa di Barbiano, costruire un altare per le anime del purgatorio, creare una confraternita del pio Suffragio, celebrare festività, messe, ecc., elargire una dote a una zitella di Barbiano, mandare ogni anno una persona in pellegrinaggio a S. Francesco di Assisi, e distribuire grano ai poveri della parrocchia di Barbiano. I fondi necessari dovevano essere ricavati da una rendita di un fondo rustico. L'istitutore chiamò come amministratore l'arciprete di Barbiano, affiancato dal prete anziano e da due confratelli della parrocchia. La Congregazione di carità di Cotignola tentò di concentrare in sè l'opera pia nel 1860, incontrando l'opposizione dell'arciprete di Barbiano. Nel 1861 l'Intendenza del circondario di Lugo stabilì che l'effettiva gestione rimanesse nelle mani dell'arciprete e dei parroci di Barbiano, essendo le elargizioni di culto più consistenti di quelle per beneficenza, attribuiendo però alla Congregazione di carità di Cotignola l'autorità di sorveglianza sugli amministratori del legato limitatamente all'ambito delle elemosine per i poveri.
+In base all'art. 89 della legge del 17 luglio 1890, gli amministratori dell'opera pia avrebbero avuto l'obbligo di denuncia al sindaco di Cotignola dello stato dell'opera pia, ma l'amministratore sottolineava che, essendo questa un'istituzione ecclesiastica, non aveva alcun obbligo di concentramento, raggruppamento o trasformazione (artt. 56 e 60, cap. VI della legge del 1890). Il presidente della Congregazione di carità di Cotignola scrisse una relazione a favore del concentramento delle opere pie Biondi, Spada e Graziani, facendo leva sul fatto che la legge stabiliva che tutti gli istituti che avevano un fine elemosiniero dovevano essere concentrati. Infatti, la Congregazione di carità deliberò per il concentramento il 7 dicembre 1893. Il 21 giugno 1894 il Consiglio comunale di Cotignola, sentito il parere legale di due avvocati, deliberò di rigettare l'ipotesi di concentramento, ammettendo solo una collaborazione per l'elargizione delle elemosine. Il 30 agosto 1894 la Giunta provinciale amministrativa di Ravenna dava invece parere favorevole al concentramento, mentre il 9 maggio 1895 il Ministero dell'Interno esprimeva totale accordo col Consiglio comunale di Cotignola nel rigettarlo. Dalla documentazione si evince che la Congregaizne di carità partecipò effettivamente alla gestione di parte delle rendite del pio istituto, dal momento che si conserva corrispondenza relativa all'opera pia Biondi e anche un conto consuntivo del 1873 (cfr. Biblioteca comunale di Cotignola, Archivio della Congregazione di carità di Cotignola, &lt;em&gt;Carteggio, Carteggio amministrativo. Titolario "tabella B",&lt;/em&gt; 1862, 1864, 1866, 1868-1869, 1872-1873, 1883, bb. 80, 84-85, 87, 89, 92, 94, 99; &lt;em&gt;Conti consuntivi&lt;/em&gt;, "Conto consuntivo per l'esercizio finanziario 1873"). Successivamente al 1895 non è stato possibile reperire altre notizie sull'esistenza e conduzione del pio istituto Biondi.</eac-cpf:biogHist>
+	</eac-cpf:descriptionArea>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001480">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">associative</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001480"/>
+		<dc:date>1861-[1895]</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:place rdf:about="luoghiSAN/Barbiano_8_1464">
+		<rdfs:label>Barbiano</rdfs:label>
+		<dc:title>Barbiano</dc:title>
+		<eac-cpf:placeRole>sede</eac-cpf:placeRole>
+	</eac-cpf:place>
+	<skos:Concept rdf:about="luoghiSAN/Barbiano_8_1464">
+		<rdfs:label xml:lang="it">Barbiano</rdfs:label>
+		<skos:prefLabel xml:lang="it">Barbiano</skos:prefLabel>
+		<dc:title xml:lang="it">Barbiano</dc:title>
+	</skos:Concept>
+	<eac-cpf:corporateBody rdf:about="eac-cpf/IT-ER-IBC-SP00001-0001503">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Opera pia Graziani di Cotignola, 1875 - [1895]</rdfs:label>
+		<dc:title>Opera pia Graziani di Cotignola, 1875 - [1895]</dc:title>
+		<dc:date>1875 - [1895]</dc:date>
+		<dcterms:temporal>1875-01-01/1895-12-31</dcterms:temporal>
+		<dc:coverage>Cotignola</dc:coverage>
+		<foaf:name>Opera pia Graziani di Cotignola</foaf:name>
+		<dcterms:provenance rdf:resource="IBCSAN"/>
+		<dcterms:isReferencedBy rdf:resource="http://archivi.ibc.regione.emilia-romagna.it/eac-cpf/IT-ER-IBC-SP00001-0001503"/>
+		<eac-cpf:control rdf:resource="control/IT-ER-IBC-SP00001-0001503"/>
+		<eac-cpf:description rdf:resource="description/IT-ER-IBC-SP00001-0001503"/>
+		<eac-cpf:cpfRelation rdf:resource="relationCPF/IT-ER-IBC-SP00001-0001480"/>
+	</eac-cpf:corporateBody>
+	<eac-cpf:controlArea rdf:about="control/IT-ER-IBC-SP00001-0001503">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area del controllo:	Opera pia Graziani di Cotignola</rdfs:label>
+		<eac-cpf:recordID>IT-ER-IBC-SP00001-0001503</eac-cpf:recordID>
+		<eac-cpf:maintenanceStatus>scheda pubblicata</eac-cpf:maintenanceStatus>
+	</eac-cpf:controlArea>
+	<eac-cpf:descriptionArea rdf:about="description/IT-ER-IBC-SP00001-0001503">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area della descrizione: 	Opera pia Graziani di Cotignola</rdfs:label>
+		<eac-cpf:nameEntry rdf:parseType="Resource">
+			<authorizedForm>IBCSAN</authorizedForm>
+			<foaf:name>Opera pia Graziani di Cotignola</foaf:name>
+		</eac-cpf:nameEntry>
+		<eac-cpf:existDates>1875 - [1895]</eac-cpf:existDates>
+		<eac-cpf:hasPlace rdf:resource="luoghiSAN/Cotignola_8_1510"/>
+		<eac-cpf:biogHist>Fu istituita nel 1875 con il testamento del parroco Rinaldo Graziani, del 18 agosto 1875, a rogito del notaio Rossi di Lugo, che nominò come erede la parrocchia di S. Severo di tre poderi e un podere più piccolo (lasciato in usufurtutto alle serve del parroco), con le cui rendite celebrare messe annuali, elargire le doti per tre consorelle di S. Luigi, per i poveri della parrocchia, ecc.. Il parrocco di S. Severo fu autorizzato ad accettare l'eredità il 18 giugno 1878.
+In base all'art. 89 della legge del 17 luglio 1890, gli amministratori dell'opera pia avrebbero avuto l'obbligo di denuncia al Sindaco di Cotignola dello stato dell'opera pia, ma l'amministratore sottolineava che, essendo questa un'istituzione ecclesiastica, non aveva alcun obbligo di concentramento, raggruppamento o trasformazione (artt. 56 e 60, cap. VI della legge del 1890), almeno secondo quanto scriveva il parroco di S. Severo alla Congregazione di carità l'8 settembre 1890. Il presidente della Congregazione di carità di Cotignola scrisse una relazione a favore del concentramento delle opere pie Biondi, Spada e Graziani, facendo leva sul fatto che la legge stabiliva che tutti gli istituti che avevano un fine elemosiniero dovevano essere concentrati. Infatti, la congregazione deliberò per il concentramento il 7 dicembre 1893. Il 21 giugno 1894 il Consiglio comunale di Cotignola, sentito il parere legale di due avvocati, deliberò di rigettare l'ipotesi di concentramento, ammettendo solo una collaborazione per l'elargizione delle elemosine. Il 30 agosto 1894 la Giunta provinciale amministrativa di Ravenna dava invece parere favorevole al concentramento, mentre il 9 maggio 1895 il Ministero dell'Interno esprimeva totale accordo col Consiglio comunale di Cotignola nel rigettarlo. Successivamente al 1895 non è stato possibile reperire altre notizie sull'esistenza e conduzione dell'opera pia Graziani.</eac-cpf:biogHist>
+	</eac-cpf:descriptionArea>
+	<eac-cpf:relation rdf:about="relationCPF/IT-ER-IBC-SP00001-0001480">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">associative</rdfs:label>
+		<dcterms:relation rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001480"/>
+		<dc:date>[1890-1895]</dc:date>
+	</eac-cpf:relation>
+	<eac-cpf:place rdf:about="luoghiSAN/Cotignola_8_1510">
+		<rdfs:label>Cotignola</rdfs:label>
+		<dc:title>Cotignola</dc:title>
+		<eac-cpf:placeRole>sede</eac-cpf:placeRole>
+	</eac-cpf:place>
+	<skos:Concept rdf:about="luoghiSAN/Cotignola_8_1510">
+		<rdfs:label xml:lang="it">Cotignola</rdfs:label>
+		<skos:prefLabel xml:lang="it">Cotignola</skos:prefLabel>
+		<dc:title xml:lang="it">Cotignola</dc:title>
+	</skos:Concept>
+</rdf:RDF>

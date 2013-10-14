@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF  xmlns:bio="http://purl.org/vocab/bio/0.1/" xmlns:daia="http://purl.org/ontology/daia/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:eac-cpf="http://archivi.ibc.regione.emilia-romagna.it/ontology/eac-cpf/" xmlns:ead-san="http://san.mibac.it/ead-san/" xmlns:ead-str="http://san.mibac.it/ricerca-san/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:gn="http://www.geonames.org/ontology#" xmlns:oad="http://lod.xdams.org/reload/oad/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:scons="http://san.mibac.it/scons-san/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:viaf="http://viaf.org/ontology/1.1/#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:base="http://lod.xdams.org/reload/oad/">
+	<oad:uod rdf:about="uod/IT-ER-IBC-039009-001-003">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Archivio del Governatore di Cotignola</rdfs:label>
+		<dc:title>Archivio del Governatore di Cotignola</dc:title>
+		<oad:title>Archivio del Governatore di Cotignola</oad:title>
+		<oad:has_level rdf:resource="levelOfDescription/otherlevel"/>
+		<oad:has_otherlevel>fonds</oad:has_otherlevel>
+		<oad:archivistsNote>scheda pubblicata</oad:archivistsNote>
+		<dcterms:isPartOf rdf:resource="uod/IT-ER-IBC-039009-001-003"/>
+		<dcterms:provenance rdf:resource="IBCSAN"/>
+		<oad:referenceCode>IT-ER-IBC-039009-001-003</oad:referenceCode>
+		<dc:date>1455-1786</dc:date>
+		<oad:date>1455-1786</oad:date>
+		<dcterms:temporal>1455-01-01/1786-12-31</dcterms:temporal>
+		<oad:extentAndMedium>ml 5; pieces 69;</oad:extentAndMedium>
+		<oad:scopeAndContent>Il fondo comprende gli atti civili e repertori relativi, le lettere dei Legati, nonchè il "Libro della catena" ovvero la raccolta delle minute inviate ai commissari ducali e legati ponitifici, dei capitoli e delle grazie concesse alla Comunità.</oad:scopeAndContent>
+		<oad:languageScriptsOfMaterials rdf:resource="http://id.loc.gov/vocabulary/iso639-1/it"/>
+		<dcterms:isReferencedBy rdf:resource="http://archivi.ibc.regione.emilia-romagna.it/ead-comparc/IT-ER-IBC-039009-001-003"/>
+		<oad:has_custody rdf:resource="custody/039009-001"/>
+		<oad:has_findingAid rdf:resource="findingAid/IT-ER-IBC-AS00227-0000001"/>
+	</oad:uod>
+	<oad:findingAid rdf:about="findingAid/IT-ER-IBC-AS00227-0000001">
+		<rdfs:label>Collegamento con lo strumento di ricerca</rdfs:label>
+	</oad:findingAid>
+	<oad:custody rdf:about="custody/039009-001">
+		<rdfs:label>Collegamento con il soggetto conservatore</rdfs:label>
+		<oad:has_entity rdf:resource="eac-cpf/039009-001"/>
+	</oad:custody>
+	<oad:uod rdf:about="uod/IT-ER-IBC-039009-001-001">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Archivio storico del Comune di Cotignola</rdfs:label>
+		<dc:title>Archivio storico del Comune di Cotignola</dc:title>
+		<oad:title>Archivio storico del Comune di Cotignola</oad:title>
+		<oad:has_level rdf:resource="levelOfDescription/otherlevel"/>
+		<oad:has_otherlevel>fonds</oad:has_otherlevel>
+		<oad:archivistsNote>scheda pubblicata</oad:archivistsNote>
+		<dcterms:isPartOf rdf:resource="uod/IT-ER-IBC-039009-001-001"/>
+		<dcterms:provenance rdf:resource="IBCSAN"/>
+		<oad:referenceCode>IT-ER-IBC-039009-001-001</oad:referenceCode>
+		<dc:date>1301-1969</dc:date>
+		<oad:date>1301-1969</oad:date>
+		<dcterms:temporal>1301-01-01/1969-12-31</dcterms:temporal>
+		<oad:extentAndMedium>ml 110; pieces 869;</oad:extentAndMedium>
+		<oad:scopeAndContent>Il complesso comprende le serie tipiche degli archivi comunali quali deliberazioni, carteggio documenti contabili, instrumenti, anagrafe e stato civile. Da segnalare la presenza delle lettere dei Duchi e magistrati di Milano e dei duchi di Ferrara (1458-1585) ed un nucleo di piante e disegni del territorio (1558-sec. XX prima metà). A seguito degli ingenti danni bellici la documentazione dal 1918 al 1945 è gravemente lacunosa.</oad:scopeAndContent>
+		<oad:languageScriptsOfMaterials rdf:resource="http://id.loc.gov/vocabulary/iso639-1/it"/>
+		<dcterms:isReferencedBy rdf:resource="http://archivi.ibc.regione.emilia-romagna.it/ead-comparc/IT-ER-IBC-039009-001-001"/>
+		<oad:has_custody rdf:resource="custody/039009-001"/>
+	</oad:uod>
+	<oad:custody rdf:about="custody/039009-001">
+		<rdfs:label>Collegamento con il soggetto conservatore</rdfs:label>
+		<oad:has_entity rdf:resource="eac-cpf/039009-001"/>
+	</oad:custody>
+	<oad:uod rdf:about="uod/IT-ER-IBC-039009-001-005">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Archivio storico dell'ex Ospedale Pietro Leopoldo Testi di Cotignola</rdfs:label>
+		<dc:title>Archivio storico dell'ex Ospedale Pietro Leopoldo Testi di Cotignola</dc:title>
+		<oad:title>Archivio storico dell'ex Ospedale Pietro Leopoldo Testi di Cotignola</oad:title>
+		<oad:has_level rdf:resource="levelOfDescription/otherlevel"/>
+		<oad:has_otherlevel>fonds</oad:has_otherlevel>
+		<oad:archivistsNote>scheda pubblicata</oad:archivistsNote>
+		<dcterms:isPartOf rdf:resource="uod/IT-ER-IBC-039009-001-005"/>
+		<dcterms:provenance rdf:resource="IBCSAN"/>
+		<oad:referenceCode>IT-ER-IBC-039009-001-005</oad:referenceCode>
+		<dc:date>sec. XVIII-sec. XX</dc:date>
+		<oad:date>sec. XVIII-sec. XX</oad:date>
+		<dcterms:temporal>1701-01-01/2000-12-31</dcterms:temporal>
+		<oad:extentAndMedium>ml 0; pieces ;</oad:extentAndMedium>
+		<oad:scopeAndContent>Il complesso raccoglie la documentazione storica fino al 1948 prodotta dall'ex Ospedale Testi ed è qui conservato a titolo di deposito dal 1987, dopo che la struttura cessò la propria attività ospedaliera nel 1985-86. Istituito nel 1749, l'Ospedale fu amministrato e diretto dapprima dalla locale Congregazione di Carità poi ECA, da cui fu distaccato nel 1939 per affidarne la gestione alle Opere pie raggruppate. Nel 1976 era stato fuso insieme agli ospedali di Alfonsine, Bagnacavallo, Conselice, Fusignano, Lugo e Massalombarda nell'Ente ospedaliero del comprensorio di Lugo. A Lugo, presso la sede del distretto sanitario, si conserva l'archivio sanitario e la restante documentazione amministrativa (1939-1988) (dati desunti dalla relazione di B. Menghi Sartorio a seguito del sopralluogo effettuato nel 1998-99 per conto della Soprintendenza Archivistica per l'Emilia-Romagna)</oad:scopeAndContent>
+		<oad:languageScriptsOfMaterials rdf:resource="http://id.loc.gov/vocabulary/iso639-1/it"/>
+		<dcterms:isReferencedBy rdf:resource="http://archivi.ibc.regione.emilia-romagna.it/ead-comparc/IT-ER-IBC-039009-001-005"/>
+		<oad:has_custody rdf:resource="custody/039009-001"/>
+	</oad:uod>
+	<oad:custody rdf:about="custody/039009-001">
+		<rdfs:label>Collegamento con il soggetto conservatore</rdfs:label>
+		<oad:has_entity rdf:resource="eac-cpf/039009-001"/>
+	</oad:custody>
+	<oad:uod rdf:about="uod/IT-ER-IBC-039009-001-002">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Archivio del Giudice conciliatore di Cotignola</rdfs:label>
+		<dc:title>Archivio del Giudice conciliatore di Cotignola</dc:title>
+		<oad:title>Archivio del Giudice conciliatore di Cotignola</oad:title>
+		<oad:has_level rdf:resource="levelOfDescription/otherlevel"/>
+		<oad:has_otherlevel>fonds</oad:has_otherlevel>
+		<oad:archivistsNote>scheda pubblicata</oad:archivistsNote>
+		<dcterms:isPartOf rdf:resource="uod/IT-ER-IBC-039009-001-002"/>
+		<dcterms:provenance rdf:resource="IBCSAN"/>
+		<oad:referenceCode>IT-ER-IBC-039009-001-002</oad:referenceCode>
+		<dc:date>1875-1899</dc:date>
+		<oad:date>1875-1899</oad:date>
+		<dcterms:temporal>1875-01-01/1899-12-31</dcterms:temporal>
+		<oad:extentAndMedium>ml 0,3; pieces 2;</oad:extentAndMedium>
+		<oad:scopeAndContent>L'archivio comprende i soli verbali di seduta.</oad:scopeAndContent>
+		<oad:languageScriptsOfMaterials rdf:resource="http://id.loc.gov/vocabulary/iso639-1/it"/>
+		<dcterms:isReferencedBy rdf:resource="http://archivi.ibc.regione.emilia-romagna.it/ead-comparc/IT-ER-IBC-039009-001-002"/>
+		<oad:has_custody rdf:resource="custody/039009-001"/>
+	</oad:uod>
+	<oad:custody rdf:about="custody/039009-001">
+		<rdfs:label>Collegamento con il soggetto conservatore</rdfs:label>
+		<oad:has_entity rdf:resource="eac-cpf/039009-001"/>
+	</oad:custody>
+	<oad:uod rdf:about="uod/IT-ER-IBC-039009-001-004">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Archivio della Congregazione di carità di Cotignola e delle opere pie amministrate</rdfs:label>
+		<dc:title>Archivio della Congregazione di carità di Cotignola e delle opere pie amministrate</dc:title>
+		<oad:title>Archivio della Congregazione di carità di Cotignola e delle opere pie amministrate</oad:title>
+		<oad:has_level rdf:resource="levelOfDescription/otherlevel"/>
+		<oad:has_otherlevel>fonds</oad:has_otherlevel>
+		<oad:archivistsNote>scheda pubblicata</oad:archivistsNote>
+		<dcterms:isPartOf rdf:resource="uod/IT-ER-IBC-039009-001-004"/>
+		<dcterms:provenance rdf:resource="IBCSAN"/>
+		<oad:referenceCode>IT-ER-IBC-039009-001-004</oad:referenceCode>
+		<dc:date>1637-1950</dc:date>
+		<oad:date>1637-1950</oad:date>
+		<dcterms:temporal>1637-01-01/1950-12-31</dcterms:temporal>
+		<oad:extentAndMedium>ml 30; pieces 1261;</oad:extentAndMedium>
+		<oad:scopeAndContent>Il fondo raccoglie la documentazione prodotta dalla Congregazione di carità di Cotignola dal 1808 al 1937, con antecedenti dal 1714 e seguiti fino al 1950, relativa all'amministrazione e gestione delle opere pia della città e del territorio di Cotignola. Il fondo conserva statuti e regolamenti, inventari, corrispondenza e carteggio amministrativo, protocolli della corrispondenza, testamenti, atti in genere (come compravendite, atti di censo, capitolati d'affitto, capitolati d'asta), registri delle deliberazioni, bilanci preventivi, conti consuntivi, recapiti di cassa, registri dei mandati, libri mastri. Nella città e territorio di Cotignola furono attive numerose opere pie, fondate dal XV al XIX secolo: opere pie Baldini, Baruzzi, Minguzzi, Cortesi e Marangoni, Galvanelli, Cointeressati Zannoni, Ospedale Testi (anche, ospedale o opera pia Infermi), Carcerati e doti Testi), Studi Testi, Ospizio incurabili (anche, opera pia Tarlazzi o opera pia Invalidi), Studi Tarlazzi, Zarabbini, Orfanotrofio maschile, Orfanotrofio femminile, Monte di pietà. Le opere pie Biondi, Graziani, Spada e Asilo infantile "C.M. Spada", di cui si trova documentazione all'interno dell'archivio della Congregazione di carità, agivano in autonomia dalla congregazione stessa e non vi furono concentrate. A partire dal 1° marzo 1808 le opere pie cotignolesi fondate prima di questa data furono concentrate sotto l'amministrazione della Congregazione della carità d'istituzione napoleonica (21 dicembre 1807). Tale congregazione continuò a funzionare anche in seguito alla Restaurazione (1815), fino a essere modificata dalla legislazione del Governo provvisorio delle Romagne (1859) e del Regno sabaudo (1859-1860). In seguito a queste trasformazioni la Congregazione raccolse sotto di sè anche tutte le opere pie fondate a Cotignola e suo territorio dopo il 1808, e che erano rimaste autonome fino al 1860. La Congregazione di carità fu in seguito normata con la legge dello Stato italiano del 1862, a seguito della quale la congregazione di Cotignola concentrò sotto di sè le opere pie con i regi decreti del 19 luglio 1863 e del 6 aprile 1865. Il fondo raccoglie anche i subfondi di due congregazioni attive a Cotignola antecedentemente al 1860, poi soppresse al momento del passaggio di tutte le opere pie del territorio sotto la Congregazione di carità normata nel 1859-1860: il subfondo della Congregazione leopoldina, amministratrice delle opere pia Testi (ospedale, carcerati e doti, studi) fino al 1809 e poi dal 1822 al 1860, che raccoglie carteggio amministrativo e protocolli della corrispondenza dal 1822 al 1860; e il subfondo della Congregazione fabiana, amministratrice delle opere pie Tarlazzi (ospizio e studi) dal 1849 al 1860, che raccoglie carteggio amministrativo ed elenco della corrispondenza dal 1849 al 1860, con antecedenti dal 1845.</oad:scopeAndContent>
+		<oad:has_findingAid rdf:resource="findingAid/IT-ER-IBC-AS00227-0000001"/>
+		<oad:languageScriptsOfMaterials rdf:resource="http://id.loc.gov/vocabulary/iso639-1/it"/>
+		<dcterms:isReferencedBy rdf:resource="http://archivi.ibc.regione.emilia-romagna.it/ead-comparc/IT-ER-IBC-039009-001-004"/>
+		<oad:has_production rdf:resource="production/IT-ER-IBC-SP00001-0001479"/>
+		<oad:has_custody rdf:resource="custody/039009-001"/>
+	</oad:uod>
+	<oad:findingAid rdf:about="findingAid/IT-ER-IBC-AS00227-0000001">
+		<rdfs:label>Collegamento con lo strumento di ricerca</rdfs:label>
+	</oad:findingAid>
+	<oad:production rdf:about="production/IT-ER-IBC-SP00001-0001479">
+		<rdfs:label>Collegamento con il soggetto produttore</rdfs:label>
+		<oad:has_entity rdf:resource="eac-cpf/IT-ER-IBC-SP00001-0001479"/>
+	</oad:production>
+	<oad:custody rdf:about="custody/039009-001">
+		<rdfs:label>Collegamento con il soggetto conservatore</rdfs:label>
+		<oad:has_entity rdf:resource="eac-cpf/039009-001"/>
+	</oad:custody>
+</rdf:RDF>

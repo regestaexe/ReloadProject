@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:bio="http://purl.org/vocab/bio/0.1/" xmlns:daia="http://purl.org/ontology/daia/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:eac-cpf="http://archivi.ibc.regione.emilia-romagna.it/ontology/eac-cpf/" xmlns:ead-str="http://san.mibac.it/ricerca-san/" xmlns:event="http://purl.org/NET/c4dm/event.owl#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:gn="http://www.geonames.org/ontology#" xmlns:gr="http://purl.org/goodrelations/v1" xmlns:oad="http://lod.xdams.org/reload/oad/" xmlns:ocsa="http://lod.xdams.org/reload/ocsa/" xmlns:org="http://www.w3.org/ns/org#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:scons="http://san.mibac.it/scons-san/" xmlns:scons-san="http://san.mibac.it/scons-san/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:time="http://www.w3.org/2006/time#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:viaf="http://viaf.org/ontology/1.1/#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:base="http://lod.xdams.org/reload/oad/">
+	<eac-cpf:corporateBody rdf:about="eac-cpf/039009-001">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Comune di Cotignola</rdfs:label>
+		<dc:title>Comune di Cotignola</dc:title>
+		<dc:coverage>Piazza Vittorio Emanuele II 31, 48010, Cotignola, RAVENNA, Italia</dc:coverage>
+		<eac-cpf:hasPlace rdf:resource="luoghiSAN/Piazza_Vittorio_Emanuele_II_31_Cotignola"/>
+		<foaf:name>Comune di Cotignola</foaf:name>
+		<dcterms:provenance rdf:resource="IBCSAN"/>
+		<dcterms:isReferencedBy rdf:resource="http://archivi.ibc.regione.emilia-romagna.it/scons/039009-001"/>
+		<eac-cpf:control rdf:resource="control/039009-001"/>
+		<eac-cpf:description rdf:resource="description/039009-001"/>
+		<ocsa:has_contactArea rdf:resource="contactArea/039009-001"/>
+		<ocsa:has_publicArea rdf:resource="publicArea/039009-001_1"/>
+		<ocsa:has_publicArea rdf:resource="publicArea/039009-001_2"/>
+		<gr:hasOpeningHoursSpecification rdf:resource="openinghours/039009-001"/>
+		<ocsa:has_service rdf:resource="service/039009-001"/>
+	</eac-cpf:corporateBody>
+	<org:Organization rdf:about="eac-cpf/039009-001"/>
+	<eac-cpf:descriptionArea rdf:about="description/039009-001">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area della descrizione: Comune di Cotignola</rdfs:label>
+		<eac-cpf:descriptiveNote>Ente pubblico territoriale e sue articolazioni</eac-cpf:descriptiveNote>
+		<eac-cpf:biogHist>"L'archivio ha subito danni assai gravi attraverso i tempi, e, da ultimo in seguito ai disastrosi eventi bellici del 1944-1945" (Rabotti, Archivi storici in Emilia-Romagna, Bologna, Analisi, 1991, p. 700). Conservato dapprima presso il Palazzo comunale, nel corso degli anni '80 è stato trasferito a Palazzo Sforza, sede attuale. Negli anni '90 si sono acquisiti poi parte dell'archivio delle Opere Pie amministrate e parte dell'archivio dell'Ospedale Testi di Cotignola. 
+            </eac-cpf:biogHist>
+		<eac-cpf:hasPlace rdf:resource="luoghiSAN/Piazza_Vittorio_Emanuele_II_31_Cotignola"/>
+	</eac-cpf:descriptionArea>
+	<eac-cpf:controlArea rdf:about="control/039009-001">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Area del controllo: Comune di Cotignola</rdfs:label>
+		<eac-cpf:recordID>039009-001</eac-cpf:recordID>
+	</eac-cpf:controlArea>
+	<eac-cpf:place rdf:about="luoghiSAN/Piazza_Vittorio_Emanuele_II_31_Cotignola">
+		<rdfs:label xml:lang="it">Piazza Vittorio Emanuele II 31, 48010, Cotignola, RAVENNA, Italia</rdfs:label>
+		<dc:title xml:lang="it">Piazza Vittorio Emanuele II 31, 48010, Cotignola, RAVENNA, Italia</dc:title>
+	</eac-cpf:place>
+	<vcard:Address>
+		<rdfs:label>Indirizzo</rdfs:label>
+		<vcard:streetAddress>Piazza Vittorio Emanuele II 31</vcard:streetAddress>
+		<vcard:country-name>Italia</vcard:country-name>
+		<gn:parentADM1>RAVENNA</gn:parentADM1>
+		<gn:name>Cotignola</gn:name>
+		<gn:postalCode>48010</gn:postalCode>
+	</vcard:Address>
+	<ocsa:contactArea rdf:about="contactArea/039009-001">
+		<foaf:homepage rdf:resource="http://www.comune.cotignola.ra.it"/>
+	</ocsa:contactArea>
+	<ocsa:publicArea rdf:about="publicArea/039009-001_1">
+		<rdfs:label>Servizio di consultazione al pubblico:si</rdfs:label>
+	</ocsa:publicArea>
+	<gr:OpeningHoursSpecification rdf:about="openinghours/039009-001">
+		<rdfs:label>lunedì: 10:00-12:00 - ; martedì: - - ; mercoledì: - - ; giovedì: - - ; venerdì: - - ; sabato: - - ; domenica: - - ; L'archivio storico è aperto nell'orario indicato ogni primo lunedì del mese, a cura della coop. Il Mosaico. Per informazioni e prenotazioni rivolgersi al responsabile della Biblioteca comunale Silvana Galassi (tel. 0545 908874 - mail varoli@sbn.provincia.ra.it).</rdfs:label>
+	</gr:OpeningHoursSpecification>
+</rdf:RDF>

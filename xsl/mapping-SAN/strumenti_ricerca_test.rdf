@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://lod.xdams.org/reload/oad/" xmlns:bio="http://purl.org/vocab/bio/0.1/" xmlns:daia="http://purl.org/ontology/daia/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:eac-cpf="http://archivi.ibc.regione.emilia-romagna.it/ontology/eac-cpf/" xmlns:ead-str="http://san.mibac.it/ricerca-san/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:gn="http://www.geonames.org/ontology#" xmlns:oad="http://lod.xdams.org/reload/oad/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:ricerca-san="http://san.mibac.it/ricerca-san/" xmlns:scons="http://san.mibac.it/scons-san/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:viaf="http://viaf.org/ontology/1.1/#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:base="http://lod.xdams.org/reload/oad/">
+	<oad:findingAid rdf:about="findingAid/IT-ER-IBC-AS00227-0000001">
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Archivio della Congregazione di carità di Cotignola e delle opere pie amministrate</rdfs:label>
+		<dc:title>Archivio della Congregazione di carità di Cotignola e delle opere pie amministrate</dc:title>
+		<dc:creator>Federica Cavina (Archimemo)</dc:creator>
+		<dc:date>2012</dc:date>
+		<dcterms:isReferencedBy rdf:resource="http://archivi.ibc.regione.emilia-romagna.it/ead-str/IT-ER-IBC-AS00227-0000001"/>
+		<dc:description>Inventario</dc:description>
+		<dcterms:provenance rdf:resource="IBCSAN"/>
+	</oad:findingAid>
+</rdf:RDF>
