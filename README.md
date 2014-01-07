@@ -19,3 +19,7 @@ ReloadProject uses:
     
     OCSA Ontology (https://github.com/regestaexe/OCSA-ontology)
     
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/regestaexe/reloadproject/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
