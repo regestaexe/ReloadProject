@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:viaf="http://viaf.org/ontology/1.1/#" xmlns:eac-cpf="http://archivi.ibc.regione.emilia-romagna.it/ontology/eac-cpf/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:gn="http://www.geonames.org/ontology#" xmlns:bio="http://purl.org/vocab/bio/0.1/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:oad="http://lod.xdams.org/reload/oad/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://lod.xdams.org/reload/oad/" xml:base="http://lod.xdams.org/reload/oad/">
+	<foaf:Organization rdf:about="entiACS/Consorzi_agrari">
+		<foaf:name>Consorzi agrari</foaf:name>
+		<rdfs:label xml:lang="it">Consorzi agrari</rdfs:label>
+		<dc:title xml:lang="it">Consorzi agrari</dc:title>
+		<owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Consorzi_agrari"/>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Consorzi_agrari">
+		<skos:prefLabel>Consorzi agrari</skos:prefLabel>
+		<rdfs:label xml:lang="it">Consorzi agrari</rdfs:label>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Sindacati_agrari">
+		<foaf:name>Sindacati agrari</foaf:name>
+		<rdfs:label xml:lang="it">Sindacati agrari</rdfs:label>
+		<dc:title xml:lang="it">Sindacati agrari</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Sindacati_agrari">
+		<skos:prefLabel>Sindacati agrari</skos:prefLabel>
+		<rdfs:label xml:lang="it">Sindacati agrari</rdfs:label>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Comizi_agrari">
+		<foaf:name>Comizi agrari</foaf:name> 
+		<rdfs:label xml:lang="it">Comizi agrari</rdfs:label>
+		<dc:title xml:lang="it">Comizi agrari</dc:title>
+		<owl:sameAs rdf:resource="http://it.dbpedia.org/page/Comizi_agrari"/>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Comizi_agrari">
+		<skos:prefLabel>Comizi agrari</skos:prefLabel>
+		<rdfs:label xml:lang="it">Comizi agrari</rdfs:label>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Cattedre_ambulanti_di_agricoltura">
+		<foaf:name>Cattedre ambulanti di agricoltura</foaf:name>
+		<rdfs:label xml:lang="it">Cattedre ambulanti di agricoltura</rdfs:label>
+		<dc:title xml:lang="it">Cattedre ambulanti di agricoltura</dc:title>
+		<owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Cattedre_ambulanti_di_agricoltura"/>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Cattedre_ambulanti_di_agricoltura">
+		<skos:prefLabel>Cattedre ambulanti di agricoltura</skos:prefLabel>
+		<rdfs:label xml:lang="it">Cattedre ambulanti di agricoltura</rdfs:label>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Stazione_bacologica">
+		<foaf:name>Stazione bacologica</foaf:name>
+		<rdfs:label xml:lang="it">Stazione bacologica</rdfs:label>
+		<dc:title xml:lang="it">Stazione bacologica</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Stazione_bacologica">
+		<skos:prefLabel>Stazione bacologica</skos:prefLabel>
+		<rdfs:label xml:lang="it">Stazione bacologica</rdfs:label>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Associazione_agraria_del_Polesine">
+		<skos:prefLabel>Associazione agraria del Polesine</skos:prefLabel>
+		<rdfs:label xml:lang="it">Associazione agraria del Polesine</rdfs:label>
+		<dc:title xml:lang="it">Associazione agraria del Polesine</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Associazione_agraria_del_Polesine">
+		<skos:prefLabel>Associazione agraria del Polesine</skos:prefLabel>
+		<rdfs:label xml:lang="it">Associazione agraria del Polesine</rdfs:label>
+		<dc:title xml:lang="it">Associazione agraria del Polesine</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Associazione_agricola_lombarda_detta_di_Corte_del_Palasio">
+		<skos:prefLabel>Associazione agricola lombarda detta di Corte del Palasio</skos:prefLabel>
+		<rdfs:label xml:lang="it">Associazione agricola lombarda detta di Corte del Palasio</rdfs:label>
+		<dc:title xml:lang="it">Associazione agricola lombarda detta di Corte del Palasio</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Associazione_agricola_lombarda_detta_di_Corte_del_Palasio">
+		<skos:prefLabel>Associazione agricola lombarda detta di Corte del Palasio</skos:prefLabel>
+		<rdfs:label xml:lang="it">Associazione agricola lombarda detta di Corte del Palasio</rdfs:label>
+		<dc:title xml:lang="it">Associazione agricola lombarda detta di Corte del Palasio</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Associazione_di_mutua_assistenza_fra_i_viticoltori_del_Monferrato_contro_i_danni_della_grandine">
+		<skos:prefLabel>Associazione di mutua assistenza fra i viticoltori del Monferrato contro i danni della grandine</skos:prefLabel>
+		<rdfs:label xml:lang="it">Associazione di mutua assistenza fra i viticoltori del Monferrato contro i danni della grandine</rdfs:label>
+		<dc:title xml:lang="it">Associazione di mutua assistenza fra i viticoltori del Monferrato contro i danni della grandine</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Associazione_di_mutua_assistenza_fra_i_viticoltori_del_Monferrato_contro_i_danni_della_grandine">
+		<skos:prefLabel>Associazione di mutua assistenza fra i viticoltori del Monferrato contro i danni della grandine</skos:prefLabel>
+		<rdfs:label xml:lang="it">Associazione di mutua assistenza fra i viticoltori del Monferrato contro i danni della grandine</rdfs:label>
+		<dc:title xml:lang="it">Associazione di mutua assistenza fra i viticoltori del Monferrato contro i danni della grandine</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Associazione_di_proprietari_per_l_esportazione_di_vini_del_Piemonte">
+		<skos:prefLabel>Associazione di proprietari per l'esportazione di vini del Piemonte</skos:prefLabel>
+		<rdfs:label xml:lang="it">Associazione di proprietari per l'esportazione di vini del Piemonte</rdfs:label>
+		<dc:title xml:lang="it">Associazione di proprietari per l'esportazione di vini del Piemonte</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Associazione_di_proprietari_per_l_esportazione_di_vini_del_Piemonte">
+		<skos:prefLabel>Associazione di proprietari per l'esportazione di vini del Piemonte</skos:prefLabel>
+		<rdfs:label xml:lang="it">Associazione di proprietari per l'esportazione di vini del Piemonte</rdfs:label>
+		<dc:title xml:lang="it">Associazione di proprietari per l'esportazione di vini del Piemonte</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Associazione_medico-veterinaria_piemontese">
+		<skos:prefLabel>Associazione medico-veterinaria piemontese</skos:prefLabel>
+		<rdfs:label xml:lang="it">Associazione medico-veterinaria piemontese</rdfs:label>
+		<dc:title xml:lang="it">Associazione medico-veterinaria piemontese</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Associazione_medico-veterinaria_piemontese">
+		<skos:prefLabel>Associazione medico-veterinaria piemontese</skos:prefLabel>
+		<rdfs:label xml:lang="it">Associazione medico-veterinaria piemontese</rdfs:label>
+		<dc:title xml:lang="it">Associazione medico-veterinaria piemontese</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Associazione_meteorologica">
+		<skos:prefLabel>Associazione meteorologica</skos:prefLabel>
+		<rdfs:label xml:lang="it">Associazione meteorologica</rdfs:label>
+		<dc:title xml:lang="it">Associazione meteorologica</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Associazione_meteorologica">
+		<skos:prefLabel>Associazione meteorologica</skos:prefLabel>
+		<rdfs:label xml:lang="it">Associazione meteorologica</rdfs:label>
+		<dc:title xml:lang="it">Associazione meteorologica</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Associazione_veterinaria_appulo-sannitica">
+		<skos:prefLabel>Associazione veterinaria appulo-sannitica</skos:prefLabel>
+		<rdfs:label xml:lang="it">Associazione veterinaria appulo-sannitica</rdfs:label>
+		<dc:title xml:lang="it">Associazione veterinaria appulo-sannitica</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Associazione_veterinaria_appulo-sannitica">
+		<skos:prefLabel>Associazione veterinaria appulo-sannitica</skos:prefLabel>
+		<rdfs:label xml:lang="it">Associazione veterinaria appulo-sannitica</rdfs:label>
+		<dc:title xml:lang="it">Associazione veterinaria appulo-sannitica</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Associazione_veterinaria_canavesana">
+		<skos:prefLabel>Associazione veterinaria canavesana</skos:prefLabel>
+		<rdfs:label xml:lang="it">Associazione veterinaria canavesana</rdfs:label>
+		<dc:title xml:lang="it">Associazione veterinaria canavesana</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Associazione_veterinaria_canavesana">
+		<skos:prefLabel>Associazione veterinaria canavesana</skos:prefLabel>
+		<rdfs:label xml:lang="it">Associazione veterinaria canavesana</rdfs:label>
+		<dc:title xml:lang="it">Associazione veterinaria canavesana</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Camera_di_commercio_di_Milano">
+		<skos:prefLabel>Camera di commercio di Milano</skos:prefLabel>
+		<rdfs:label xml:lang="it">Camera di commercio di Milano</rdfs:label>
+		<dc:title xml:lang="it">Camera di commercio di Milano</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Camera_di_commercio_di_Milano">
+		<skos:prefLabel>Camera di commercio di Milano</skos:prefLabel>
+		<rdfs:label xml:lang="it">Camera di commercio di Milano</rdfs:label>
+		<dc:title xml:lang="it">Camera di commercio di Milano</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Camera_di_commercio_di_Teramo">
+		<skos:prefLabel>Camera di commercio di Teramo</skos:prefLabel>
+		<rdfs:label xml:lang="it">Camera di commercio di Teramo</rdfs:label>
+		<dc:title xml:lang="it">Camera di commercio di Teramo</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Camera_di_commercio_di_Teramo">
+		<skos:prefLabel>Camera di commercio di Teramo</skos:prefLabel>
+		<rdfs:label xml:lang="it">Camera di commercio di Teramo</rdfs:label>
+		<dc:title xml:lang="it">Camera di commercio di Teramo</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Camera_di_commercio_di_Udine">
+		<skos:prefLabel>Camera di commercio di Udine</skos:prefLabel>
+		<rdfs:label xml:lang="it">Camera di commercio di Udine</rdfs:label>
+		<dc:title xml:lang="it">Camera di commercio di Udine</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Camera_di_commercio_di_Udine">
+		<skos:prefLabel>Camera di commercio di Udine</skos:prefLabel>
+		<rdfs:label xml:lang="it">Camera di commercio di Udine</rdfs:label>
+		<dc:title xml:lang="it">Camera di commercio di Udine</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Club_alpino_italiano">
+		<skos:prefLabel>Club alpino italiano</skos:prefLabel>
+		<rdfs:label xml:lang="it">Club alpino italiano</rdfs:label>
+		<dc:title xml:lang="it">Club alpino italiano</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Club_alpino_italiano">
+		<skos:prefLabel>Club alpino italiano</skos:prefLabel>
+		<rdfs:label xml:lang="it">Club alpino italiano</rdfs:label>
+		<dc:title xml:lang="it">Club alpino italiano</dc:title>
+	</skos:Concept>
+
+	<foaf:Organization rdf:about="entiACS/Commissione_bacologica_giapponese">
+		<skos:prefLabel>Commissione bacologica giapponese</skos:prefLabel>
+		<rdfs:label xml:lang="it">Commissione bacologica giapponese</rdfs:label>
+		<dc:title xml:lang="it">Commissione bacologica giapponese</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Commissione_bacologica_giapponese">
+		<skos:prefLabel>Commissione bacologica giapponese</skos:prefLabel>
+		<rdfs:label xml:lang="it">Commissione bacologica giapponese</rdfs:label>
+		<dc:title xml:lang="it">Commissione bacologica giapponese</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Comune_di_Roma">
+		<skos:prefLabel>Comune di Roma</skos:prefLabel>
+		<rdfs:label xml:lang="it">Comune di Roma</rdfs:label>
+		<dc:title xml:lang="it">Comune di Roma</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Comune_di_Roma">
+		<skos:prefLabel>Comune di Roma</skos:prefLabel>
+		<rdfs:label xml:lang="it">Comune di Roma</rdfs:label>
+		<dc:title xml:lang="it">Comune di Roma</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Congresso_magistrale_italiano">
+		<skos:prefLabel>Congresso magistrale italiano</skos:prefLabel>
+		<rdfs:label xml:lang="it">Congresso magistrale italiano</rdfs:label>
+		<dc:title xml:lang="it">Congresso magistrale italiano</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Congresso_magistrale_italiano">
+		<skos:prefLabel>Congresso magistrale italiano</skos:prefLabel>
+		<rdfs:label xml:lang="it">Congresso magistrale italiano</rdfs:label>
+		<dc:title xml:lang="it">Congresso magistrale italiano</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Della_Vecchia_e_C">
+		<skos:prefLabel>Della Vecchia e C</skos:prefLabel>
+		<rdfs:label xml:lang="it">Della Vecchia e C</rdfs:label>
+		<dc:title xml:lang="it">Della Vecchia e C</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Della_Vecchia_e_C">
+		<skos:prefLabel>Della Vecchia e C</skos:prefLabel>
+		<rdfs:label xml:lang="it">Della Vecchia e C</rdfs:label>
+		<dc:title xml:lang="it">Della Vecchia e C</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Federazione_veterinaria_italiana">
+		<skos:prefLabel>Federazione veterinaria italiana</skos:prefLabel>
+		<rdfs:label xml:lang="it">Federazione veterinaria italiana</rdfs:label>
+		<dc:title xml:lang="it">Federazione veterinaria italiana</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Federazione_veterinaria_italiana">
+		<skos:prefLabel>Federazione veterinaria italiana</skos:prefLabel>
+		<rdfs:label xml:lang="it">Federazione veterinaria italiana</rdfs:label>
+		<dc:title xml:lang="it">Federazione veterinaria italiana</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Istituto_agrario_silvano_veterinario">
+		<skos:prefLabel>Istituto agrario silvano veterinario</skos:prefLabel>
+		<rdfs:label xml:lang="it">Istituto agrario silvano veterinario</rdfs:label>
+		<dc:title xml:lang="it">Istituto agrario silvano veterinario</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Istituto_agrario_silvano_veterinario">
+		<skos:prefLabel>Istituto agrario silvano veterinario</skos:prefLabel>
+		<rdfs:label xml:lang="it">Istituto agrario silvano veterinario</rdfs:label>
+		<dc:title xml:lang="it">Istituto agrario silvano veterinario</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Istituto_di_pomologia,_viticoltura_ed_enologia">
+		<skos:prefLabel>Istituto di pomologia, viticoltura ed enologia</skos:prefLabel>
+		<rdfs:label xml:lang="it">Istituto di pomologia, viticoltura ed enologia</rdfs:label>
+		<dc:title xml:lang="it">Istituto di pomologia, viticoltura ed enologia</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Istituto_di_pomologia,_viticoltura_ed_enologia">
+		<skos:prefLabel>Istituto di pomologia, viticoltura ed enologia</skos:prefLabel>
+		<rdfs:label xml:lang="it">Istituto di pomologia, viticoltura ed enologia</rdfs:label>
+		<dc:title xml:lang="it">Istituto di pomologia, viticoltura ed enologia</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Istituto_superiore_di_economia_rurale">
+		<skos:prefLabel>Istituto superiore di economia rurale</skos:prefLabel>
+		<rdfs:label xml:lang="it">Istituto superiore di economia rurale</rdfs:label>
+		<dc:title xml:lang="it">Istituto superiore di economia rurale</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Istituto_superiore_di_economia_rurale">
+		<skos:prefLabel>Istituto superiore di economia rurale</skos:prefLabel>
+		<rdfs:label xml:lang="it">Istituto superiore di economia rurale</rdfs:label>
+		<dc:title xml:lang="it">Istituto superiore di economia rurale</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Istituto_tecnico-pratico_di_scienza_montanistica_forestale_siderurgica">
+		<skos:prefLabel>Istituto tecnico-pratico di scienza montanistica forestale siderurgica</skos:prefLabel>
+		<rdfs:label xml:lang="it">Istituto tecnico-pratico di scienza montanistica forestale siderurgica</rdfs:label>
+		<dc:title xml:lang="it">Istituto tecnico-pratico di scienza montanistica forestale siderurgica</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Istituto_tecnico-pratico_di_scienza_montanistica_forestale_siderurgica">
+		<skos:prefLabel>Istituto tecnico-pratico di scienza montanistica forestale siderurgica</skos:prefLabel>
+		<rdfs:label xml:lang="it">Istituto tecnico-pratico di scienza montanistica forestale siderurgica</rdfs:label>
+		<dc:title xml:lang="it">Istituto tecnico-pratico di scienza montanistica forestale siderurgica</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Istituto_zootecnico_di_Palermo">
+		<skos:prefLabel>Istituto zootecnico di Palermo</skos:prefLabel>
+		<rdfs:label xml:lang="it">Istituto zootecnico di Palermo</rdfs:label>
+		<dc:title xml:lang="it">Istituto zootecnico di Palermo</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Istituto_zootecnico_di_Palermo">
+		<skos:prefLabel>Istituto zootecnico di Palermo</skos:prefLabel>
+		<rdfs:label xml:lang="it">Istituto zootecnico di Palermo</rdfs:label>
+		<dc:title xml:lang="it">Istituto zootecnico di Palermo</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Laboratori_di_chimica_agraria">
+		<skos:prefLabel>Laboratori di chimica agraria</skos:prefLabel>
+		<rdfs:label xml:lang="it">Laboratori di chimica agraria</rdfs:label>
+		<dc:title xml:lang="it">Laboratori di chimica agraria</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Laboratori_di_chimica_agraria">
+		<skos:prefLabel>Laboratori di chimica agraria</skos:prefLabel>
+		<rdfs:label xml:lang="it">Laboratori di chimica agraria</rdfs:label>
+		<dc:title xml:lang="it">Laboratori di chimica agraria</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Manifattura_dei_tabacchi_in_Roma">
+		<skos:prefLabel>Manifattura dei tabacchi in Roma</skos:prefLabel>
+		<rdfs:label xml:lang="it">Manifattura dei tabacchi in Roma</rdfs:label>
+		<dc:title xml:lang="it">Manifattura dei tabacchi in Roma</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Manifattura_dei_tabacchi_in_Roma">
+		<skos:prefLabel>Manifattura dei tabacchi in Roma</skos:prefLabel>
+		<rdfs:label xml:lang="it">Manifattura dei tabacchi in Roma</rdfs:label>
+		<dc:title xml:lang="it">Manifattura dei tabacchi in Roma</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Ministero_dell_agricoltura">
+		<skos:prefLabel>Ministero dell'agricoltura</skos:prefLabel>
+		<rdfs:label xml:lang="it">Ministero dell'agricoltura</rdfs:label>
+		<dc:title xml:lang="it">Ministero dell'agricoltura</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Ministero_dell_agricoltura">
+		<skos:prefLabel>Ministero dell'agricoltura</skos:prefLabel>
+		<rdfs:label xml:lang="it">Ministero dell'agricoltura</rdfs:label>
+		<dc:title xml:lang="it">Ministero dell'agricoltura</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Ministero_dell_istruzione_pubblica">
+		<skos:prefLabel>Ministero dell'istruzione pubblica</skos:prefLabel>
+		<rdfs:label xml:lang="it">Ministero dell'istruzione pubblica</rdfs:label>
+		<dc:title xml:lang="it">Ministero dell'istruzione pubblica</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Ministero_dell_istruzione_pubblica">
+		<skos:prefLabel>Ministero dell'istruzione pubblica</skos:prefLabel>
+		<rdfs:label xml:lang="it">Ministero dell'istruzione pubblica</rdfs:label>
+		<dc:title xml:lang="it">Ministero dell'istruzione pubblica</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Ministero_di_agricoltura">
+		<skos:prefLabel>Ministero di agricoltura</skos:prefLabel>
+		<rdfs:label xml:lang="it">Ministero di agricoltura</rdfs:label>
+		<dc:title xml:lang="it">Ministero di agricoltura</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Ministero_di_agricoltura">
+		<skos:prefLabel>Ministero di agricoltura</skos:prefLabel>
+		<rdfs:label xml:lang="it">Ministero di agricoltura</rdfs:label>
+		<dc:title xml:lang="it">Ministero di agricoltura</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Museo_Copernicano">
+		<skos:prefLabel>Museo Copernicano</skos:prefLabel>
+		<rdfs:label xml:lang="it">Museo Copernicano</rdfs:label>
+		<dc:title xml:lang="it">Museo Copernicano</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Museo_Copernicano">
+		<skos:prefLabel>Museo Copernicano</skos:prefLabel>
+		<rdfs:label xml:lang="it">Museo Copernicano</rdfs:label>
+		<dc:title xml:lang="it">Museo Copernicano</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Ospizio_dell_Immacolata_Concezione">
+		<skos:prefLabel>Ospizio dell'Immacolata Concezione</skos:prefLabel>
+		<rdfs:label xml:lang="it">Ospizio dell'Immacolata Concezione</rdfs:label>
+		<dc:title xml:lang="it">Ospizio dell'Immacolata Concezione</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Ospizio_dell_Immacolata_Concezione">
+		<skos:prefLabel>Ospizio dell'Immacolata Concezione</skos:prefLabel>
+		<rdfs:label xml:lang="it">Ospizio dell'Immacolata Concezione</rdfs:label>
+		<dc:title xml:lang="it">Ospizio dell'Immacolata Concezione</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Ospizio_della_pace">
+		<skos:prefLabel>Ospizio della pace</skos:prefLabel>
+		<rdfs:label xml:lang="it">Ospizio della pace</rdfs:label>
+		<dc:title xml:lang="it">Ospizio della pace</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Ospizio_della_pace">
+		<skos:prefLabel>Ospizio della pace</skos:prefLabel>
+		<rdfs:label xml:lang="it">Ospizio della pace</rdfs:label>
+		<dc:title xml:lang="it">Ospizio della pace</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Osservatorio_astronomico_del_Collegio_Romano">
+		<skos:prefLabel>Osservatorio astronomico del Collegio Romano</skos:prefLabel>
+		<rdfs:label xml:lang="it">Osservatorio astronomico del Collegio Romano</rdfs:label>
+		<dc:title xml:lang="it">Osservatorio astronomico del Collegio Romano</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Osservatorio_astronomico_del_Collegio_Romano">
+		<skos:prefLabel>Osservatorio astronomico del Collegio Romano</skos:prefLabel>
+		<rdfs:label xml:lang="it">Osservatorio astronomico del Collegio Romano</rdfs:label>
+		<dc:title xml:lang="it">Osservatorio astronomico del Collegio Romano</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Pia_casa_Conversini">
+		<skos:prefLabel>Pia casa Conversini</skos:prefLabel>
+		<rdfs:label xml:lang="it">Pia casa Conversini</rdfs:label>
+		<dc:title xml:lang="it">Pia casa Conversini</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Pia_casa_Conversini">
+		<skos:prefLabel>Pia casa Conversini</skos:prefLabel>
+		<rdfs:label xml:lang="it">Pia casa Conversini</rdfs:label>
+		<dc:title xml:lang="it">Pia casa Conversini</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Pio_istituto_di_Bosco_Marengo">
+		<skos:prefLabel>Pio istituto di Bosco Marengo</skos:prefLabel>
+		<rdfs:label xml:lang="it">Pio istituto di Bosco Marengo</rdfs:label>
+		<dc:title xml:lang="it">Pio istituto di Bosco Marengo</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Pio_istituto_di_Bosco_Marengo">
+		<skos:prefLabel>Pio istituto di Bosco Marengo</skos:prefLabel>
+		<rdfs:label xml:lang="it">Pio istituto di Bosco Marengo</rdfs:label>
+		<dc:title xml:lang="it">Pio istituto di Bosco Marengo</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Provincia_di_Roma">
+		<skos:prefLabel>Provincia di Roma</skos:prefLabel>
+		<rdfs:label xml:lang="it">Provincia di Roma</rdfs:label>
+		<dc:title xml:lang="it">Provincia di Roma</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Provincia_di_Roma">
+		<skos:prefLabel>Provincia di Roma</skos:prefLabel>
+		<rdfs:label xml:lang="it">Provincia di Roma</rdfs:label>
+		<dc:title xml:lang="it">Provincia di Roma</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Scuola_di_applicazione_degli_ingegneri">
+		<skos:prefLabel>Scuola di applicazione degli ingegneri</skos:prefLabel>
+		<rdfs:label xml:lang="it">Scuola di applicazione degli ingegneri</rdfs:label>
+		<dc:title xml:lang="it">Scuola di applicazione degli ingegneri</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Scuola_di_applicazione_degli_ingegneri">
+		<skos:prefLabel>Scuola di applicazione degli ingegneri</skos:prefLabel>
+		<rdfs:label xml:lang="it">Scuola di applicazione degli ingegneri</rdfs:label>
+		<dc:title xml:lang="it">Scuola di applicazione degli ingegneri</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Scuola_di_olivicoltura_e_oleificio">
+		<skos:prefLabel>Scuola di olivicoltura e oleificio</skos:prefLabel>
+		<rdfs:label xml:lang="it">Scuola di olivicoltura e oleificio</rdfs:label>
+		<dc:title xml:lang="it">Scuola di olivicoltura e oleificio</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Scuola_di_olivicoltura_e_oleificio">
+		<skos:prefLabel>Scuola di olivicoltura e oleificio</skos:prefLabel>
+		<rdfs:label xml:lang="it">Scuola di olivicoltura e oleificio</rdfs:label>
+		<dc:title xml:lang="it">Scuola di olivicoltura e oleificio</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Scuola_di_orticoltura">
+		<skos:prefLabel>Scuola di orticoltura</skos:prefLabel>
+		<rdfs:label xml:lang="it">Scuola di orticoltura</rdfs:label>
+		<dc:title xml:lang="it">Scuola di orticoltura</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Scuola_di_orticoltura">
+		<skos:prefLabel>Scuola di orticoltura</skos:prefLabel>
+		<rdfs:label xml:lang="it">Scuola di orticoltura</rdfs:label>
+		<dc:title xml:lang="it">Scuola di orticoltura</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Scuola_di_zootecnia_e_caseificio_di_Reggio_Emilia">
+		<skos:prefLabel>Scuola di zootecnia e caseificio di Reggio Emilia</skos:prefLabel>
+		<rdfs:label xml:lang="it">Scuola di zootecnia e caseificio di Reggio Emilia</rdfs:label>
+		<dc:title xml:lang="it">Scuola di zootecnia e caseificio di Reggio Emilia</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Scuola_di_zootecnia_e_caseificio_di_Reggio_Emilia">
+		<skos:prefLabel>Scuola di zootecnia e caseificio di Reggio Emilia</skos:prefLabel>
+		<rdfs:label xml:lang="it">Scuola di zootecnia e caseificio di Reggio Emilia</rdfs:label>
+		<dc:title xml:lang="it">Scuola di zootecnia e caseificio di Reggio Emilia</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Scuola_superiore_di_agricoltura">
+		<skos:prefLabel>Scuola superiore di agricoltura</skos:prefLabel>
+		<rdfs:label xml:lang="it">Scuola superiore di agricoltura</rdfs:label>
+		<dc:title xml:lang="it">Scuola superiore di agricoltura</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Scuola_superiore_di_agricoltura">
+		<skos:prefLabel>Scuola superiore di agricoltura</skos:prefLabel>
+		<rdfs:label xml:lang="it">Scuola superiore di agricoltura</rdfs:label>
+		<dc:title xml:lang="it">Scuola superiore di agricoltura</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Scuola_superiore_di_agricoltura_e_di_veterinaria">
+		<skos:prefLabel>Scuola superiore di agricoltura e di veterinaria</skos:prefLabel>
+		<rdfs:label xml:lang="it">Scuola superiore di agricoltura e di veterinaria</rdfs:label>
+		<dc:title xml:lang="it">Scuola superiore di agricoltura e di veterinaria</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Scuola_superiore_di_agricoltura_e_di_veterinaria">
+		<skos:prefLabel>Scuola superiore di agricoltura e di veterinaria</skos:prefLabel>
+		<rdfs:label xml:lang="it">Scuola superiore di agricoltura e di veterinaria</rdfs:label>
+		<dc:title xml:lang="it">Scuola superiore di agricoltura e di veterinaria</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Scuola_superiore_di_Portici">
+		<skos:prefLabel>Scuola superiore di Portici</skos:prefLabel>
+		<rdfs:label xml:lang="it">Scuola superiore di Portici</rdfs:label>
+		<dc:title xml:lang="it">Scuola superiore di Portici</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Scuola_superiore_di_Portici">
+		<skos:prefLabel>Scuola superiore di Portici</skos:prefLabel>
+		<rdfs:label xml:lang="it">Scuola superiore di Portici</rdfs:label>
+		<dc:title xml:lang="it">Scuola superiore di Portici</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Seminario_arcivescovile">
+		<skos:prefLabel>Seminario arcivescovile</skos:prefLabel>
+		<rdfs:label xml:lang="it">Seminario arcivescovile</rdfs:label>
+		<dc:title xml:lang="it">Seminario arcivescovile</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Seminario_arcivescovile">
+		<skos:prefLabel>Seminario arcivescovile</skos:prefLabel>
+		<rdfs:label xml:lang="it">Seminario arcivescovile</rdfs:label>
+		<dc:title xml:lang="it">Seminario arcivescovile</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Societa_bacologica_nazionale">
+		<skos:prefLabel>Società bacologica nazionale</skos:prefLabel>
+		<rdfs:label xml:lang="it">Società bacologica nazionale</rdfs:label>
+		<dc:title xml:lang="it">Società bacologica nazionale</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Societa_bacologica_nazionale">
+		<skos:prefLabel>Società bacologica nazionale</skos:prefLabel>
+		<rdfs:label xml:lang="it">Società bacologica nazionale</rdfs:label>
+		<dc:title xml:lang="it">Società bacologica nazionale</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Societa_bacologica_pavese">
+		<skos:prefLabel>Società bacologica pavese</skos:prefLabel>
+		<rdfs:label xml:lang="it">Società bacologica pavese</rdfs:label>
+		<dc:title xml:lang="it">Società bacologica pavese</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Societa_bacologica_pavese">
+		<skos:prefLabel>Società bacologica pavese</skos:prefLabel>
+		<rdfs:label xml:lang="it">Società bacologica pavese</rdfs:label>
+		<dc:title xml:lang="it">Società bacologica pavese</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Societa_cooperativa_per_la_bonifica_progressiva_dell_Agro_romano_e_sviluppo_agricolo_in_Italia">
+		<skos:prefLabel>Società cooperativa per la bonifica progressiva dell'Agro romano e sviluppo agricolo in Italia</skos:prefLabel>
+		<rdfs:label xml:lang="it">Società cooperativa per la bonifica progressiva dell'Agro romano e sviluppo agricolo in Italia</rdfs:label>
+		<dc:title xml:lang="it">Società cooperativa per la bonifica progressiva dell'Agro romano e sviluppo agricolo in Italia</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Societa_cooperativa_per_la_bonifica_progressiva_dell_Agro_romano_e_sviluppo_agricolo_in_Italia">
+		<skos:prefLabel>Società cooperativa per la bonifica progressiva dell'Agro romano e sviluppo agricolo in Italia</skos:prefLabel>
+		<rdfs:label xml:lang="it">Società cooperativa per la bonifica progressiva dell'Agro romano e sviluppo agricolo in Italia</rdfs:label>
+		<dc:title xml:lang="it">Società cooperativa per la bonifica progressiva dell'Agro romano e sviluppo agricolo in Italia</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Societa_degli_agricoltori_lombardi">
+		<skos:prefLabel>Società degli agricoltori lombardi</skos:prefLabel>
+		<rdfs:label xml:lang="it">Società degli agricoltori lombardi</rdfs:label>
+		<dc:title xml:lang="it">Società degli agricoltori lombardi</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Societa_degli_agricoltori_lombardi">
+		<skos:prefLabel>Società degli agricoltori lombardi</skos:prefLabel>
+		<rdfs:label xml:lang="it">Società degli agricoltori lombardi</rdfs:label>
+		<dc:title xml:lang="it">Società degli agricoltori lombardi</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Societa_geologica_italiana">
+		<skos:prefLabel>Società geologica italiana</skos:prefLabel>
+		<rdfs:label xml:lang="it">Società geologica italiana</rdfs:label>
+		<dc:title xml:lang="it">Società geologica italiana</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Societa_geologica_italiana">
+		<skos:prefLabel>Società geologica italiana</skos:prefLabel>
+		<rdfs:label xml:lang="it">Società geologica italiana</rdfs:label>
+		<dc:title xml:lang="it">Società geologica italiana</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Societa_ippica_di_Gotha">
+		<skos:prefLabel>Società ippica di Gotha</skos:prefLabel>
+		<rdfs:label xml:lang="it">Società ippica di Gotha</rdfs:label>
+		<dc:title xml:lang="it">Società ippica di Gotha</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Societa_ippica_di_Gotha">
+		<skos:prefLabel>Società ippica di Gotha</skos:prefLabel>
+		<rdfs:label xml:lang="it">Società ippica di Gotha</rdfs:label>
+		<dc:title xml:lang="it">Società ippica di Gotha</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Societa_veterinaria_toscana">
+		<skos:prefLabel>Società veterinaria toscana</skos:prefLabel>
+		<rdfs:label xml:lang="it">Società veterinaria toscana</rdfs:label>
+		<dc:title xml:lang="it">Società veterinaria toscana</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Societa_veterinaria_toscana">
+		<skos:prefLabel>Società veterinaria toscana</skos:prefLabel>
+		<rdfs:label xml:lang="it">Società veterinaria toscana</rdfs:label>
+		<dc:title xml:lang="it">Società veterinaria toscana</dc:title>
+	</skos:Concept>
+
+	<foaf:Organization rdf:about="entiACS/Stazione_agraria_di_Firenze">
+		<skos:prefLabel>Stazione agraria di Firenze</skos:prefLabel>
+		<rdfs:label xml:lang="it">Stazione agraria di Firenze</rdfs:label>
+		<dc:title xml:lang="it">Stazione agraria di Firenze</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Stazione_agraria_di_Firenze">
+		<skos:prefLabel>Stazione agraria di Firenze</skos:prefLabel>
+		<rdfs:label xml:lang="it">Stazione agraria di Firenze</rdfs:label>
+		<dc:title xml:lang="it">Stazione agraria di Firenze</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Stazione_bacologica_di_Padova">
+		<skos:prefLabel>Stazione bacologica di Padova</skos:prefLabel>
+		<rdfs:label xml:lang="it">Stazione bacologica di Padova</rdfs:label>
+		<dc:title xml:lang="it">Stazione bacologica di Padova</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Stazione_bacologica_di_Padova">
+		<skos:prefLabel>Stazione bacologica di Padova</skos:prefLabel>
+		<rdfs:label xml:lang="it">Stazione bacologica di Padova</rdfs:label>
+		<dc:title xml:lang="it">Stazione bacologica di Padova</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Stazione_di_caseificio_di_Lodi">
+		<skos:prefLabel>Stazione di caseificio di Lodi</skos:prefLabel>
+		<rdfs:label xml:lang="it">Stazione di caseificio di Lodi</rdfs:label>
+		<dc:title xml:lang="it">Stazione di caseificio di Lodi</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Stazione_di_caseificio_di_Lodi">
+		<skos:prefLabel>Stazione di caseificio di Lodi</skos:prefLabel>
+		<rdfs:label xml:lang="it">Stazione di caseificio di Lodi</rdfs:label>
+		<dc:title xml:lang="it">Stazione di caseificio di Lodi</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Ufficio_centrale_di_meteorologia">
+		<skos:prefLabel>Ufficio centrale di meteorologia</skos:prefLabel>
+		<rdfs:label xml:lang="it">Ufficio centrale di meteorologia</rdfs:label>
+		<dc:title xml:lang="it">Ufficio centrale di meteorologia</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Ufficio_centrale_di_meteorologia">
+		<skos:prefLabel>Ufficio centrale di meteorologia</skos:prefLabel>
+		<rdfs:label xml:lang="it">Ufficio centrale di meteorologia</rdfs:label>
+		<dc:title xml:lang="it">Ufficio centrale di meteorologia</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Ufficio_centrale_di_meteorologia_al_Collegio_Romano">
+		<skos:prefLabel>Ufficio centrale di meteorologia al Collegio Romano</skos:prefLabel>
+		<rdfs:label xml:lang="it">Ufficio centrale di meteorologia al Collegio Romano</rdfs:label>
+		<dc:title xml:lang="it">Ufficio centrale di meteorologia al Collegio Romano</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Ufficio_centrale_di_meteorologia_al_Collegio_Romano">
+		<skos:prefLabel>Ufficio centrale di meteorologia al Collegio Romano</skos:prefLabel>
+		<rdfs:label xml:lang="it">Ufficio centrale di meteorologia al Collegio Romano</rdfs:label>
+		<dc:title xml:lang="it">Ufficio centrale di meteorologia al Collegio Romano</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Ufficio_centrale_meteorologico">
+		<skos:prefLabel>Ufficio centrale meteorologico</skos:prefLabel>
+		<rdfs:label xml:lang="it">Ufficio centrale meteorologico</rdfs:label>
+		<dc:title xml:lang="it">Ufficio centrale meteorologico</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Ufficio_centrale_meteorologico">
+		<skos:prefLabel>Ufficio centrale meteorologico</skos:prefLabel>
+		<rdfs:label xml:lang="it">Ufficio centrale meteorologico</rdfs:label>
+		<dc:title xml:lang="it">Ufficio centrale meteorologico</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Ufficio_geologico_di_Pisa">
+		<skos:prefLabel>Ufficio geologico di Pisa</skos:prefLabel>
+		<rdfs:label xml:lang="it">Ufficio geologico di Pisa</rdfs:label>
+		<dc:title xml:lang="it">Ufficio geologico di Pisa</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Ufficio_geologico_di_Pisa">
+		<skos:prefLabel>Ufficio geologico di Pisa</skos:prefLabel>
+		<rdfs:label xml:lang="it">Ufficio geologico di Pisa</rdfs:label>
+		<dc:title xml:lang="it">Ufficio geologico di Pisa</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Ufficio_geologico_di_Roma">
+		<skos:prefLabel>Ufficio geologico di Roma</skos:prefLabel>
+		<rdfs:label xml:lang="it">Ufficio geologico di Roma</rdfs:label>
+		<dc:title xml:lang="it">Ufficio geologico di Roma</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Ufficio_geologico_di_Roma">
+		<skos:prefLabel>Ufficio geologico di Roma</skos:prefLabel>
+		<rdfs:label xml:lang="it">Ufficio geologico di Roma</rdfs:label>
+		<dc:title xml:lang="it">Ufficio geologico di Roma</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Unione_dei_comizi_dell_Alto_Veronese">
+		<skos:prefLabel>Unione dei comizi dell'Alto Veronese</skos:prefLabel>
+		<rdfs:label xml:lang="it">Unione dei comizi dell'Alto Veronese</rdfs:label>
+		<dc:title xml:lang="it">Unione dei comizi dell'Alto Veronese</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Unione_dei_comizi_dell_Alto_Veronese">
+		<skos:prefLabel>Unione dei comizi dell'Alto Veronese</skos:prefLabel>
+		<rdfs:label xml:lang="it">Unione dei comizi dell'Alto Veronese</rdfs:label>
+		<dc:title xml:lang="it">Unione dei comizi dell'Alto Veronese</dc:title>
+	</skos:Concept>
+	<foaf:Organization rdf:about="entiACS/Universita_di_Padova">
+		<skos:prefLabel>Università di Padova</skos:prefLabel>
+		<rdfs:label xml:lang="it">Università di Padova</rdfs:label>
+		<dc:title xml:lang="it">Università di Padova</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Universita_di_Padova">
+		<skos:prefLabel>Università di Padova</skos:prefLabel>
+		<rdfs:label xml:lang="it">Università di Padova</rdfs:label>
+		<dc:title xml:lang="it">Università di Padova</dc:title>
+	</skos:Concept>
+	<!-- -->
+	<foaf:Organization rdf:about="entiACS/Stazioni_agrarie">
+		<skos:prefLabel>Stazioni agrarie</skos:prefLabel>
+		<rdfs:label xml:lang="it">Stazioni agrarie</rdfs:label>
+		<dc:title xml:lang="it">Stazioni agrarie</dc:title>
+	</foaf:Organization>
+	<foaf:Organization rdf:about="entiACS/Stazioni_asinine_di_monta">
+		<skos:prefLabel>Stazioni asinine di monta</skos:prefLabel>
+		<rdfs:label xml:lang="it">Stazioni asinine di monta</rdfs:label>
+		<dc:title xml:lang="it">Stazioni asinine di monta</dc:title>
+	</foaf:Organization>
+	<foaf:Organization rdf:about="entiACS/Stazioni_di_meteorologia_agraria">
+		<skos:prefLabel>Stazioni di meteorologia agraria</skos:prefLabel>
+		<rdfs:label xml:lang="it">Stazioni di meteorologia agraria</rdfs:label>
+		<dc:title xml:lang="it">Stazioni di meteorologia agraria</dc:title>
+	</foaf:Organization>
+	<foaf:Organization rdf:about="entiACS/Stazioni_taurine_di_monta">
+		<skos:prefLabel>Stazioni taurine di monta</skos:prefLabel>
+		<rdfs:label xml:lang="it">Stazioni taurine di monta</rdfs:label>
+		<dc:title xml:lang="it">Stazioni taurine di monta</dc:title>
+	</foaf:Organization>
+	<foaf:Organization rdf:about="entiACS/Stazioni_zootecniche">
+		<skos:prefLabel>Stazioni zootecniche</skos:prefLabel>
+		<rdfs:label xml:lang="it">Stazioni zootecniche</rdfs:label>
+		<dc:title xml:lang="it">Stazioni zootecniche</dc:title>
+	</foaf:Organization>
+	<foaf:Organization rdf:about="entiACS/Uffici_di_assaggio">
+		<skos:prefLabel>Uffici di assaggio</skos:prefLabel>
+		<rdfs:label xml:lang="it">Uffici di assaggio</rdfs:label>
+		<dc:title xml:lang="it">Uffici di assaggio</dc:title>
+	</foaf:Organization>
+	<foaf:Organization rdf:about="entiACS/Cantine_sociali">
+		<skos:prefLabel>Cantine sociali</skos:prefLabel>
+		<rdfs:label xml:lang="it">Cantine sociali</rdfs:label>
+		<dc:title xml:lang="it">Cantine sociali</dc:title>
+	</foaf:Organization>
+	<foaf:Organization rdf:about="entiACS/Colonie_agricole">
+		<skos:prefLabel>Colonie agricole</skos:prefLabel>
+		<rdfs:label xml:lang="it">Colonie agricole</rdfs:label>
+		<dc:title xml:lang="it">Colonie agricole</dc:title>
+	</foaf:Organization>
+	<foaf:Organization rdf:about="entiACS/Commissioni_provinciali_di_viticoltura_ed_enologia">
+		<skos:prefLabel>Commissioni provinciali di viticoltura ed enologia</skos:prefLabel>
+		<rdfs:label xml:lang="it">Commissioni provinciali di viticoltura ed enologia</rdfs:label>
+		<dc:title xml:lang="it">Commissioni provinciali di viticoltura ed enologia</dc:title>
+	</foaf:Organization>
+	<foaf:Organization rdf:about="entiACS/Laboratori_agrari">
+		<skos:prefLabel>Laboratori agrari</skos:prefLabel>
+		<rdfs:label xml:lang="it">Laboratori agrari</rdfs:label>
+		<dc:title xml:lang="it">Laboratori agrari</dc:title>
+	</foaf:Organization>
+	<foaf:Organization rdf:about="entiACS/Osservatori_bacologici">
+		<skos:prefLabel>Osservatori bacologici</skos:prefLabel>
+		<rdfs:label xml:lang="it">Osservatori bacologici</rdfs:label>
+		<dc:title xml:lang="it">Osservatori bacologici</dc:title>
+	</foaf:Organization>
+	<foaf:Organization rdf:about="entiACS/Osservatori_geodinamici">
+		<skos:prefLabel>Osservatori geodinamici</skos:prefLabel>
+		<rdfs:label xml:lang="it">Osservatori geodinamici</rdfs:label>
+		<dc:title xml:lang="it">Osservatori geodinamici</dc:title>
+	</foaf:Organization>
+	<foaf:Organization rdf:about="entiACS/Osservatori_meteorologici">
+		<skos:prefLabel>Osservatori metereologici</skos:prefLabel>
+		<rdfs:label xml:lang="it">Osservatori metereologici</rdfs:label>
+		<dc:title xml:lang="it">Osservatori metereologici</dc:title>
+	</foaf:Organization>
+	<foaf:Organization rdf:about="entiACS/Scuole_agrarie_sussidiate">
+		<skos:prefLabel>Scuole agrarie</skos:prefLabel>
+		<rdfs:label xml:lang="it">Scuole agrarie</rdfs:label>
+		<dc:title xml:lang="it">Scuole agrarie</dc:title>
+	</foaf:Organization>
+	<foaf:Organization rdf:about="entiACS/Scuole_minerarie">
+		<skos:prefLabel>Scuole minerarie</skos:prefLabel>
+		<rdfs:label xml:lang="it">Scuole minerarie</rdfs:label>
+		<dc:title xml:lang="it">Scuole minerarie</dc:title>
+	</foaf:Organization>
+	<foaf:Organization rdf:about="entiACS/Scuole_podere">
+		<skos:prefLabel>Scuole podere</skos:prefLabel>
+		<rdfs:label xml:lang="it">Scuole podere</rdfs:label>
+		<dc:title xml:lang="it">Scuole podere</dc:title>
+	</foaf:Organization>
+	<foaf:Organization rdf:about="entiACS/Scuole_pratiche_di_agricoltura">
+		<skos:prefLabel>Scuole pratiche di agricoltura</skos:prefLabel>
+		<rdfs:label xml:lang="it">Scuole pratiche di agricoltura</rdfs:label>
+		<dc:title xml:lang="it">Scuole pratiche di agricoltura</dc:title>
+	</foaf:Organization>
+	<foaf:Organization rdf:about="entiACS/Societa_agrarie">
+		<skos:prefLabel>Società agrarie</skos:prefLabel>
+		<rdfs:label xml:lang="it">Società agrarie</rdfs:label>
+		<dc:title xml:lang="it">Società agrarie</dc:title>
+	</foaf:Organization>
+	<foaf:Organization rdf:about="entiACS/Societa_enologiche">
+		<skos:prefLabel>Società enologiche</skos:prefLabel>
+		<rdfs:label xml:lang="it">Società enologiche</rdfs:label>
+		<dc:title xml:lang="it">Società enologiche</dc:title>
+	</foaf:Organization>
+	<foaf:Organization rdf:about="entiACS/Societa_per_le_corse_dei_cavalli">
+		<skos:prefLabel>Società per le corse dei cavalli</skos:prefLabel>
+		<rdfs:label xml:lang="it">Società per le corse dei cavalli</rdfs:label>
+		<dc:title xml:lang="it">Società per le corse dei cavalli</dc:title>
+	</foaf:Organization>
+	<skos:Concept rdf:about="entiACS/Stazioni_agrarie">
+		<skos:prefLabel>Stazioni agrarie</skos:prefLabel>
+		<rdfs:label xml:lang="it">Stazioni agrarie</rdfs:label>
+		<dc:title xml:lang="it">Stazioni agrarie</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="entiACS/Stazioni_asinine_di_monta">
+		<skos:prefLabel>Stazioni asinine di monta</skos:prefLabel>
+		<rdfs:label xml:lang="it">Stazioni asinine di monta</rdfs:label>
+		<dc:title xml:lang="it">Stazioni asinine di monta</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="entiACS/Stazioni_di_meteorologia_agraria">
+		<skos:prefLabel>Stazioni di meteorologia agraria</skos:prefLabel>
+		<rdfs:label xml:lang="it">Stazioni di meteorologia agraria</rdfs:label>
+		<dc:title xml:lang="it">Stazioni di meteorologia agraria</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="entiACS/Stazioni_taurine_di_monta">
+		<skos:prefLabel>Stazioni taurine di monta</skos:prefLabel>
+		<rdfs:label xml:lang="it">Stazioni taurine di monta</rdfs:label>
+		<dc:title xml:lang="it">Stazioni taurine di monta</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="entiACS/Stazioni_zootecniche">
+		<skos:prefLabel>Stazioni zootecniche</skos:prefLabel>
+		<rdfs:label xml:lang="it">Stazioni zootecniche</rdfs:label>
+		<dc:title xml:lang="it">Stazioni zootecniche</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="entiACS/Uffici_di_assaggio">
+		<skos:prefLabel>Uffici di assaggio</skos:prefLabel>
+		<rdfs:label xml:lang="it">Uffici di assaggio</rdfs:label>
+		<dc:title xml:lang="it">Uffici di assaggio</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="entiACS/Cantine_sociali">
+		<skos:prefLabel>Cantine sociali</skos:prefLabel>
+		<rdfs:label xml:lang="it">Cantine sociali</rdfs:label>
+		<dc:title xml:lang="it">Cantine sociali</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="entiACS/Colonie_agricole">
+		<skos:prefLabel>Colonie agricole</skos:prefLabel>
+		<rdfs:label xml:lang="it">Colonie agricole</rdfs:label>
+		<dc:title xml:lang="it">Colonie agricole</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="entiACS/Commissioni_provinciali_di_viticoltura_ed_enologia">
+		<skos:prefLabel>Commissioni provinciali di viticoltura ed enologia</skos:prefLabel>
+		<rdfs:label xml:lang="it">Commissioni provinciali di viticoltura ed enologia</rdfs:label>
+		<dc:title xml:lang="it">Commissioni provinciali di viticoltura ed enologia</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="entiACS/Laboratori_agrari">
+		<skos:prefLabel>Laboratori agrari</skos:prefLabel>
+		<rdfs:label xml:lang="it">Laboratori agrari</rdfs:label>
+		<dc:title xml:lang="it">Laboratori agrari</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="entiACS/Osservatori_bacologici">
+		<skos:prefLabel>Osservatori bacologici</skos:prefLabel>
+		<rdfs:label xml:lang="it">Osservatori bacologici</rdfs:label>
+		<dc:title xml:lang="it">Osservatori bacologici</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="entiACS/Osservatori_geodinamici">
+		<skos:prefLabel>Osservatori geodinamici</skos:prefLabel>
+		<rdfs:label xml:lang="it">Osservatori geodinamici</rdfs:label>
+		<dc:title xml:lang="it">Osservatori geodinamici</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="entiACS/Osservatori_meteorologici">
+		<skos:prefLabel>Osservatori metereologici</skos:prefLabel>
+		<rdfs:label xml:lang="it">Osservatori metereologici</rdfs:label>
+		<dc:title xml:lang="it">Osservatori metereologici</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="entiACS/Scuole_agrarie_sussidiate">
+		<skos:prefLabel>Scuole agrarie</skos:prefLabel>
+		<rdfs:label xml:lang="it">Scuole agrarie</rdfs:label>
+		<dc:title xml:lang="it">Scuole agrarie</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="entiACS/Scuole_minerarie">
+		<skos:prefLabel>Scuole minerarie</skos:prefLabel>
+		<rdfs:label xml:lang="it">Scuole minerarie</rdfs:label>
+		<dc:title xml:lang="it">Scuole minerarie</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="entiACS/Scuole_podere">
+		<skos:prefLabel>Scuole podere</skos:prefLabel>
+		<rdfs:label xml:lang="it">Scuole podere</rdfs:label>
+		<dc:title xml:lang="it">Scuole podere</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="entiACS/Scuole_pratiche_di_agricoltura">
+		<skos:prefLabel>Scuole pratiche di agricoltura</skos:prefLabel>
+		<rdfs:label xml:lang="it">Scuole pratiche di agricoltura</rdfs:label>
+		<dc:title xml:lang="it">Scuole pratiche di agricoltura</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="entiACS/Societa_agrarie">
+		<skos:prefLabel>Società agrarie</skos:prefLabel>
+		<rdfs:label xml:lang="it">Società agrarie</rdfs:label>
+		<dc:title xml:lang="it">Società agrarie</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="entiACS/Societa_enologiche">
+		<skos:prefLabel>Società enologiche</skos:prefLabel>
+		<rdfs:label xml:lang="it">Società enologiche</rdfs:label>
+		<dc:title xml:lang="it">Società enologiche</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="entiACS/Societa_per_le_corse_dei_cavalli">
+		<skos:prefLabel>Società per le corse dei cavalli</skos:prefLabel>
+		<rdfs:label xml:lang="it">Società per le corse dei cavalli</rdfs:label>
+		<dc:title xml:lang="it">Società per le corse dei cavalli</dc:title>
+	</skos:Concept>
+</rdf:RDF>

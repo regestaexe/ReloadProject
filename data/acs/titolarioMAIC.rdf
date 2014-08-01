@@ -1,0 +1,2452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2008 rel. 2 sp2 (http://www.altova.com) by silvia (regesta) -->
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:viaf="http://viaf.org/ontology/1.1/#" xmlns:eac-cpf="http://archivi.ibc.regione.emilia-romagna.it/ontology/eac-cpf/" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:gn="http://www.geonames.org/ontology#" xmlns:bio="http://purl.org/vocab/bio/0.1/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:oad="http://lod.xdams.org/reload/oad/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://lod.xdams.org/reload/oad/" xml:base="http://lod.xdams.org/reload/oad/">
+	<skos:ConceptScheme rdf:about="titolarioMAIC/titolario">
+		<dc:creator>regesta</dc:creator>
+		<dc:language>it</dc:language>
+		<dc:rights>All rights reserved...</dc:rights>
+		<skos:prefLabel>Thesaurus del titolario MAIC</skos:prefLabel>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thesaurus del titolario MAIC</rdfs:label>
+	</skos:ConceptScheme>
+	<skos:Concept rdf:about="titolarioMaic/I">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FORESTE</rdfs:label>
+		<skos:prefLabel>FORESTE</skos:prefLabel>
+		<dc:title>FORESTE</dc:title>
+		<skos:narrower rdf:resource="titolarioMaic/1"/>
+		<skos:narrower rdf:resource="titolarioMaic/2"/>
+		<skos:narrower rdf:resource="titolarioMaic/2.2"/>
+		<skos:narrower rdf:resource="titolarioMaic/3"/>
+		<skos:narrower rdf:resource="titolarioMaic/5"/>
+		<skos:narrower rdf:resource="titolarioMaic/6.1"/>
+		<skos:narrower rdf:resource="titolarioMaic/6.2"/>
+		<skos:narrower rdf:resource="titolarioMaic/7.1"/>
+		<skos:narrower rdf:resource="titolarioMaic/7.3"/>
+		<skos:narrower rdf:resource="titolarioMaic/8.4"/>
+		<skos:narrower rdf:resource="titolarioMaic/9"/>
+		<skos:narrower rdf:resource="titolarioMaic/9.5"/>
+		<skos:narrower rdf:resource="titolarioMaic/12"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/1">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Legislazione forestale</rdfs:label>
+		<skos:prefLabel>Legislazione forestale</skos:prefLabel>
+		<dc:title>Legislazione forestale</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/2">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Organizzazione del servizio forestale</rdfs:label>
+		<skos:prefLabel>Organizzazione del servizio forestale</skos:prefLabel>
+		<dc:title>Organizzazione del servizio forestale</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/2.2">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Corsi di istruzione forestale. Esami di concorso</rdfs:label>
+		<skos:prefLabel>Corsi di istruzione forestale. Esami di concorso</skos:prefLabel>
+		<dc:title>Corsi di istruzione forestale. Esami di concorso</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/3">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Istituto forestale di Vallombrosa</rdfs:label>
+		<skos:prefLabel>Istituto forestale di Vallombrosa</skos:prefLabel>
+		<dc:title>Istituto forestale di Vallombrosa</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/5">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Foreste. Esposizioni</rdfs:label>
+		<skos:prefLabel>Foreste. Esposizioni</skos:prefLabel>
+		<dc:title>Foreste. Esposizioni</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/6.1">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dissodamenti</rdfs:label>
+		<skos:prefLabel>Dissodamenti</skos:prefLabel>
+		<dc:title>Dissodamenti</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/6.2">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tagli</rdfs:label>
+		<skos:prefLabel>Tagli</skos:prefLabel>
+		<dc:title>Tagli</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/7.1">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Contenzioso forestale</rdfs:label>
+		<skos:prefLabel>Contenzioso forestale</skos:prefLabel>
+		<dc:title>Contenzioso forestale</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/7.3">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Contenzioso forestale. Complessiva</rdfs:label>
+		<skos:prefLabel>Contenzioso forestale. Complessiva</skos:prefLabel>
+		<dc:title>Contenzioso forestale. Complessiva</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/8.4">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Erbario forestale e indice alfabetico delle piante legnose</rdfs:label>
+		<skos:prefLabel>Erbario forestale e indice alfabetico delle piante legnose</skos:prefLabel>
+		<dc:title>Erbario forestale e indice alfabetico delle piante legnose</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/9">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Personale forestale. Fascicoli personali</rdfs:label>
+		<skos:prefLabel>Personale forestale. Fascicoli personali</skos:prefLabel>
+		<dc:title>Personale forestale. Fascicoli personali</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/9.5">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Personale forestale. Complessiva</rdfs:label>
+		<skos:prefLabel>Personale forestale. Complessiva</skos:prefLabel>
+		<dc:title>Personale forestale. Complessiva</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/12">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Foreste demaniali</rdfs:label>
+		<skos:prefLabel>Foreste demaniali</skos:prefLabel>
+		<dc:title>Foreste demaniali</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/II">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PERSONALE DEGLI ISTITUTI PER L'INCREMENTO DELL'AGRICOLTURA</rdfs:label>
+		<skos:prefLabel>PERSONALE DEGLI ISTITUTI PER L'INCREMENTO DELL'AGRICOLTURA</skos:prefLabel>
+		<dc:title>PERSONALE DEGLI ISTITUTI PER L'INCREMENTO DELL'AGRICOLTURA</dc:title>
+		<skos:narrower rdf:resource="titolarioMaic/13"/>
+		<skos:narrower rdf:resource="titolarioMaic/13.1"/>
+		<skos:narrower rdf:resource="titolarioMaic/13.2"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/13">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Personale degli istituti per l'incremento dell'agricoltura. Complessiva</rdfs:label>
+		<skos:prefLabel>Personale degli istituti per l'incremento dell'agricoltura. Complessiva</skos:prefLabel>
+		<dc:title>Personale degli istituti per l'incremento dell'agricoltura. Complessiva</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/13.1">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Personale degli istituti per l'incremento dell'agricoltura. Concorsi</rdfs:label>
+		<skos:prefLabel>Personale degli istituti per l'incremento dell'agricoltura. Concorsi</skos:prefLabel>
+		<dc:title>Personale degli istituti per l'incremento dell'agricoltura. Concorsi</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/13.2">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Personale degli istituti per l'incremento dell'agricoltura.</rdfs:label>
+		<skos:prefLabel>Personale degli istituti per l'incremento dell'agricoltura.</skos:prefLabel>
+		<dc:title>Personale degli istituti per l'incremento dell'agricoltura.</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/III">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AFFARI GENERALI DELL'AGRICOLTURA</rdfs:label>
+		<skos:prefLabel>AFFARI GENERALI DELL'AGRICOLTURA</skos:prefLabel>
+		<dc:title>AFFARI GENERALI DELL'AGRICOLTURA</dc:title>
+		<skos:narrower rdf:resource="titolarioMaic/14"/>
+		<skos:narrower rdf:resource="titolarioMaic/14.1"/>
+		<skos:narrower rdf:resource="titolarioMaic/14.2"/>
+		<skos:narrower rdf:resource="titolarioMaic/14.3"/>
+		<skos:narrower rdf:resource="titolarioMaic/14.4"/>
+		<skos:narrower rdf:resource="titolarioMaic/14.5"/>
+		<skos:narrower rdf:resource="titolarioMaic/14.6"/>
+		<skos:narrower rdf:resource="titolarioMaic/14.7"/>
+		<skos:narrower rdf:resource="titolarioMaic/14.8"/>
+		<skos:narrower rdf:resource="titolarioMaic/14.9"/>
+		<skos:relatedMatch rdf:resource="titolarioAstengo/titolarioAstengo_XI.1"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/14">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Agricoltura. Affari generali</rdfs:label>
+		<skos:prefLabel>Agricoltura. Affari generali</skos:prefLabel>
+		<dc:title>Agricoltura. Affari generali</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/14.1">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Agricoltura. Domande diverse</rdfs:label>
+		<skos:prefLabel>Agricoltura. Domande diverse</skos:prefLabel>
+		<dc:title>Agricoltura. Domande diverse</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/14.2">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pubblicazioni agrarie all'interno</rdfs:label>
+		<skos:prefLabel>Pubblicazioni agrarie all'interno</skos:prefLabel>
+		<dc:title>Pubblicazioni agrarie all'interno</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/14.3">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pubblicazioni agrarie all'estero</rdfs:label>
+		<skos:prefLabel>Pubblicazioni agrarie all'estero</skos:prefLabel>
+		<dc:title>Pubblicazioni agrarie all'estero</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/14.4">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pubblicazioni del Ministero</rdfs:label>
+		<skos:prefLabel>Pubblicazioni del Ministero</skos:prefLabel>
+		<dc:title>Pubblicazioni del Ministero</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/14.5">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Onorificenze per meriti agrari</rdfs:label>
+		<skos:prefLabel>Onorificenze per meriti agrari</skos:prefLabel>
+		<dc:title>Onorificenze per meriti agrari</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/14.6">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Associazione a giornali e riviste all'interno</rdfs:label>
+		<skos:prefLabel>Associazione a giornali e riviste all'interno</skos:prefLabel>
+		<dc:title>Associazione a giornali e riviste all'interno</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/14.7">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Associazione a giornali e riviste all'estero</rdfs:label>
+		<skos:prefLabel>Associazione a giornali e riviste all'estero</skos:prefLabel>
+		<dc:title>Associazione a giornali e riviste all'estero</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/14.8">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Agricoltura. Spese varie e bilancio</rdfs:label>
+		<skos:prefLabel>Agricoltura. Spese varie e bilancio</skos:prefLabel>
+		<dc:title>Agricoltura. Spese varie e bilancio</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/14.9">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Persone benemerite per le industrie e scienze agrarie</rdfs:label>
+		<skos:prefLabel>Persone benemerite per le industrie e scienze agrarie</skos:prefLabel>
+		<dc:title>Persone benemerite per le industrie e scienze agrarie</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/IV">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RAPPRESENTANZE AGRARIE</rdfs:label>
+		<skos:prefLabel>RAPPRESENTANZE AGRARIE</skos:prefLabel>
+		<dc:title>RAPPRESENTANZE AGRARIE</dc:title>
+		<skos:narrower rdf:resource="titolarioMaic/15"/>
+		<skos:narrower rdf:resource="titolarioMaic/15.2"/>
+		<skos:narrower rdf:resource="titolarioMaic/15.3"/>
+		<skos:narrower rdf:resource="titolarioMaic/15.4"/>
+		<skos:narrower rdf:resource="titolarioMaic/15.5"/>
+		<skos:narrower rdf:resource="titolarioMaic/15.6"/>
+		<skos:narrower rdf:resource="titolarioMaic/15.7"/>
+		<skos:narrower rdf:resource="titolarioMaic/15.8"/>
+		<skos:narrower rdf:resource="titolarioMaic/15.9"/>
+		<skos:narrower rdf:resource="titolarioMaic/15.10"/>
+		<skos:narrower rdf:resource="titolarioMaic/15.11"/>
+		<skos:narrower rdf:resource="titolarioMaic/15.12"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/15">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Consiglio di agricoltura</rdfs:label>
+		<skos:prefLabel>Consiglio di agricoltura</skos:prefLabel>
+		<dc:title>Consiglio di agricoltura</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/15.2">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Congressi agrari all'interno</rdfs:label>
+		<skos:prefLabel>Congressi agrari all'interno</skos:prefLabel>
+		<dc:title>Congressi agrari all'interno</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/15.3">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Congressi agrari all'estero</rdfs:label>
+		<skos:prefLabel>Congressi agrari all'estero</skos:prefLabel>
+		<dc:title>Congressi agrari all'estero</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/15.4">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Comizi agrari. Complessiva</rdfs:label>
+		<skos:prefLabel>Comizi agrari. Complessiva</skos:prefLabel>
+		<dc:title>Comizi agrari. Complessiva</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/15.5">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Comizi agrari</rdfs:label>
+		<skos:prefLabel>Comizi agrari</skos:prefLabel>
+		<dc:title>Comizi agrari</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/15.6">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Accademie agrarie</rdfs:label>
+		<skos:prefLabel>Accademie agrarie</skos:prefLabel>
+		<dc:title>Accademie agrarie</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/15.7">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Camere di agricoltura</rdfs:label>
+		<skos:prefLabel>Camere di agricoltura</skos:prefLabel>
+		<dc:title>Camere di agricoltura</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/15.8">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Associazioni agrarie</rdfs:label>
+		<skos:prefLabel>Associazioni agrarie</skos:prefLabel>
+		<dc:title>Associazioni agrarie</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/15.9">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Società agrarie</rdfs:label>
+		<skos:prefLabel>Società agrarie</skos:prefLabel>
+		<dc:title>Società agrarie</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/15.10">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rappresentanze agrarie all'estero</rdfs:label>
+		<skos:prefLabel>Rappresentanze agrarie all'estero</skos:prefLabel>
+		<dc:title>Rappresentanze agrarie all'estero</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/15.11">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Commissioni agrarie</rdfs:label>
+		<skos:prefLabel>Commissioni agrarie</skos:prefLabel>
+		<dc:title>Commissioni agrarie</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/15.12">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sindacati agrari</rdfs:label>
+		<skos:prefLabel>Sindacati agrari</skos:prefLabel>
+		<dc:title>Sindacati agrari</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/V">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ISTITUTI SPERIMENTALI AGRARI</rdfs:label>
+		<skos:prefLabel>ISTITUTI SPERIMENTALI AGRARI</skos:prefLabel>
+		<dc:title>ISTITUTI SPERIMENTALI AGRARI</dc:title>
+		<skos:narrower rdf:resource="titolarioMaic/16"/>
+		<skos:narrower rdf:resource="titolarioMaic/16.1"/>
+		<skos:narrower rdf:resource="titolarioMaic/16.2"/>
+		<skos:narrower rdf:resource="titolarioMaic/16.3"/>
+		<skos:narrower rdf:resource="titolarioMaic/16.4"/>
+		<skos:narrower rdf:resource="titolarioMaic/16.5"/>
+		<skos:narrower rdf:resource="titolarioMaic/16.6"/>
+		<skos:narrower rdf:resource="titolarioMaic/16.7"/>
+		<skos:narrower rdf:resource="titolarioMaic/16.8"/>
+		<skos:narrower rdf:resource="titolarioMaic/16.9"/>
+		<skos:narrower rdf:resource="titolarioMaic/16.10"/>
+		<skos:narrower rdf:resource="titolarioMaic/16.11"/>
+		<skos:narrower rdf:resource="titolarioMaic/16.13"/>
+		<skos:narrower rdf:resource="titolarioMaic/16.14"/>
+		<skos:narrower rdf:resource="titolarioMaic/16.15"/>
+		<skos:narrower rdf:resource="titolarioMaic/16.17"/>
+		<skos:narrower rdf:resource="titolarioMaic/16.18"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/16">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stazioni agrarie. Complessiva</rdfs:label>
+		<skos:prefLabel>Stazioni agrarie. Complessiva</skos:prefLabel>
+		<dc:title>Stazioni agrarie. Complessiva</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/16.1">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stazioni agrarie all'estero</rdfs:label>
+		<skos:prefLabel>Stazioni agrarie all'estero</skos:prefLabel>
+		<dc:title>Stazioni agrarie all'estero</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/16.2">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stazioni agrarie all'interno</rdfs:label>
+		<skos:prefLabel>Stazioni agrarie all'interno</skos:prefLabel>
+		<dc:title>Stazioni agrarie all'interno</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/16.3">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Laboratori agrari all'interno</rdfs:label>
+		<skos:prefLabel>Laboratori agrari all'interno</skos:prefLabel>
+		<dc:title>Laboratori agrari all'interno</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/16.4">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Laboratori agrari all'estero</rdfs:label>
+		<skos:prefLabel>Laboratori agrari all'estero</skos:prefLabel>
+		<dc:title>Laboratori agrari all'estero</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/16.5">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stazioni enologiche</rdfs:label>
+		<skos:prefLabel>Stazioni enologiche</skos:prefLabel>
+		<dc:title>Stazioni enologiche</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/16.6">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Osservatori enologici</rdfs:label>
+		<skos:prefLabel>Osservatori enologici</skos:prefLabel>
+		<dc:title>Osservatori enologici</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/16.7">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stazioni bacologiche</rdfs:label>
+		<skos:prefLabel>Stazioni bacologiche</skos:prefLabel>
+		<dc:title>Stazioni bacologiche</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/16.8">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Osservatori bacologici. Complessiva</rdfs:label>
+		<skos:prefLabel>Osservatori bacologici. Complessiva</skos:prefLabel>
+		<dc:title>Osservatori bacologici. Complessiva</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/16.9">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Osservatori bacologici</rdfs:label>
+		<skos:prefLabel>Osservatori bacologici</skos:prefLabel>
+		<dc:title>Osservatori bacologici</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/16.10">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Insegnamento bacologico</rdfs:label>
+		<skos:prefLabel>Insegnamento bacologico</skos:prefLabel>
+		<dc:title>Insegnamento bacologico</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/16.11">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Istituti bacologici</rdfs:label>
+		<skos:prefLabel>Istituti bacologici</skos:prefLabel>
+		<dc:title>Istituti bacologici</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/16.13">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Laboratori di botanica crittogamica</rdfs:label>
+		<skos:prefLabel>Laboratori di botanica crittogamica</skos:prefLabel>
+		<dc:title>Laboratori di botanica crittogamica</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/16.14">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stazioni di entomologia agraria</rdfs:label>
+		<skos:prefLabel>Stazioni di entomologia agraria</skos:prefLabel>
+		<dc:title>Stazioni di entomologia agraria</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/16.15">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Uffici di assaggio</rdfs:label>
+		<skos:prefLabel>Uffici di assaggio</skos:prefLabel>
+		<dc:title>Uffici di assaggio</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/16.17">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Congressi e lavori delle stazioni agrarie</rdfs:label>
+		<skos:prefLabel>Congressi e lavori delle stazioni agrarie</skos:prefLabel>
+		<dc:title>Congressi e lavori delle stazioni agrarie</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/16.18">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Congressi delle stazioni agrarie all'estero</rdfs:label>
+		<skos:prefLabel>Congressi delle stazioni agrarie all'estero</skos:prefLabel>
+		<dc:title>Congressi delle stazioni agrarie all'estero</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/VI">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">INSEGNAMENTO AGRARIO</rdfs:label>
+		<skos:prefLabel>INSEGNAMENTO AGRARIO</skos:prefLabel>
+		<dc:title>INSEGNAMENTO AGRARIO</dc:title>
+		<skos:narrower rdf:resource="titolarioMaic/17"/>
+		<skos:narrower rdf:resource="titolarioMaic/17.1"/>
+		<skos:narrower rdf:resource="titolarioMaic/17.2"/>
+		<skos:narrower rdf:resource="titolarioMaic/17.3"/>
+		<skos:narrower rdf:resource="titolarioMaic/17.4"/>
+		<skos:narrower rdf:resource="titolarioMaic/17.5"/>
+		<skos:narrower rdf:resource="titolarioMaic/17.6"/>
+		<skos:narrower rdf:resource="titolarioMaic/17.7"/>
+		<skos:narrower rdf:resource="titolarioMaic/17.8"/>
+		<skos:narrower rdf:resource="titolarioMaic/17.9"/>
+		<skos:narrower rdf:resource="titolarioMaic/17.10"/>
+		<skos:narrower rdf:resource="titolarioMaic/17.11"/>
+		<skos:narrower rdf:resource="titolarioMaic/17.12"/>
+		<skos:narrower rdf:resource="titolarioMaic/17.13"/>
+		<skos:narrower rdf:resource="titolarioMaic/17.14"/>
+		<skos:narrower rdf:resource="titolarioMaic/17.16"/>
+		<skos:narrower rdf:resource="titolarioMaic/17.17"/>
+		<skos:narrower rdf:resource="titolarioMaic/17.18"/>
+		<skos:narrower rdf:resource="titolarioMaic/17.19"/>
+		<skos:narrower rdf:resource="titolarioMaic/17.20"/>
+		<skos:narrower rdf:resource="titolarioMaic/17.21"/>
+		<skos:narrower rdf:resource="titolarioMaic/17.22"/>
+		<skos:narrower rdf:resource="titolarioMaic/17.23"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/17">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Insegnamento agrario. Complessiva</rdfs:label>
+		<skos:prefLabel>Insegnamento agrario. Complessiva</skos:prefLabel>
+		<dc:title>Insegnamento agrario. Complessiva</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/17.1">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Scuole superiori di agricoltura</rdfs:label>
+		<skos:prefLabel>Scuole superiori di agricoltura</skos:prefLabel>
+		<dc:title>Scuole superiori di agricoltura</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/17.2">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Scuole agrarie sussidiate</rdfs:label>
+		<skos:prefLabel>Scuole agrarie sussidiate</skos:prefLabel>
+		<dc:title>Scuole agrarie sussidiate</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/17.3">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Scuole agrarie speciali</rdfs:label>
+		<skos:prefLabel>Scuole agrarie speciali</skos:prefLabel>
+		<dc:title>Scuole agrarie speciali</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/17.4">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Scuole pratiche di agricoltura</rdfs:label>
+		<skos:prefLabel>Scuole pratiche di agricoltura</skos:prefLabel>
+		<dc:title>Scuole pratiche di agricoltura</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/17.5">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Insegnamento agrario in istituti e collegi</rdfs:label>
+		<skos:prefLabel>Insegnamento agrario in istituti e collegi</skos:prefLabel>
+		<dc:title>Insegnamento agrario in istituti e collegi</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/17.6">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Insegnamenti agrari speciali nelle scuole elementari e tecniche</rdfs:label>
+		<skos:prefLabel>Insegnamenti agrari speciali nelle scuole elementari e tecniche</skos:prefLabel>
+		<dc:title>Insegnamenti agrari speciali nelle scuole elementari e tecniche</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/17.7">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Colonizzazione agraria. Complessiva</rdfs:label>
+		<skos:prefLabel>Colonizzazione agraria. Complessiva</skos:prefLabel>
+		<dc:title>Colonizzazione agraria. Complessiva</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/17.8">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Colonie agricole</rdfs:label>
+		<skos:prefLabel>Colonie agricole</skos:prefLabel>
+		<dc:title>Colonie agricole</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/17.9">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Scuole podere</rdfs:label>
+		<skos:prefLabel>Scuole podere</skos:prefLabel>
+		<dc:title>Scuole podere</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/17.10">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Insegnamento agrario nelle scuole normali e magistrali</rdfs:label>
+		<skos:prefLabel>Insegnamento agrario nelle scuole normali e magistrali</skos:prefLabel>
+		<dc:title>Insegnamento agrario nelle scuole normali e magistrali</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/17.11">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Insegnamento agrario elementare</rdfs:label>
+		<skos:prefLabel>Insegnamento agrario elementare</skos:prefLabel>
+		<dc:title>Insegnamento agrario elementare</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/17.12">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Insegnamento agrario all'estero</rdfs:label>
+		<skos:prefLabel>Insegnamento agrario all'estero</skos:prefLabel>
+		<dc:title>Insegnamento agrario all'estero</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/17.13">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Colonie agricole all'estero</rdfs:label>
+		<skos:prefLabel>Colonie agricole all'estero</skos:prefLabel>
+		<dc:title>Colonie agricole all'estero</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/17.14">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Conferenze agrarie</rdfs:label>
+		<skos:prefLabel>Conferenze agrarie</skos:prefLabel>
+		<dc:title>Conferenze agrarie</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/17.16">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteche agrarie</rdfs:label>
+		<skos:prefLabel>Biblioteche agrarie</skos:prefLabel>
+		<dc:title>Biblioteche agrarie</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/17.17">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Monografie agrarie</rdfs:label>
+		<skos:prefLabel>Monografie agrarie</skos:prefLabel>
+		<dc:title>Monografie agrarie</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/17.18">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Libri per le scuole agrarie</rdfs:label>
+		<skos:prefLabel>Libri per le scuole agrarie</skos:prefLabel>
+		<dc:title>Libri per le scuole agrarie</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/17.19">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trattative per l'impianto di scuole elementari di agricoltura pratica</rdfs:label>
+		<skos:prefLabel>Trattative per l'impianto di scuole elementari di agricoltura pratica</skos:prefLabel>
+		<dc:title>Trattative per l'impianto di scuole elementari di agricoltura pratica</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/17.20">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Musei agrari </rdfs:label>
+		<skos:prefLabel>Musei agrari </skos:prefLabel>
+		<dc:title>Musei agrari </dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/17.21">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cattedre ambulanti di agricoltura</rdfs:label>
+		<skos:prefLabel>Cattedre ambulanti di agricoltura</skos:prefLabel>
+		<dc:title>Cattedre ambulanti di agricoltura</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/17.22">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Conferenze agrarie magistrali</rdfs:label>
+		<skos:prefLabel>Conferenze agrarie magistrali</skos:prefLabel>
+		<dc:title>Conferenze agrarie magistrali</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/17.23">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Insegnamento agrario negli orfanotrofi</rdfs:label>
+		<skos:prefLabel>Insegnamento agrario negli orfanotrofi</skos:prefLabel>
+		<dc:title>Insegnamento agrario negli orfanotrofi</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/VII">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ESPOSIZIONI E CONCORSI</rdfs:label>
+		<skos:prefLabel>ESPOSIZIONI E CONCORSI</skos:prefLabel>
+		<dc:title>ESPOSIZIONI E CONCORSI</dc:title>
+		<skos:narrower rdf:resource="titolarioMaic/18"/>
+		<skos:narrower rdf:resource="titolarioMaic/18.1"/>
+		<skos:narrower rdf:resource="titolarioMaic/18.2"/>
+		<skos:narrower rdf:resource="titolarioMaic/18.3"/>
+		<skos:narrower rdf:resource="titolarioMaic/18.4"/>
+		<skos:narrower rdf:resource="titolarioMaic/18.5"/>
+		<skos:narrower rdf:resource="titolarioMaic/18.6"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/18">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Esposizioni e concorsi agrari all'interno. Complessiva</rdfs:label>
+		<skos:prefLabel>Esposizioni e concorsi agrari all'interno. Complessiva</skos:prefLabel>
+		<dc:title>Esposizioni e concorsi agrari all'interno. Complessiva</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/18.1">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Esposizioni agrarie all'interno </rdfs:label>
+		<skos:prefLabel>Esposizioni agrarie all'interno </skos:prefLabel>
+		<dc:title>Esposizioni agrarie all'interno </dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/18.2">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Esposizioni internazionali</rdfs:label>
+		<skos:prefLabel>Esposizioni internazionali</skos:prefLabel>
+		<dc:title>Esposizioni internazionali</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/18.3">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Concorsi agrari all'interno </rdfs:label>
+		<skos:prefLabel>Concorsi agrari all'interno </skos:prefLabel>
+		<dc:title>Concorsi agrari all'interno </dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/18.4">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Esposizioni e concorsi agrari all'estero</rdfs:label>
+		<skos:prefLabel>Esposizioni e concorsi agrari all'estero</skos:prefLabel>
+		<dc:title>Esposizioni e concorsi agrari all'estero</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/18.5">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Concorsi agrari regionali</rdfs:label>
+		<skos:prefLabel>Concorsi agrari regionali</skos:prefLabel>
+		<dc:title>Concorsi agrari regionali</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/18.6">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Concorsi promossi dal Ministero per speciali oggetti agrari</rdfs:label>
+		<skos:prefLabel>Concorsi promossi dal Ministero per speciali oggetti agrari</skos:prefLabel>
+		<dc:title>Concorsi promossi dal Ministero per speciali oggetti agrari</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/VIII">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ESPERIENZE AGRARIE E COLTIVAZIONI SPECIALI</rdfs:label>
+		<skos:prefLabel>ESPERIENZE AGRARIE E COLTIVAZIONI SPECIALI</skos:prefLabel>
+		<dc:title>ESPERIENZE AGRARIE E COLTIVAZIONI SPECIALI</dc:title>
+		<skos:narrower rdf:resource="titolarioMaic/19"/>
+		<skos:narrower rdf:resource="titolarioMaic/19.1"/>
+		<skos:narrower rdf:resource="titolarioMaic/19.2"/>
+		<skos:narrower rdf:resource="titolarioMaic/19.3"/>
+		<skos:narrower rdf:resource="titolarioMaic/19.4"/>
+		<skos:narrower rdf:resource="titolarioMaic/19.5"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/19">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Esperienze agrarie. Complessiva</rdfs:label>
+		<skos:prefLabel>Esperienze agrarie. Complessiva</skos:prefLabel>
+		<dc:title>Esperienze agrarie. Complessiva</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/19.1">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Esperienze agrarie speciali</rdfs:label>
+		<skos:prefLabel>Esperienze agrarie speciali</skos:prefLabel>
+		<dc:title>Esperienze agrarie speciali</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/19.2">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Coltivazioni speciali e sperimentali. Complessiva</rdfs:label>
+		<skos:prefLabel>Coltivazioni speciali e sperimentali. Complessiva</skos:prefLabel>
+		<dc:title>Coltivazioni speciali e sperimentali. Complessiva</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/19.3">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Coltivazioni speciali e sperimentali </rdfs:label>
+		<skos:prefLabel>Coltivazioni speciali e sperimentali </skos:prefLabel>
+		<dc:title>Coltivazioni speciali e sperimentali </dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/19.4">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Acclimazioni di piante. Complessiva</rdfs:label>
+		<skos:prefLabel>Acclimazioni di piante. Complessiva</skos:prefLabel>
+		<dc:title>Acclimazioni di piante. Complessiva</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/19.5">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Acclimazioni speciali </rdfs:label>
+		<skos:prefLabel>Acclimazioni speciali </skos:prefLabel>
+		<dc:title>Acclimazioni speciali </dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/IX">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CORSI D'ACQUA, IRRIGAZIONI E BONIFICHE</rdfs:label>
+		<skos:prefLabel>CORSI D'ACQUA, IRRIGAZIONI E BONIFICHE</skos:prefLabel>
+		<dc:title>CORSI D'ACQUA, IRRIGAZIONI E BONIFICHE</dc:title>
+		<skos:narrower rdf:resource="titolarioMaic/20"/>
+		<skos:narrower rdf:resource="titolarioMaic/20.1"/>
+		<skos:narrower rdf:resource="titolarioMaic/20.2"/>
+		<skos:narrower rdf:resource="titolarioMaic/20.3"/>
+		<skos:narrower rdf:resource="titolarioMaic/20.4"/>
+		<skos:narrower rdf:resource="titolarioMaic/20.5"/>
+		<skos:narrower rdf:resource="titolarioMaic/20.6"/>
+		<skos:narrower rdf:resource="titolarioMaic/20.7"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/20">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Corsi d'acqua, irrigazioni, bonifiche. Complessiva</rdfs:label>
+		<skos:prefLabel>Corsi d'acqua, irrigazioni, bonifiche. Complessiva</skos:prefLabel>
+		<dc:title>Corsi d'acqua, irrigazioni, bonifiche. Complessiva</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/20.1">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Corsi d'acqua. Per provincia</rdfs:label>
+		<skos:prefLabel>Corsi d'acqua. Per provincia</skos:prefLabel>
+		<dc:title>Corsi d'acqua. Per provincia</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/20.2">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Consorzi di irrigazione</rdfs:label>
+		<skos:prefLabel>Consorzi di irrigazione</skos:prefLabel>
+		<dc:title>Consorzi di irrigazione</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/20.3">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bonifiche. Affari generali</rdfs:label>
+		<skos:prefLabel>Bonifiche. Affari generali</skos:prefLabel>
+		<dc:title>Bonifiche. Affari generali</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/20.4">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bonifiche. Affari speciali</rdfs:label>
+		<skos:prefLabel>Bonifiche. Affari speciali</skos:prefLabel>
+		<dc:title>Bonifiche. Affari speciali</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/20.5">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Notizie e studi sulla fognatura</rdfs:label>
+		<skos:prefLabel>Notizie e studi sulla fognatura</skos:prefLabel>
+		<dc:title>Notizie e studi sulla fognatura</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/20.6">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fognatura. Affari diversi</rdfs:label>
+		<skos:prefLabel>Fognatura. Affari diversi</skos:prefLabel>
+		<dc:title>Fognatura. Affari diversi</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/20.7">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bonificamento dell'Agro romano</rdfs:label>
+		<skos:prefLabel>Bonificamento dell'Agro romano</skos:prefLabel>
+		<dc:title>Bonificamento dell'Agro romano</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/X">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ENTOMOLOGIA E CRITTOGAMIA AGRARIA</rdfs:label>
+		<skos:prefLabel>ENTOMOLOGIA E CRITTOGAMIA AGRARIA</skos:prefLabel>
+		<dc:title>ENTOMOLOGIA E CRITTOGAMIA AGRARIA</dc:title>
+		<skos:narrower rdf:resource="titolarioMaic/21"/>
+		<skos:narrower rdf:resource="titolarioMaic/21.1"/>
+		<skos:narrower rdf:resource="titolarioMaic/21.2"/>
+		<skos:narrower rdf:resource="titolarioMaic/21.3"/>
+		<skos:narrower rdf:resource="titolarioMaic/21.4"/>
+		<skos:narrower rdf:resource="titolarioMaic/21.5"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/21">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Entomologia e crittogamia agraria. Complessiva</rdfs:label>
+		<skos:prefLabel>Entomologia e crittogamia agraria. Complessiva</skos:prefLabel>
+		<dc:title>Entomologia e crittogamia agraria. Complessiva</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/21.1">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cavallette. Complessiva</rdfs:label>
+		<skos:prefLabel>Cavallette. Complessiva</skos:prefLabel>
+		<dc:title>Cavallette. Complessiva</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/21.2">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Notizie sulle cavallette in Italia</rdfs:label>
+		<skos:prefLabel>Notizie sulle cavallette in Italia</skos:prefLabel>
+		<dc:title>Notizie sulle cavallette in Italia</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/21.3">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fillossera all'estero</rdfs:label>
+		<skos:prefLabel>Fillossera all'estero</skos:prefLabel>
+		<dc:title>Fillossera all'estero</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/21.4">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fillossera all'interno</rdfs:label>
+		<skos:prefLabel>Fillossera all'interno</skos:prefLabel>
+		<dc:title>Fillossera all'interno</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/21.5">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Doryphora decemlineata</rdfs:label>
+		<skos:prefLabel>Doryphora decemlineata</skos:prefLabel>
+		<dc:title>Doryphora decemlineata</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/XI">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MALATTIE DELLE PIANTE</rdfs:label>
+		<skos:prefLabel>MALATTIE DELLE PIANTE</skos:prefLabel>
+		<dc:title>MALATTIE DELLE PIANTE</dc:title>
+		<skos:narrower rdf:resource="titolarioMaic/22"/>
+		<skos:relatedMatch rdf:resource="titolarioAstengo/titolarioAstengo_XI.1"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/22">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Malattie delle piante</rdfs:label>
+		<skos:prefLabel>Malattie delle piante</skos:prefLabel>
+		<dc:title>Malattie delle piante</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/XII">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ENOLOGIA E VITICOLTURA</rdfs:label>
+		<skos:prefLabel>ENOLOGIA E VITICOLTURA</skos:prefLabel>
+		<dc:title>ENOLOGIA E VITICOLTURA</dc:title>
+		<skos:narrower rdf:resource="titolarioMaic/23"/>
+		<skos:narrower rdf:resource="titolarioMaic/23.1"/>
+		<skos:narrower rdf:resource="titolarioMaic/23.2"/>
+		<skos:narrower rdf:resource="titolarioMaic/23.3"/>
+		<skos:narrower rdf:resource="titolarioMaic/23.4"/>
+		<skos:narrower rdf:resource="titolarioMaic/23.5"/>
+		<skos:narrower rdf:resource="titolarioMaic/23.6"/>
+		<skos:narrower rdf:resource="titolarioMaic/23.7"/>
+		<skos:narrower rdf:resource="titolarioMaic/23.8"/>
+		<skos:narrower rdf:resource="titolarioMaic/23.9"/>
+		<skos:narrower rdf:resource="titolarioMaic/23.10"/>
+		<skos:narrower rdf:resource="titolarioMaic/23.11"/>
+		<skos:narrower rdf:resource="titolarioMaic/23.12"/>
+		<skos:narrower rdf:resource="titolarioMaic/23.13"/>
+		<skos:narrower rdf:resource="titolarioMaic/23.14"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/23">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Enologia. Complessiva</rdfs:label>
+		<skos:prefLabel>Enologia. Complessiva</skos:prefLabel>
+		<dc:title>Enologia. Complessiva</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/23.1">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Enologia. Speciale</rdfs:label>
+		<skos:prefLabel>Enologia. Speciale</skos:prefLabel>
+		<dc:title>Enologia. Speciale</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/23.2">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vinificazione. Complessiva</rdfs:label>
+		<skos:prefLabel>Vinificazione. Complessiva</skos:prefLabel>
+		<dc:title>Vinificazione. Complessiva</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/23.3">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cantine sperimentali</rdfs:label>
+		<skos:prefLabel>Cantine sperimentali</skos:prefLabel>
+		<dc:title>Cantine sperimentali</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/23.4">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Viticoltura. Complessiva</rdfs:label>
+		<skos:prefLabel>Viticoltura. Complessiva</skos:prefLabel>
+		<dc:title>Viticoltura. Complessiva</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/23.5">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Viticoltura. Speciale</rdfs:label>
+		<skos:prefLabel>Viticoltura. Speciale</skos:prefLabel>
+		<dc:title>Viticoltura. Speciale</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/23.6">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Commercio di uve e vini all'interno e all'estero</rdfs:label>
+		<skos:prefLabel>Commercio di uve e vini all'interno e all'estero</skos:prefLabel>
+		<dc:title>Commercio di uve e vini all'interno e all'estero</dc:title>
+		<skos:relatedMatch rdf:resource="titolarioAstengo/titolarioAstengo_XI.3"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/23.7">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Commercio dei vini italiani all'estero</rdfs:label>
+		<skos:prefLabel>Commercio dei vini italiani all'estero</skos:prefLabel>
+		<dc:title>Commercio dei vini italiani all'estero</dc:title>
+		<skos:relatedMatch rdf:resource="titolarioAstengo/titolarioAstengo_XI.3"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/23.8">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Esperimenti sulla navigazione dei vini</rdfs:label>
+		<skos:prefLabel>Esperimenti sulla navigazione dei vini</skos:prefLabel>
+		<dc:title>Esperimenti sulla navigazione dei vini</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/23.9">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cantine sociali</rdfs:label>
+		<skos:prefLabel>Cantine sociali</skos:prefLabel>
+		<dc:title>Cantine sociali</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/23.10">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Società enologiche</rdfs:label>
+		<skos:prefLabel>Società enologiche</skos:prefLabel>
+		<dc:title>Società enologiche</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/23.11">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ampelografia. Complessiva</rdfs:label>
+		<skos:prefLabel>Ampelografia. Complessiva</skos:prefLabel>
+		<dc:title>Ampelografia. Complessiva</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/23.12">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pubblicazioni ampelografiche</rdfs:label>
+		<skos:prefLabel>Pubblicazioni ampelografiche</skos:prefLabel>
+		<dc:title>Pubblicazioni ampelografiche</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/23.13">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Commissioni ampelografiche provinciali, poi divenute</rdfs:label>
+		<skos:prefLabel>Commissioni ampelografiche provinciali, poi divenute</skos:prefLabel>
+		<dc:title>Commissioni ampelografiche provinciali, poi divenute</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/23.14">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Commissioni ampelografiche provinciali, poi divenute Commissioni provinciali di viticoltura ed enologia</rdfs:label>
+		<skos:prefLabel>Commissioni ampelografiche provinciali, poi divenute Commissioni provinciali di viticoltura ed enologia</skos:prefLabel>
+		<dc:title>Commissioni ampelografiche provinciali, poi divenute Commissioni provinciali di viticoltura ed enologia</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/XIII">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ALLEVAMENTO DEL BESTIAME</rdfs:label>
+		<skos:prefLabel>ALLEVAMENTO DEL BESTIAME</skos:prefLabel>
+		<dc:title>ALLEVAMENTO DEL BESTIAME</dc:title>
+		<skos:narrower rdf:resource="titolarioMaic/24"/>
+		<skos:narrower rdf:resource="titolarioMaic/24.1"/>
+		<skos:narrower rdf:resource="titolarioMaic/24.2"/>
+		<skos:narrower rdf:resource="titolarioMaic/24.3"/>
+		<skos:narrower rdf:resource="titolarioMaic/24.4"/>
+		<skos:narrower rdf:resource="titolarioMaic/24.5"/>
+		<skos:narrower rdf:resource="titolarioMaic/24.6"/>
+		<skos:narrower rdf:resource="titolarioMaic/24.7"/>
+		<skos:narrower rdf:resource="titolarioMaic/24.8"/>
+		<skos:narrower rdf:resource="titolarioMaic/24.9"/>
+		<skos:narrower rdf:resource="titolarioMaic/24.10"/>
+		<skos:narrower rdf:resource="titolarioMaic/24.11"/>
+		<skos:narrower rdf:resource="titolarioMaic/24.12"/>
+		<skos:narrower rdf:resource="titolarioMaic/24.13"/>
+		<skos:narrower rdf:resource="titolarioMaic/24.14"/>
+		<skos:narrower rdf:resource="titolarioMaic/24.15"/>
+		<skos:narrower rdf:resource="titolarioMaic/24.16"/>
+		<skos:narrower rdf:resource="titolarioMaic/24.18"/>
+		<skos:narrower rdf:resource="titolarioMaic/24.19"/>
+		<skos:narrower rdf:resource="titolarioMaic/24.20"/>
+		<skos:narrower rdf:resource="titolarioMaic/24.21"/>
+		<skos:narrower rdf:resource="titolarioMaic/24.22"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/24">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Miglioramento del bestiame</rdfs:label>
+		<skos:prefLabel>Miglioramento del bestiame</skos:prefLabel>
+		<dc:title>Miglioramento del bestiame</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/24.1">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Depositi di animali miglioratori</rdfs:label>
+		<skos:prefLabel>Depositi di animali miglioratori</skos:prefLabel>
+		<dc:title>Depositi di animali miglioratori</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/24.2">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Domande di cessione di animali miglioratori</rdfs:label>
+		<skos:prefLabel>Domande di cessione di animali miglioratori</skos:prefLabel>
+		<dc:title>Domande di cessione di animali miglioratori</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/24.3">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Conferenze zootecniche</rdfs:label>
+		<skos:prefLabel>Conferenze zootecniche</skos:prefLabel>
+		<dc:title>Conferenze zootecniche</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/24.4">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Concorsi per il miglioramento del bestiame banditi dal Ministero</rdfs:label>
+		<skos:prefLabel>Concorsi per il miglioramento del bestiame banditi dal Ministero</skos:prefLabel>
+		<dc:title>Concorsi per il miglioramento del bestiame banditi dal Ministero</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/24.5">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Esposizioni e concorsi di bestiame all'interno e all'estero</rdfs:label>
+		<skos:prefLabel>Esposizioni e concorsi di bestiame all'interno e all'estero</skos:prefLabel>
+		<dc:title>Esposizioni e concorsi di bestiame all'interno e all'estero</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/24.6">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Allevamento del bestiame</rdfs:label>
+		<skos:prefLabel>Allevamento del bestiame</skos:prefLabel>
+		<dc:title>Allevamento del bestiame</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/24.7">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Congressi degli allevatori di bestiame</rdfs:label>
+		<skos:prefLabel>Congressi degli allevatori di bestiame</skos:prefLabel>
+		<dc:title>Congressi degli allevatori di bestiame</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/24.8">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Congressi veterinari</rdfs:label>
+		<skos:prefLabel>Congressi veterinari</skos:prefLabel>
+		<dc:title>Congressi veterinari</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/24.9">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Studi ed esperienze sulla produzione animale</rdfs:label>
+		<skos:prefLabel>Studi ed esperienze sulla produzione animale</skos:prefLabel>
+		<dc:title>Studi ed esperienze sulla produzione animale</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/24.10">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Acclimazione di animali</rdfs:label>
+		<skos:prefLabel>Acclimazione di animali</skos:prefLabel>
+		<dc:title>Acclimazione di animali</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/24.11">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ispezioni sulla pastorizia</rdfs:label>
+		<skos:prefLabel>Ispezioni sulla pastorizia</skos:prefLabel>
+		<dc:title>Ispezioni sulla pastorizia</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/24.12">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Statistica del bestiame all'estero</rdfs:label>
+		<skos:prefLabel>Statistica del bestiame all'estero</skos:prefLabel>
+		<dc:title>Statistica del bestiame all'estero</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/24.13">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Censimento del bestiame</rdfs:label>
+		<skos:prefLabel>Censimento del bestiame</skos:prefLabel>
+		<dc:title>Censimento del bestiame</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/24.14">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Statistica zootecnica dei bovini. Complessiva</rdfs:label>
+		<skos:prefLabel>Statistica zootecnica dei bovini. Complessiva</skos:prefLabel>
+		<dc:title>Statistica zootecnica dei bovini. Complessiva</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/24.15">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Statistica zootecnica dei bovini. Per provincia</rdfs:label>
+		<skos:prefLabel>Statistica zootecnica dei bovini. Per provincia</skos:prefLabel>
+		<dc:title>Statistica zootecnica dei bovini. Per provincia</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/24.16">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sale pastorizio</rdfs:label>
+		<skos:prefLabel>Sale pastorizio</skos:prefLabel>
+		<dc:title>Sale pastorizio</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/24.18">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stazioni asinine di monta</rdfs:label>
+		<skos:prefLabel>Stazioni asinine di monta</skos:prefLabel>
+		<dc:title>Stazioni asinine di monta</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/24.19">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stazioni taurine di monta. Complessiva</rdfs:label>
+		<skos:prefLabel>Stazioni taurine di monta. Complessiva</skos:prefLabel>
+		<dc:title>Stazioni taurine di monta. Complessiva</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/24.20">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stazioni taurine di monta. Per provincia</rdfs:label>
+		<skos:prefLabel>Stazioni taurine di monta. Per provincia</skos:prefLabel>
+		<dc:title>Stazioni taurine di monta. Per provincia</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/24.21">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Società protettrici degli animali</rdfs:label>
+		<skos:prefLabel>Società protettrici degli animali</skos:prefLabel>
+		<dc:title>Società protettrici degli animali</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/24.22">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stazioni zootecniche</rdfs:label>
+		<skos:prefLabel>Stazioni zootecniche</skos:prefLabel>
+		<dc:title>Stazioni zootecniche</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/XIV">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SERVIZIO IPPICO</rdfs:label>
+		<skos:prefLabel>SERVIZIO IPPICO</skos:prefLabel>
+		<dc:title>SERVIZIO IPPICO</dc:title>
+		<skos:narrower rdf:resource="titolarioMaic/25"/>
+		<skos:narrower rdf:resource="titolarioMaic/25.2"/>
+		<skos:narrower rdf:resource="titolarioMaic/25.3"/>
+		<skos:narrower rdf:resource="titolarioMaic/25.4"/>
+		<skos:narrower rdf:resource="titolarioMaic/25.5"/>
+		<skos:narrower rdf:resource="titolarioMaic/25.6"/>
+		<skos:narrower rdf:resource="titolarioMaic/25.7"/>
+		<skos:narrower rdf:resource="titolarioMaic/25.8"/>
+		<skos:narrower rdf:resource="titolarioMaic/25.9"/>
+		<skos:narrower rdf:resource="titolarioMaic/25.10"/>
+		<skos:narrower rdf:resource="titolarioMaic/25.11"/>
+		<skos:narrower rdf:resource="titolarioMaic/25.12"/>
+		<skos:narrower rdf:resource="titolarioMaic/25.13"/>
+		<skos:narrower rdf:resource="titolarioMaic/25.14"/>
+		<skos:narrower rdf:resource="titolarioMaic/25.15"/>
+		<skos:narrower rdf:resource="titolarioMaic/25.16"/>
+		<skos:narrower rdf:resource="titolarioMaic/25.17"/>
+		<skos:narrower rdf:resource="titolarioMaic/25.18"/>
+		<skos:narrower rdf:resource="titolarioMaic/25.19"/>
+		<skos:narrower rdf:resource="titolarioMaic/25.20"/>
+		<skos:narrower rdf:resource="titolarioMaic/25.21"/>
+		<skos:narrower rdf:resource="titolarioMaic/25.22"/>
+		<skos:narrower rdf:resource="titolarioMaic/25.23"/>
+		<skos:narrower rdf:resource="titolarioMaic/25.24"/>
+		<skos:narrower rdf:resource="titolarioMaic/25.25"/>
+		<skos:narrower rdf:resource="titolarioMaic/25.26"/>
+		<skos:narrower rdf:resource="titolarioMaic/25.27"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/25">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Servizio ippico</rdfs:label>
+		<skos:prefLabel>Servizio ippico</skos:prefLabel>
+		<dc:title>Servizio ippico</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/25.2">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Studi ed esperienze sull'allevamento dei cavalli</rdfs:label>
+		<skos:prefLabel>Studi ed esperienze sull'allevamento dei cavalli</skos:prefLabel>
+		<dc:title>Studi ed esperienze sull'allevamento dei cavalli</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/25.3">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pubblicazioni sul servizio ippico</rdfs:label>
+		<skos:prefLabel>Pubblicazioni sul servizio ippico</skos:prefLabel>
+		<dc:title>Pubblicazioni sul servizio ippico</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/25.4">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Personale militare addetto ai depositi di cavalli stalloni</rdfs:label>
+		<skos:prefLabel>Personale militare addetto ai depositi di cavalli stalloni</skos:prefLabel>
+		<dc:title>Personale militare addetto ai depositi di cavalli stalloni</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/25.5">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Personale borghese addetto ai depositi di cavalli stalloni</rdfs:label>
+		<skos:prefLabel>Personale borghese addetto ai depositi di cavalli stalloni</skos:prefLabel>
+		<dc:title>Personale borghese addetto ai depositi di cavalli stalloni</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/25.6">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Domande di impiego nell'amministrazione dei depositi di cavalli stalloni</rdfs:label>
+		<skos:prefLabel>Domande di impiego nell'amministrazione dei depositi di cavalli stalloni</skos:prefLabel>
+		<dc:title>Domande di impiego nell'amministrazione dei depositi di cavalli stalloni</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/25.7">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Contabilità generale dei depositi di cavalli stalloni</rdfs:label>
+		<skos:prefLabel>Contabilità generale dei depositi di cavalli stalloni</skos:prefLabel>
+		<dc:title>Contabilità generale dei depositi di cavalli stalloni</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/25.8">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Servizio ippico. Contabilità vestiario e arredi</rdfs:label>
+		<skos:prefLabel>Servizio ippico. Contabilità vestiario e arredi</skos:prefLabel>
+		<dc:title>Servizio ippico. Contabilità vestiario e arredi</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/25.9">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Servizio ippico. Acquisto di cavalli stalloni</rdfs:label>
+		<skos:prefLabel>Servizio ippico. Acquisto di cavalli stalloni</skos:prefLabel>
+		<dc:title>Servizio ippico. Acquisto di cavalli stalloni</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/25.10">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Servizio ippico. Vendita di cavalli stalloni</rdfs:label>
+		<skos:prefLabel>Servizio ippico. Vendita di cavalli stalloni</skos:prefLabel>
+		<dc:title>Servizio ippico. Vendita di cavalli stalloni</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/25.11">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Servizio ippico. Cavalli ad uso dell'esercito</rdfs:label>
+		<skos:prefLabel>Servizio ippico. Cavalli ad uso dell'esercito</skos:prefLabel>
+		<dc:title>Servizio ippico. Cavalli ad uso dell'esercito</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/25.12">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Servizio ippico. Igiene e conservazione dei cavalli stalloni</rdfs:label>
+		<skos:prefLabel>Servizio ippico. Igiene e conservazione dei cavalli stalloni</skos:prefLabel>
+		<dc:title>Servizio ippico. Igiene e conservazione dei cavalli stalloni</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/25.13">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alimentazione dei cavalli. Forniture di foraggio per i depositi governativi</rdfs:label>
+		<skos:prefLabel>Alimentazione dei cavalli. Forniture di foraggio per i depositi governativi</skos:prefLabel>
+		<dc:title>Alimentazione dei cavalli. Forniture di foraggio per i depositi governativi</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/25.14">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Depositi di cavalli stalloni. Contratti diversi</rdfs:label>
+		<skos:prefLabel>Depositi di cavalli stalloni. Contratti diversi</skos:prefLabel>
+		<dc:title>Depositi di cavalli stalloni. Contratti diversi</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/25.15">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Depositi di cavalli stalloni. Inventari dei beni mobili</rdfs:label>
+		<skos:prefLabel>Depositi di cavalli stalloni. Inventari dei beni mobili</skos:prefLabel>
+		<dc:title>Depositi di cavalli stalloni. Inventari dei beni mobili</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/25.16">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Depositi di cavalli stalloni. Locali</rdfs:label>
+		<skos:prefLabel>Depositi di cavalli stalloni. Locali</skos:prefLabel>
+		<dc:title>Depositi di cavalli stalloni. Locali</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/25.17">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Depositi di cavalli stalloni e stazioni di monta</rdfs:label>
+		<skos:prefLabel>Depositi di cavalli stalloni e stazioni di monta</skos:prefLabel>
+		<dc:title>Depositi di cavalli stalloni e stazioni di monta</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/25.18">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ispezioni ai depositi di cavalli stalloni</rdfs:label>
+		<skos:prefLabel>Ispezioni ai depositi di cavalli stalloni</skos:prefLabel>
+		<dc:title>Ispezioni ai depositi di cavalli stalloni</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/25.19">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rapporti dei depositi di cavalli stalloni</rdfs:label>
+		<skos:prefLabel>Rapporti dei depositi di cavalli stalloni</skos:prefLabel>
+		<dc:title>Rapporti dei depositi di cavalli stalloni</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/25.20">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Servizio ippico. Movimento stalloni</rdfs:label>
+		<skos:prefLabel>Servizio ippico. Movimento stalloni</skos:prefLabel>
+		<dc:title>Servizio ippico. Movimento stalloni</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/25.21">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Servizio ippico. Tasse di monta</rdfs:label>
+		<skos:prefLabel>Servizio ippico. Tasse di monta</skos:prefLabel>
+		<dc:title>Servizio ippico. Tasse di monta</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/25.22">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Industria stalloniera</rdfs:label>
+		<skos:prefLabel>Industria stalloniera</skos:prefLabel>
+		<dc:title>Industria stalloniera</dc:title>
+		<skos:relatedMatch rdf:resource="titolarioAstengo/titolarioAstengo_XI.2"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/25.23">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Allevatori di equini</rdfs:label>
+		<skos:prefLabel>Allevatori di equini</skos:prefLabel>
+		<dc:title>Allevatori di equini</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/25.24">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Società per le corse dei cavalli</rdfs:label>
+		<skos:prefLabel>Società per le corse dei cavalli</skos:prefLabel>
+		<dc:title>Società per le corse dei cavalli</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/25.25">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Libro genealogico dei cavalli italiani</rdfs:label>
+		<skos:prefLabel>Libro genealogico dei cavalli italiani</skos:prefLabel>
+		<dc:title>Libro genealogico dei cavalli italiani</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/25.26">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Servizio ippico. Affari diversi</rdfs:label>
+		<skos:prefLabel>Servizio ippico. Affari diversi</skos:prefLabel>
+		<dc:title>Servizio ippico. Affari diversi</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/25.27">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pagamento foraggi dei depositi di cavalli stalloni</rdfs:label>
+		<skos:prefLabel>Pagamento foraggi dei depositi di cavalli stalloni</skos:prefLabel>
+		<dc:title>Pagamento foraggi dei depositi di cavalli stalloni</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/XV">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CASEIFICIO</rdfs:label>
+		<skos:prefLabel>CASEIFICIO</skos:prefLabel>
+		<dc:title>CASEIFICIO</dc:title>
+		<skos:narrower rdf:resource="titolarioMaic/26"/>
+		<skos:narrower rdf:resource="titolarioMaic/26.1"/>
+		<skos:narrower rdf:resource="titolarioMaic/26.2"/>
+		<skos:narrower rdf:resource="titolarioMaic/26.3"/>
+		<skos:narrower rdf:resource="titolarioMaic/26.4"/>
+		<skos:narrower rdf:resource="titolarioMaic/26.5"/>
+		<skos:narrower rdf:resource="titolarioMaic/26.6"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/26">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Industria del caseificio. Complessiva</rdfs:label>
+		<skos:prefLabel>Industria del caseificio. Complessiva</skos:prefLabel>
+		<dc:title>Industria del caseificio. Complessiva</dc:title>
+		<skos:relatedMatch rdf:resource="titolarioAstengo/titolarioAstengo_XI.2"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/26.1">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stazioni di caseificio</rdfs:label>
+		<skos:prefLabel>Stazioni di caseificio</skos:prefLabel>
+		<dc:title>Stazioni di caseificio</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/26.2">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Latterie sociali</rdfs:label>
+		<skos:prefLabel>Latterie sociali</skos:prefLabel>
+		<dc:title>Latterie sociali</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/26.3">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Industria del caseificio. Concorsi ed esposizioni</rdfs:label>
+		<skos:prefLabel>Industria del caseificio. Concorsi ed esposizioni</skos:prefLabel>
+		<dc:title>Industria del caseificio. Concorsi ed esposizioni</dc:title>
+		<skos:relatedMatch rdf:resource="titolarioAstengo/titolarioAstengo_XI.2"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/26.4">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Esperienze sulla fabbricazione dei prodotti caseari</rdfs:label>
+		<skos:prefLabel>Esperienze sulla fabbricazione dei prodotti caseari</skos:prefLabel>
+		<dc:title>Esperienze sulla fabbricazione dei prodotti caseari</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/26.5">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Insegnamento del caseificio</rdfs:label>
+		<skos:prefLabel>Insegnamento del caseificio</skos:prefLabel>
+		<dc:title>Insegnamento del caseificio</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/26.6">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Osservatori di caseificio</rdfs:label>
+		<skos:prefLabel>Osservatori di caseificio</skos:prefLabel>
+		<dc:title>Osservatori di caseificio</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/XVI">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CONCIMI</rdfs:label>
+		<skos:prefLabel>CONCIMI</skos:prefLabel>
+		<dc:title>CONCIMI</dc:title>
+		<skos:narrower rdf:resource="titolarioMaic/27"/>
+		<skos:narrower rdf:resource="titolarioMaic/27.1"/>
+		<skos:narrower rdf:resource="titolarioMaic/27.2"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/27">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Concimi. Complessiva</rdfs:label>
+		<skos:prefLabel>Concimi. Complessiva</skos:prefLabel>
+		<dc:title>Concimi. Complessiva</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/27.1">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Concimi speciali nazionali</rdfs:label>
+		<skos:prefLabel>Concimi speciali nazionali</skos:prefLabel>
+		<dc:title>Concimi speciali nazionali</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/27.2">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Concimi speciali esteri</rdfs:label>
+		<skos:prefLabel>Concimi speciali esteri</skos:prefLabel>
+		<dc:title>Concimi speciali esteri</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/XVII">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">INSETTI UTILI</rdfs:label>
+		<skos:prefLabel>INSETTI UTILI</skos:prefLabel>
+		<dc:title>INSETTI UTILI</dc:title>
+		<skos:narrower rdf:resource="titolarioMaic/28"/>
+		<skos:narrower rdf:resource="titolarioMaic/28.1"/>
+		<skos:narrower rdf:resource="titolarioMaic/28.2"/>
+		<skos:narrower rdf:resource="titolarioMaic/28.3"/>
+		<skos:narrower rdf:resource="titolarioMaic/28.4"/>
+		<skos:narrower rdf:resource="titolarioMaic/28.5"/>
+		<skos:narrower rdf:resource="titolarioMaic/28.6"/>
+		<skos:narrower rdf:resource="titolarioMaic/28.7"/>
+		<skos:narrower rdf:resource="titolarioMaic/28.8"/>
+		<skos:narrower rdf:resource="titolarioMaic/28.9"/>
+		<skos:narrower rdf:resource="titolarioMaic/28.10"/>
+		<skos:narrower rdf:resource="titolarioMaic/28.11"/>
+		<skos:narrower rdf:resource="titolarioMaic/28.12"/>
+		<skos:narrower rdf:resource="titolarioMaic/28.13"/>
+		<skos:narrower rdf:resource="titolarioMaic/28.14"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/28">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bachicoltura. Complessiva</rdfs:label>
+		<skos:prefLabel>Bachicoltura. Complessiva</skos:prefLabel>
+		<dc:title>Bachicoltura. Complessiva</dc:title>
+		<skos:relatedMatch rdf:resource="titolarioAstengo/titolarioAstengo_XI.1"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/28.1">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bachicoltura all'interno. Esperimenti</rdfs:label>
+		<skos:prefLabel>Bachicoltura all'interno. Esperimenti</skos:prefLabel>
+		<dc:title>Bachicoltura all'interno. Esperimenti</dc:title>
+		<skos:relatedMatch rdf:resource="titolarioAstengo/titolarioAstengo_XI.1"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/28.2">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bachicoltura all'interno. Relazioni</rdfs:label>
+		<skos:prefLabel>Bachicoltura all'interno. Relazioni</skos:prefLabel>
+		<dc:title>Bachicoltura all'interno. Relazioni</dc:title>
+		<skos:relatedMatch rdf:resource="titolarioAstengo/titolarioAstengo_XI.1"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/28.3">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bachicoltura all'interno. Mercato dei bozzoli</rdfs:label>
+		<skos:prefLabel>Bachicoltura all'interno. Mercato dei bozzoli</skos:prefLabel>
+		<dc:title>Bachicoltura all'interno. Mercato dei bozzoli</dc:title>
+		<skos:relatedMatch rdf:resource="titolarioAstengo/titolarioAstengo_XI.1"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/28.4">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bachicoltura all'interno. Statistica</rdfs:label>
+		<skos:prefLabel>Bachicoltura all'interno. Statistica</skos:prefLabel>
+		<dc:title>Bachicoltura all'interno. Statistica</dc:title>
+		<skos:relatedMatch rdf:resource="titolarioAstengo/titolarioAstengo_XI.1"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/28.5">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bachicoltura all'estero. Complessiva</rdfs:label>
+		<skos:prefLabel>Bachicoltura all'estero. Complessiva</skos:prefLabel>
+		<dc:title>Bachicoltura all'estero. Complessiva</dc:title>
+		<skos:relatedMatch rdf:resource="titolarioAstengo/titolarioAstengo_XI.1"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/28.6">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bachicoltura all'estero. Esperimenti</rdfs:label>
+		<skos:prefLabel>Bachicoltura all'estero. Esperimenti</skos:prefLabel>
+		<dc:title>Bachicoltura all'estero. Esperimenti</dc:title>
+		<skos:relatedMatch rdf:resource="titolarioAstengo/titolarioAstengo_XI.1"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/28.7">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bachicoltura all'estero. Relazioni</rdfs:label>
+		<skos:prefLabel>Bachicoltura all'estero. Relazioni</skos:prefLabel>
+		<dc:title>Bachicoltura all'estero. Relazioni</dc:title>
+		<skos:relatedMatch rdf:resource="titolarioAstengo/titolarioAstengo_XI.1"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/28.8">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bachicoltura all'estero. Mercato dei bozzoli</rdfs:label>
+		<skos:prefLabel>Bachicoltura all'estero. Mercato dei bozzoli</skos:prefLabel>
+		<dc:title>Bachicoltura all'estero. Mercato dei bozzoli</dc:title>
+		<skos:relatedMatch rdf:resource="titolarioAstengo/titolarioAstengo_XI.1"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/28.9">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bachicoltura all'estero. Statistica</rdfs:label>
+		<skos:prefLabel>Bachicoltura all'estero. Statistica</skos:prefLabel>
+		<dc:title>Bachicoltura all'estero. Statistica</dc:title>
+		<skos:relatedMatch rdf:resource="titolarioAstengo/titolarioAstengo_XI.1"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/28.10">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Apicoltura. Complessiva</rdfs:label>
+		<skos:prefLabel>Apicoltura. Complessiva</skos:prefLabel>
+		<dc:title>Apicoltura. Complessiva</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/28.11">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Apicoltura. Per provincia</rdfs:label>
+		<skos:prefLabel>Apicoltura. Per provincia</skos:prefLabel>
+		<dc:title>Apicoltura. Per provincia</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/28.12">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Congressi apistici. Apicoltura all'estero</rdfs:label>
+		<skos:prefLabel>Congressi apistici. Apicoltura all'estero</skos:prefLabel>
+		<dc:title>Congressi apistici. Apicoltura all'estero</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/28.13">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cocciniglie</rdfs:label>
+		<skos:prefLabel>Cocciniglie</skos:prefLabel>
+		<dc:title>Cocciniglie</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/28.14">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sanguisughe</rdfs:label>
+		<skos:prefLabel>Sanguisughe</skos:prefLabel>
+		<dc:title>Sanguisughe</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/XVIII">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VETERINARIA</rdfs:label>
+		<skos:prefLabel>VETERINARIA</skos:prefLabel>
+		<dc:title>VETERINARIA</dc:title>
+		<skos:narrower rdf:resource="titolarioMaic/29"/>
+		<skos:narrower rdf:resource="titolarioMaic/29.1"/>
+		<skos:narrower rdf:resource="titolarioMaic/29.2"/>
+		<skos:narrower rdf:resource="titolarioMaic/29.3"/>
+		<skos:narrower rdf:resource="titolarioMaic/29.5"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/29">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Veterinaria. Complessiva</rdfs:label>
+		<skos:prefLabel>Veterinaria. Complessiva</skos:prefLabel>
+		<dc:title>Veterinaria. Complessiva</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/29.1">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Veterinaria. Insegnamento. Complessiva</rdfs:label>
+		<skos:prefLabel>Veterinaria. Insegnamento. Complessiva</skos:prefLabel>
+		<dc:title>Veterinaria. Insegnamento. Complessiva</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/29.2">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Veterinaria. Insegnamento. Scuole</rdfs:label>
+		<skos:prefLabel>Veterinaria. Insegnamento. Scuole</skos:prefLabel>
+		<dc:title>Veterinaria. Insegnamento. Scuole</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/29.3">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Condotte veterinarie</rdfs:label>
+		<skos:prefLabel>Condotte veterinarie</skos:prefLabel>
+		<dc:title>Condotte veterinarie</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/29.5">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Esercizio della veterinaria all'estero</rdfs:label>
+		<skos:prefLabel>Esercizio della veterinaria all'estero</skos:prefLabel>
+		<dc:title>Esercizio della veterinaria all'estero</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/XIX">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MALATTIE DEL BESTIAME</rdfs:label>
+		<skos:prefLabel>MALATTIE DEL BESTIAME</skos:prefLabel>
+		<dc:title>MALATTIE DEL BESTIAME</dc:title>
+		<skos:narrower rdf:resource="titolarioMaic/30"/>
+		<skos:narrower rdf:resource="titolarioMaic/30.1"/>
+		<skos:narrower rdf:resource="titolarioMaic/30.2"/>
+		<skos:narrower rdf:resource="titolarioMaic/30.3"/>
+		<skos:narrower rdf:resource="titolarioMaic/30.4"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/30">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Malattie del bestiame. Leggi e misure sanitarie</rdfs:label>
+		<skos:prefLabel>Malattie del bestiame. Leggi e misure sanitarie</skos:prefLabel>
+		<dc:title>Malattie del bestiame. Leggi e misure sanitarie</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/30.1">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Malattie del bestiame. Epizoozie</rdfs:label>
+		<skos:prefLabel>Malattie del bestiame. Epizoozie</skos:prefLabel>
+		<dc:title>Malattie del bestiame. Epizoozie</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/30.2">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Malattie del bestiame. Divieti di importazione ed esportazione</rdfs:label>
+		<skos:prefLabel>Malattie del bestiame. Divieti di importazione ed esportazione</skos:prefLabel>
+		<dc:title>Malattie del bestiame. Divieti di importazione ed esportazione</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/30.3">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Malattie del bestiame. Relazioni</rdfs:label>
+		<skos:prefLabel>Malattie del bestiame. Relazioni</skos:prefLabel>
+		<dc:title>Malattie del bestiame. Relazioni</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/30.4">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Studi sulle malattie del bestiame</rdfs:label>
+		<skos:prefLabel>Studi sulle malattie del bestiame</skos:prefLabel>
+		<dc:title>Studi sulle malattie del bestiame</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/XX">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CACCIA</rdfs:label>
+		<skos:prefLabel>CACCIA</skos:prefLabel>
+		<dc:title>CACCIA</dc:title>
+		<skos:narrower rdf:resource="titolarioMaic/31"/>
+		<skos:narrower rdf:resource="titolarioMaic/31.3"/>
+		<skos:narrower rdf:resource="titolarioMaic/31.4"/>
+		<skos:narrower rdf:resource="titolarioMaic/31.5"/>
+		<skos:narrower rdf:resource="titolarioMaic/31.6"/>
+		<skos:narrower rdf:resource="titolarioMaic/31.7"/>
+		<skos:narrower rdf:resource="titolarioMaic/31.8"/>
+		<skos:narrower rdf:resource="titolarioMaic/31.9"/>
+		<skos:narrower rdf:resource="titolarioMaic/31.10"/>
+		<skos:narrower rdf:resource="titolarioMaic/31.11"/>
+		<skos:narrower rdf:resource="titolarioMaic/31.12"/>
+		<skos:narrower rdf:resource="titolarioMaic/31.13"/>
+		<skos:narrower rdf:resource="titolarioMaic/31.14"/>
+		<skos:narrower rdf:resource="titolarioMaic/31.15"/>
+		<skos:narrower rdf:resource="titolarioMaic/31.16"/>
+		<skos:narrower rdf:resource="titolarioMaic/31.17"/>
+		<skos:related rdf:resource="titolarioAstengo/titolarioAstengo_XI.1"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/31">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Caccia</rdfs:label>
+		<skos:prefLabel>Caccia</skos:prefLabel>
+		<dc:title>Caccia</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/31.3">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Caccia. Voti, reclami, pubblicazioni</rdfs:label>
+		<skos:prefLabel>Caccia. Voti, reclami, pubblicazioni</skos:prefLabel>
+		<dc:title>Caccia. Voti, reclami, pubblicazioni</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/31.4">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Caccia. Accordi internazionali</rdfs:label>
+		<skos:prefLabel>Caccia. Accordi internazionali</skos:prefLabel>
+		<dc:title>Caccia. Accordi internazionali</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/31.5">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Caccia. Circolari</rdfs:label>
+		<skos:prefLabel>Caccia. Circolari</skos:prefLabel>
+		<dc:title>Caccia. Circolari</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/31.6">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Caccia. Istruzioni e decisioni di massima</rdfs:label>
+		<skos:prefLabel>Caccia. Istruzioni e decisioni di massima</skos:prefLabel>
+		<dc:title>Caccia. Istruzioni e decisioni di massima</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/31.7">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tempo di caccia</rdfs:label>
+		<skos:prefLabel>Tempo di caccia</skos:prefLabel>
+		<dc:title>Tempo di caccia</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/31.8">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Riserve di caccia</rdfs:label>
+		<skos:prefLabel>Riserve di caccia</skos:prefLabel>
+		<dc:title>Riserve di caccia</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/31.9">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Caccia. Premi per uccisione di bestie feroci</rdfs:label>
+		<skos:prefLabel>Caccia. Premi per uccisione di bestie feroci</skos:prefLabel>
+		<dc:title>Caccia. Premi per uccisione di bestie feroci</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/31.10">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Caccia. Licenze a scopo scientifico</rdfs:label>
+		<skos:prefLabel>Caccia. Licenze a scopo scientifico</skos:prefLabel>
+		<dc:title>Caccia. Licenze a scopo scientifico</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/31.11">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Caccia. Tassa sulle licenze</rdfs:label>
+		<skos:prefLabel>Caccia. Tassa sulle licenze</skos:prefLabel>
+		<dc:title>Caccia. Tassa sulle licenze</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/31.12">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Caccia. Contenzioso</rdfs:label>
+		<skos:prefLabel>Caccia. Contenzioso</skos:prefLabel>
+		<dc:title>Caccia. Contenzioso</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/31.13">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Caccia. Statistica</rdfs:label>
+		<skos:prefLabel>Caccia. Statistica</skos:prefLabel>
+		<dc:title>Caccia. Statistica</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/31.14">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Modi di esercizio della caccia</rdfs:label>
+		<skos:prefLabel>Modi di esercizio della caccia</skos:prefLabel>
+		<dc:title>Modi di esercizio della caccia</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/31.15">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vendita della cacciagione</rdfs:label>
+		<skos:prefLabel>Vendita della cacciagione</skos:prefLabel>
+		<dc:title>Vendita della cacciagione</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/31.16">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Caccia. Relazioni</rdfs:label>
+		<skos:prefLabel>Caccia. Relazioni</skos:prefLabel>
+		<dc:title>Caccia. Relazioni</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/31.17">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Caccia. Affari diversi</rdfs:label>
+		<skos:prefLabel>Caccia. Affari diversi</skos:prefLabel>
+		<dc:title>Caccia. Affari diversi</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/XXI">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">METEOROLOGIA</rdfs:label>
+		<skos:prefLabel>METEOROLOGIA</skos:prefLabel>
+		<dc:title>METEOROLOGIA</dc:title>
+		<skos:narrower rdf:resource="titolarioMaic/32"/>
+		<skos:narrower rdf:resource="titolarioMaic/32.1"/>
+		<skos:narrower rdf:resource="titolarioMaic/32.2"/>
+		<skos:narrower rdf:resource="titolarioMaic/32.3"/>
+		<skos:narrower rdf:resource="titolarioMaic/32.4"/>
+		<skos:narrower rdf:resource="titolarioMaic/32.5"/>
+		<skos:narrower rdf:resource="titolarioMaic/32.6"/>
+		<skos:narrower rdf:resource="titolarioMaic/32.7"/>
+		<skos:narrower rdf:resource="titolarioMaic/32.8"/>
+		<skos:narrower rdf:resource="titolarioMaic/32.10"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/32">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Meteorologia. Complessiva</rdfs:label>
+		<skos:prefLabel>Meteorologia. Complessiva</skos:prefLabel>
+		<dc:title>Meteorologia. Complessiva</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/32.1">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Meteorologia. Coordinamento del servizio</rdfs:label>
+		<skos:prefLabel>Meteorologia. Coordinamento del servizio</skos:prefLabel>
+		<dc:title>Meteorologia. Coordinamento del servizio</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/32.2">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Meteorologia. Congressi</rdfs:label>
+		<skos:prefLabel>Meteorologia. Congressi</skos:prefLabel>
+		<dc:title>Meteorologia. Congressi</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/32.3">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Meteorologia. Personale</rdfs:label>
+		<skos:prefLabel>Meteorologia. Personale</skos:prefLabel>
+		<dc:title>Meteorologia. Personale</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/32.4">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Consiglio direttivo di meteorologia</rdfs:label>
+		<skos:prefLabel>Consiglio direttivo di meteorologia</skos:prefLabel>
+		<dc:title>Consiglio direttivo di meteorologia</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/32.5">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Osservatori meteorologici</rdfs:label>
+		<skos:prefLabel>Osservatori meteorologici</skos:prefLabel>
+		<dc:title>Osservatori meteorologici</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/32.6">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ufficio centrale di meteorologia</rdfs:label>
+		<skos:prefLabel>Ufficio centrale di meteorologia</skos:prefLabel>
+		<dc:title>Ufficio centrale di meteorologia</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/32.7">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stazioni di meteorologia agraria</rdfs:label>
+		<skos:prefLabel>Stazioni di meteorologia agraria</skos:prefLabel>
+		<dc:title>Stazioni di meteorologia agraria</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/32.8">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Meteorologia forestale</rdfs:label>
+		<skos:prefLabel>Meteorologia forestale</skos:prefLabel>
+		<dc:title>Meteorologia forestale</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/32.10">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Museo Copernicano</rdfs:label>
+		<skos:prefLabel>Museo Copernicano</skos:prefLabel>
+		<dc:title>Museo Copernicano</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/XXII">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MACCHINE AGRARIE</rdfs:label>
+		<skos:prefLabel>MACCHINE AGRARIE</skos:prefLabel>
+		<dc:title>MACCHINE AGRARIE</dc:title>
+		<skos:narrower rdf:resource="titolarioMaic/33"/>
+		<skos:narrower rdf:resource="titolarioMaic/33.1"/>
+		<skos:narrower rdf:resource="titolarioMaic/33.2"/>
+		<skos:narrower rdf:resource="titolarioMaic/33.3"/>
+		<skos:narrower rdf:resource="titolarioMaic/33.4"/>
+		<skos:narrower rdf:resource="titolarioMaic/33.5"/>
+		<skos:narrower rdf:resource="titolarioMaic/33.6"/>
+		<skos:narrower rdf:resource="titolarioMaic/33.7"/>
+		<skos:narrower rdf:resource="titolarioMaic/33.8"/>
+		<skos:narrower rdf:resource="titolarioMaic/33.9"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/33">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Macchine agrarie. Complessiva</rdfs:label>
+		<skos:prefLabel>Macchine agrarie. Complessiva</skos:prefLabel>
+		<dc:title>Macchine agrarie. Complessiva</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/33.1">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Macchine idrauliche e per la coltivazione dei terreni- categoria 1ª</rdfs:label>
+		<skos:prefLabel>Macchine idrauliche e per la coltivazione dei terreni- categoria 1ª</skos:prefLabel>
+		<dc:title>Macchine idrauliche e per la coltivazione dei terreni- categoria 1ª</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/33.2">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Macchine da raccolta _ categoria 2ª</rdfs:label>
+		<skos:prefLabel>Macchine da raccolta _ categoria 2ª</skos:prefLabel>
+		<dc:title>Macchine da raccolta _ categoria 2ª</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/33.3">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Macchine per la bachicoltura, il caseificio, l'oleificio, l'enologia, l'apicoltura_ categoria 3ª</rdfs:label>
+		<skos:prefLabel>Macchine per la bachicoltura, il caseificio, l'oleificio, l'enologia, l'apicoltura_ categoria 3ª</skos:prefLabel>
+		<dc:title>Macchine per la bachicoltura, il caseificio, l'oleificio, l'enologia, l'apicoltura_ categoria 3ª</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/33.4">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Macchine agrarie diverse</rdfs:label>
+		<skos:prefLabel>Macchine agrarie diverse</skos:prefLabel>
+		<dc:title>Macchine agrarie diverse</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/33.5">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Depositi governativi di macchine agrarie. Complessiva</rdfs:label>
+		<skos:prefLabel>Depositi governativi di macchine agrarie. Complessiva</skos:prefLabel>
+		<dc:title>Depositi governativi di macchine agrarie. Complessiva</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/33.6">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Depositi governativi di macchine agrarie</rdfs:label>
+		<skos:prefLabel>Depositi governativi di macchine agrarie</skos:prefLabel>
+		<dc:title>Depositi governativi di macchine agrarie</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/33.7">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Meccanica agraria all'estero</rdfs:label>
+		<skos:prefLabel>Meccanica agraria all'estero</skos:prefLabel>
+		<dc:title>Meccanica agraria all'estero</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/33.8">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cataloghi di macchine agrarie di fabbricanti nazionali</rdfs:label>
+		<skos:prefLabel>Cataloghi di macchine agrarie di fabbricanti nazionali</skos:prefLabel>
+		<dc:title>Cataloghi di macchine agrarie di fabbricanti nazionali</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/33.9">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cataloghi di macchine agrarie di fabbricanti esteri</rdfs:label>
+		<skos:prefLabel>Cataloghi di macchine agrarie di fabbricanti esteri</skos:prefLabel>
+		<dc:title>Cataloghi di macchine agrarie di fabbricanti esteri</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/XXIII">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">COMMERCIO DEI PRODOTTI AGRARI. INDUSTRIE AGRARIE</rdfs:label>
+		<skos:prefLabel>COMMERCIO DEI PRODOTTI AGRARI. INDUSTRIE AGRARIE</skos:prefLabel>
+		<dc:title>COMMERCIO DEI PRODOTTI AGRARI. INDUSTRIE AGRARIE</dc:title>
+		<skos:narrower rdf:resource="titolarioMaic/34.1"/>
+		<skos:narrower rdf:resource="titolarioMaic/34.5"/>
+		<skos:narrower rdf:resource="titolarioMaic/34.7"/>
+		<skos:narrower rdf:resource="titolarioMaic/34.8"/>
+		<skos:narrower rdf:resource="titolarioMaic/34.9"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/34.1">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mercuriali. Complessiva</rdfs:label>
+		<skos:prefLabel>Mercuriali. Complessiva</skos:prefLabel>
+		<dc:title>Mercuriali. Complessiva</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/34.5">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bisogni dell'alimentazione</rdfs:label>
+		<skos:prefLabel>Bisogni dell'alimentazione</skos:prefLabel>
+		<dc:title>Bisogni dell'alimentazione</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/34.7">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Valore e rendita dei terreni</rdfs:label>
+		<skos:prefLabel>Valore e rendita dei terreni</skos:prefLabel>
+		<dc:title>Valore e rendita dei terreni</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/34.8">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Commercio dei prodotti agrari</rdfs:label>
+		<skos:prefLabel>Commercio dei prodotti agrari</skos:prefLabel>
+		<dc:title>Commercio dei prodotti agrari</dc:title>
+		<skos:relatedMatch rdf:resource="titolarioAstengo/titolarioAstengo_XI.2"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/34.9">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Industrie agrarie</rdfs:label>
+		<skos:prefLabel>Industrie agrarie</skos:prefLabel>
+		<dc:title>Industrie agrarie</dc:title>
+		<skos:relatedMatch rdf:resource="titolarioAstengo/titolarioAstengo_XI.3"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/XXIV">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IMPOSTE SULL'AGRICOLTURA</rdfs:label>
+		<skos:prefLabel>IMPOSTE SULL'AGRICOLTURA</skos:prefLabel>
+		<dc:title>IMPOSTE SULL'AGRICOLTURA</dc:title>
+		<skos:narrower rdf:resource="titolarioMaic/36"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/36">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Imposte sull'agricoltura</rdfs:label>
+		<skos:prefLabel>Imposte sull'agricoltura</skos:prefLabel>
+		<dc:title>Imposte sull'agricoltura</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/XXV">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">INCHIESTA AGRARIA</rdfs:label>
+		<skos:prefLabel>INCHIESTA AGRARIA</skos:prefLabel>
+		<dc:title>INCHIESTA AGRARIA</dc:title>
+		<skos:narrower rdf:resource="titolarioMaic/37"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/37">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inchiesta agraria</rdfs:label>
+		<skos:prefLabel>Inchiesta agraria</skos:prefLabel>
+		<dc:title>Inchiesta agraria</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/XXVI">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LAMPEDUSA E LINOSA</rdfs:label>
+		<skos:prefLabel>LAMPEDUSA E LINOSA</skos:prefLabel>
+		<dc:title>LAMPEDUSA E LINOSA</dc:title>
+		<skos:narrower rdf:resource="titolarioMaic/38"/>
+		<skos:narrower rdf:resource="titolarioMaic/38.1"/>
+		<skos:narrower rdf:resource="titolarioMaic/38.2"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/38">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lampedusa e Linosa. Amministrazione</rdfs:label>
+		<skos:prefLabel>Lampedusa e Linosa. Amministrazione</skos:prefLabel>
+		<dc:title>Lampedusa e Linosa. Amministrazione</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/38.1">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lampedusa e Linosa. Personale. Complessiva</rdfs:label>
+		<skos:prefLabel>Lampedusa e Linosa. Personale. Complessiva</skos:prefLabel>
+		<dc:title>Lampedusa e Linosa. Personale. Complessiva</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/38.2">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lampedusa e Linosa. Personale. Fascicoli personali</rdfs:label>
+		<skos:prefLabel>Lampedusa e Linosa. Personale. Fascicoli personali</skos:prefLabel>
+		<dc:title>Lampedusa e Linosa. Personale. Fascicoli personali</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/XXVII">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CREDITO AGRARIO E ASSICURAZIONI</rdfs:label>
+		<skos:prefLabel>CREDITO AGRARIO E ASSICURAZIONI</skos:prefLabel>
+		<dc:title>CREDITO AGRARIO E ASSICURAZIONI</dc:title>
+		<skos:narrower rdf:resource="titolarioMaic/40"/>
+		<skos:narrower rdf:resource="titolarioMaic/40.1"/>
+		<skos:narrower rdf:resource="titolarioMaic/40.2"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/40">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Credito agrario</rdfs:label>
+		<skos:prefLabel>Credito agrario</skos:prefLabel>
+		<dc:title>Credito agrario</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/40.1">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assicurazioni agricole</rdfs:label>
+		<skos:prefLabel>Assicurazioni agricole</skos:prefLabel>
+		<dc:title>Assicurazioni agricole</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/40.2">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assicurazioni del bestiame. Società operanti nel Regno</rdfs:label>
+		<skos:prefLabel>Assicurazioni del bestiame. Società operanti nel Regno</skos:prefLabel>
+		<dc:title>Assicurazioni del bestiame. Società operanti nel Regno</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/XXVIII">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CARTE AGRONOMICHE</rdfs:label>
+		<skos:prefLabel>CARTE AGRONOMICHE</skos:prefLabel>
+		<dc:title>CARTE AGRONOMICHE</dc:title>
+		<skos:narrower rdf:resource="titolarioMaic/41"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/41">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Carte agronomiche</rdfs:label>
+		<skos:prefLabel>Carte agronomiche</skos:prefLabel>
+		<dc:title>Carte agronomiche</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/XXIX">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">STATO ECONOMICO E SANITARIO DEGLI OPERAI AGRICOLTORI</rdfs:label>
+		<skos:prefLabel>STATO ECONOMICO E SANITARIO DEGLI OPERAI AGRICOLTORI</skos:prefLabel>
+		<dc:title>STATO ECONOMICO E SANITARIO DEGLI OPERAI AGRICOLTORI</dc:title>
+		<skos:narrower rdf:resource="titolarioMaic/42"/>
+		<skos:narrower rdf:resource="titolarioMaic/42.1"/>
+		<skos:narrower rdf:resource="titolarioMaic/42.2"/>
+		<skos:narrower rdf:resource="titolarioMaic/42.3"/>
+		<skos:narrower rdf:resource="titolarioMaic/42.4"/>
+		<skos:narrower rdf:resource="titolarioMaic/42.5"/>
+		<skos:narrower rdf:resource="titolarioMaic/42.6"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/42">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Operai agricoltori. Affari generali</rdfs:label>
+		<skos:prefLabel>Operai agricoltori. Affari generali</skos:prefLabel>
+		<dc:title>Operai agricoltori. Affari generali</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/42.1">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stato economico degli operai agricoltori. Affari generali</rdfs:label>
+		<skos:prefLabel>Stato economico degli operai agricoltori. Affari generali</skos:prefLabel>
+		<dc:title>Stato economico degli operai agricoltori. Affari generali</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/42.2">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stato economico degli operai agricoltori. Affari speciali</rdfs:label>
+		<skos:prefLabel>Stato economico degli operai agricoltori. Affari speciali</skos:prefLabel>
+		<dc:title>Stato economico degli operai agricoltori. Affari speciali</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/42.3">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stato sanitario degli operai agricoltori. Pellagra. Complessiva</rdfs:label>
+		<skos:prefLabel>Stato sanitario degli operai agricoltori. Pellagra. Complessiva</skos:prefLabel>
+		<dc:title>Stato sanitario degli operai agricoltori. Pellagra. Complessiva</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/42.4">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stato sanitario degli operai agricoltori. Pellagra. Affari per provincia</rdfs:label>
+		<skos:prefLabel>Stato sanitario degli operai agricoltori. Pellagra. Affari per provincia</skos:prefLabel>
+		<dc:title>Stato sanitario degli operai agricoltori. Pellagra. Affari per provincia</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/42.5">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stato sanitario degli operai agricoltori. Gozzo e cretinismo</rdfs:label>
+		<skos:prefLabel>Stato sanitario degli operai agricoltori. Gozzo e cretinismo</skos:prefLabel>
+		<dc:title>Stato sanitario degli operai agricoltori. Gozzo e cretinismo</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/42.6">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stato sanitario degli operai agricoltori. Malaria</rdfs:label>
+		<skos:prefLabel>Stato sanitario degli operai agricoltori. Malaria</skos:prefLabel>
+		<dc:title>Stato sanitario degli operai agricoltori. Malaria</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/XXX">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MINIERE</rdfs:label>
+		<skos:prefLabel>MINIERE</skos:prefLabel>
+		<dc:title>MINIERE</dc:title>
+		<skos:narrower rdf:resource="titolarioMaic/77"/>
+		<skos:narrower rdf:resource="titolarioMaic/77.1"/>
+		<skos:narrower rdf:resource="titolarioMaic/77.2"/>
+		<skos:narrower rdf:resource="titolarioMaic/77.3"/>
+		<skos:narrower rdf:resource="titolarioMaic/77.4"/>
+		<skos:narrower rdf:resource="titolarioMaic/77.5"/>
+		<skos:narrower rdf:resource="titolarioMaic/77.6"/>
+		<skos:narrower rdf:resource="titolarioMaic/77.7"/>
+		<skos:narrower rdf:resource="titolarioMaic/77.8"/>
+		<skos:narrower rdf:resource="titolarioMaic/77.9"/>
+		<skos:narrower rdf:resource="titolarioMaic/77.10"/>
+		<skos:narrower rdf:resource="titolarioMaic/78"/>
+		<skos:narrower rdf:resource="titolarioMaic/78.1"/>
+		<skos:narrower rdf:resource="titolarioMaic/78.2"/>
+		<skos:narrower rdf:resource="titolarioMaic/78.3"/>
+		<skos:narrower rdf:resource="titolarioMaic/78.4"/>
+		<skos:narrower rdf:resource="titolarioMaic/78.5"/>
+		<skos:narrower rdf:resource="titolarioMaic/79"/>
+		<skos:narrower rdf:resource="titolarioMaic/80"/>
+		<skos:narrower rdf:resource="titolarioMaic/81"/>
+		<skos:narrower rdf:resource="titolarioMaic/82"/>
+		<skos:narrower rdf:resource="titolarioMaic/83"/>
+		<skos:narrower rdf:resource="titolarioMaic/83.1"/>
+		<skos:narrower rdf:resource="titolarioMaic/84"/>
+		<skos:narrower rdf:resource="titolarioMaic/84.1"/>
+		<skos:narrower rdf:resource="titolarioMaic/84.2"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/77">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Miniere. Affari generali</rdfs:label>
+		<skos:prefLabel>Miniere. Affari generali</skos:prefLabel>
+		<dc:title>Miniere. Affari generali</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/77.1">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Casse di soccorso fra minatori</rdfs:label>
+		<skos:prefLabel>Casse di soccorso fra minatori</skos:prefLabel>
+		<dc:title>Casse di soccorso fra minatori</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/77.2">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Miniere. Pubblicazioni e memorie all'interno</rdfs:label>
+		<skos:prefLabel>Miniere. Pubblicazioni e memorie all'interno</skos:prefLabel>
+		<dc:title>Miniere. Pubblicazioni e memorie all'interno</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/77.3">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Miniere. Pubblicazioni e memorie all'estero</rdfs:label>
+		<skos:prefLabel>Miniere. Pubblicazioni e memorie all'estero</skos:prefLabel>
+		<dc:title>Miniere. Pubblicazioni e memorie all'estero</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/77.4">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Miniere. Pubblicazioni del Ministero</rdfs:label>
+		<skos:prefLabel>Miniere. Pubblicazioni del Ministero</skos:prefLabel>
+		<dc:title>Miniere. Pubblicazioni del Ministero</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/77.5">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Miniere. Onorificenze</rdfs:label>
+		<skos:prefLabel>Miniere. Onorificenze</skos:prefLabel>
+		<dc:title>Miniere. Onorificenze</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/77.6">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Miniere. Abbonamenti a giornali e riviste</rdfs:label>
+		<skos:prefLabel>Miniere. Abbonamenti a giornali e riviste</skos:prefLabel>
+		<dc:title>Miniere. Abbonamenti a giornali e riviste</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/77.7">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Miniere. Contabilità del materiale mobile di proprietà dello Stato, spese varie</rdfs:label>
+		<skos:prefLabel>Miniere. Contabilità del materiale mobile di proprietà dello Stato, spese varie</skos:prefLabel>
+		<dc:title>Miniere. Contabilità del materiale mobile di proprietà dello Stato, spese varie</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/77.8">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Miniere. Disastri</rdfs:label>
+		<skos:prefLabel>Miniere. Disastri</skos:prefLabel>
+		<dc:title>Miniere. Disastri</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/77.9">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Miniere. Esposizioni e concorsi</rdfs:label>
+		<skos:prefLabel>Miniere. Esposizioni e concorsi</skos:prefLabel>
+		<dc:title>Miniere. Esposizioni e concorsi</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/77.10">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Miniere. Tasse</rdfs:label>
+		<skos:prefLabel>Miniere. Tasse</skos:prefLabel>
+		<dc:title>Miniere. Tasse</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/78">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Miniere. Legislazione</rdfs:label>
+		<skos:prefLabel>Miniere. Legislazione</skos:prefLabel>
+		<dc:title>Miniere. Legislazione</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/78.1">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Miniere scoperte, concesse, revocate</rdfs:label>
+		<skos:prefLabel>Miniere scoperte, concesse, revocate</skos:prefLabel>
+		<dc:title>Miniere scoperte, concesse, revocate</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/78.2">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ricerche minerarie</rdfs:label>
+		<skos:prefLabel>Ricerche minerarie</skos:prefLabel>
+		<dc:title>Ricerche minerarie</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/78.3">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Indizi di giacimenti minerari</rdfs:label>
+		<skos:prefLabel>Indizi di giacimenti minerari</skos:prefLabel>
+		<dc:title>Indizi di giacimenti minerari</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/78.4">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Analisi e studi sui minerali</rdfs:label>
+		<skos:prefLabel>Analisi e studi sui minerali</skos:prefLabel>
+		<dc:title>Analisi e studi sui minerali</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/78.5">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Statistica mineraria</rdfs:label>
+		<skos:prefLabel>Statistica mineraria</skos:prefLabel>
+		<dc:title>Statistica mineraria</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/79">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Metallurgia</rdfs:label>
+		<skos:prefLabel>Metallurgia</skos:prefLabel>
+		<dc:title>Metallurgia</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/80">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zolfare</rdfs:label>
+		<skos:prefLabel>Zolfare</skos:prefLabel>
+		<dc:title>Zolfare</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/81">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Torbiere, cave, saline, sorgenti di acque minerali</rdfs:label>
+		<skos:prefLabel>Torbiere, cave, saline, sorgenti di acque minerali</skos:prefLabel>
+		<dc:title>Torbiere, cave, saline, sorgenti di acque minerali</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/82">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Consiglio delle miniere</rdfs:label>
+		<skos:prefLabel>Consiglio delle miniere</skos:prefLabel>
+		<dc:title>Consiglio delle miniere</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/83">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Uffici minerari del Regno</rdfs:label>
+		<skos:prefLabel>Uffici minerari del Regno</skos:prefLabel>
+		<dc:title>Uffici minerari del Regno</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/83.1">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Uffici di sorveglianza delle zolfare</rdfs:label>
+		<skos:prefLabel>Uffici di sorveglianza delle zolfare</skos:prefLabel>
+		<dc:title>Uffici di sorveglianza delle zolfare</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/84">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Personale delle miniere. Complessiva</rdfs:label>
+		<skos:prefLabel>Personale delle miniere. Complessiva</skos:prefLabel>
+		<dc:title>Personale delle miniere. Complessiva</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/84.1">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Personale delle miniere. Fascicoli personali</rdfs:label>
+		<skos:prefLabel>Personale delle miniere. Fascicoli personali</skos:prefLabel>
+		<dc:title>Personale delle miniere. Fascicoli personali</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/84.2">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Personale straordinario addetto agli uffici minerari</rdfs:label>
+		<skos:prefLabel>Personale straordinario addetto agli uffici minerari</skos:prefLabel>
+		<dc:title>Personale straordinario addetto agli uffici minerari</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/XXXI">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GEOLOGIA</rdfs:label>
+		<skos:prefLabel>GEOLOGIA</skos:prefLabel>
+		<dc:title>GEOLOGIA</dc:title>
+		<skos:narrower rdf:resource="titolarioMaic/85"/>
+		<skos:narrower rdf:resource="titolarioMaic/85.1"/>
+		<skos:narrower rdf:resource="titolarioMaic/85.2"/>
+		<skos:narrower rdf:resource="titolarioMaic/86"/>
+		<skos:narrower rdf:resource="titolarioMaic/86.1"/>
+		<skos:narrower rdf:resource="titolarioMaic/86.2"/>
+		<skos:narrower rdf:resource="titolarioMaic/86.3"/>
+		<skos:narrower rdf:resource="titolarioMaic/87"/>
+		<skos:narrower rdf:resource="titolarioMaic/87.1"/>
+		<skos:narrower rdf:resource="titolarioMaic/88"/>
+		<skos:narrower rdf:resource="titolarioMaic/88.1"/>
+		<skos:narrower rdf:resource="titolarioMaic/89"/>
+		<skos:narrower rdf:resource="titolarioMaic/89.1"/>
+		<skos:narrower rdf:resource="titolarioMaic/89.2"/>
+		<skos:narrower rdf:resource="titolarioMaic/89.3"/>
+		<skos:narrower rdf:resource="titolarioMaic/89.4"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/85">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Geologia. Affari generali</rdfs:label>
+		<skos:prefLabel>Geologia. Affari generali</skos:prefLabel>
+		<dc:title>Geologia. Affari generali</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/85.1">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Geologia. Congressi</rdfs:label>
+		<skos:prefLabel>Geologia. Congressi</skos:prefLabel>
+		<dc:title>Geologia. Congressi</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/85.2">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Geologia. Esposizioni</rdfs:label>
+		<skos:prefLabel>Geologia. Esposizioni</skos:prefLabel>
+		<dc:title>Geologia. Esposizioni</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/86">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Carta geologica. Leggi, decreti, deliberazioni di massima</rdfs:label>
+		<skos:prefLabel>Carta geologica. Leggi, decreti, deliberazioni di massima</skos:prefLabel>
+		<dc:title>Carta geologica. Leggi, decreti, deliberazioni di massima</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/86.1">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Carta geologica. Direzione scientifica</rdfs:label>
+		<skos:prefLabel>Carta geologica. Direzione scientifica</skos:prefLabel>
+		<dc:title>Carta geologica. Direzione scientifica</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/86.2">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Formazione della Carta geologica</rdfs:label>
+		<skos:prefLabel>Formazione della Carta geologica</skos:prefLabel>
+		<dc:title>Formazione della Carta geologica</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/86.3">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Carta geologica. Pubblicazioni</rdfs:label>
+		<skos:prefLabel>Carta geologica. Pubblicazioni</skos:prefLabel>
+		<dc:title>Carta geologica. Pubblicazioni</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/87">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Uffici geologici</rdfs:label>
+		<skos:prefLabel>Uffici geologici</skos:prefLabel>
+		<dc:title>Uffici geologici</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/87.1">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Museo geologico</rdfs:label>
+		<skos:prefLabel>Museo geologico</skos:prefLabel>
+		<dc:title>Museo geologico</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/88">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Personale geologico. Complessiva</rdfs:label>
+		<skos:prefLabel>Personale geologico. Complessiva</skos:prefLabel>
+		<dc:title>Personale geologico. Complessiva</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/88.1">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Personale geologico speciale.</rdfs:label>
+		<skos:prefLabel>Personale geologico speciale.</skos:prefLabel>
+		<dc:title>Personale geologico speciale.</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/89">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Istruzione geologico-mineraria all'interno. Complessiva</rdfs:label>
+		<skos:prefLabel>Istruzione geologico-mineraria all'interno. Complessiva</skos:prefLabel>
+		<dc:title>Istruzione geologico-mineraria all'interno. Complessiva</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/89.1">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Istruzione geologico-mineraria all'interno. Scuole</rdfs:label>
+		<skos:prefLabel>Istruzione geologico-mineraria all'interno. Scuole</skos:prefLabel>
+		<dc:title>Istruzione geologico-mineraria all'interno. Scuole</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/89.2">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Istruzione geologico-mineraria. Personale insegnante</rdfs:label>
+		<skos:prefLabel>Istruzione geologico-mineraria. Personale insegnante</skos:prefLabel>
+		<dc:title>Istruzione geologico-mineraria. Personale insegnante</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/89.3">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Istruzione geologico-mineraria all'estero</rdfs:label>
+		<skos:prefLabel>Istruzione geologico-mineraria all'estero</skos:prefLabel>
+		<dc:title>Istruzione geologico-mineraria all'estero</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/89.4">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Scuole minerarie all'estero</rdfs:label>
+		<skos:prefLabel>Scuole minerarie all'estero</skos:prefLabel>
+		<dc:title>Scuole minerarie all'estero</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/XXXII">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VULCANOLOGIA</rdfs:label>
+		<skos:prefLabel>VULCANOLOGIA</skos:prefLabel>
+		<dc:title>VULCANOLOGIA</dc:title>
+		<skos:narrower rdf:resource="titolarioMaic/90"/>
+		<skos:narrower rdf:resource="titolarioMaic/90.1"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/90">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vulcanologia</rdfs:label>
+		<skos:prefLabel>Vulcanologia</skos:prefLabel>
+		<dc:title>Vulcanologia</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/90.1">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Osservatori geodinamici</rdfs:label>
+		<skos:prefLabel>Osservatori geodinamici</skos:prefLabel>
+		<dc:title>Osservatori geodinamici</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/XXXIII">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PESCA</rdfs:label>
+		<skos:prefLabel>PESCA</skos:prefLabel>
+		<dc:title>PESCA</dc:title>
+		<skos:narrower rdf:resource="titolarioMaic/91"/>
+		<skos:narrower rdf:resource="titolarioMaic/91.1"/>
+		<skos:narrower rdf:resource="titolarioMaic/91.2"/>
+		<skos:narrower rdf:resource="titolarioMaic/91.3"/>
+		<skos:narrower rdf:resource="titolarioMaic/91.4"/>
+		<skos:narrower rdf:resource="titolarioMaic/91.5"/>
+		<skos:narrower rdf:resource="titolarioMaic/91.6"/>
+		<skos:narrower rdf:resource="titolarioMaic/91.7"/>
+		<skos:narrower rdf:resource="titolarioMaic/91.8"/>
+		<skos:related rdf:resource="titolarioAstengo/titolarioAstengo_XI.1"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/91">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pesca. Legislazione</rdfs:label>
+		<skos:prefLabel>Pesca. Legislazione</skos:prefLabel>
+		<dc:title>Pesca. Legislazione</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/91.1">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pesca. Affari generali</rdfs:label>
+		<skos:prefLabel>Pesca. Affari generali</skos:prefLabel>
+		<dc:title>Pesca. Affari generali</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/91.2">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pesca. Esposizioni e concorsi</rdfs:label>
+		<skos:prefLabel>Pesca. Esposizioni e concorsi</skos:prefLabel>
+		<dc:title>Pesca. Esposizioni e concorsi</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/91.3">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Modi di pesca</rdfs:label>
+		<skos:prefLabel>Modi di pesca</skos:prefLabel>
+		<dc:title>Modi di pesca</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/91.4">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pesca marittima</rdfs:label>
+		<skos:prefLabel>Pesca marittima</skos:prefLabel>
+		<dc:title>Pesca marittima</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/91.5">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pesca fluviale e lacuale</rdfs:label>
+		<skos:prefLabel>Pesca fluviale e lacuale</skos:prefLabel>
+		<dc:title>Pesca fluviale e lacuale</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/91.6">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Piscicoltura e ostricoltura</rdfs:label>
+		<skos:prefLabel>Piscicoltura e ostricoltura</skos:prefLabel>
+		<dc:title>Piscicoltura e ostricoltura</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/91.7">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pesca all'estero</rdfs:label>
+		<skos:prefLabel>Pesca all'estero</skos:prefLabel>
+		<dc:title>Pesca all'estero</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/91.8">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stazioni, laboratori e stabilimenti di piscicoltura</rdfs:label>
+		<skos:prefLabel>Stazioni, laboratori e stabilimenti di piscicoltura</skos:prefLabel>
+		<dc:title>Stazioni, laboratori e stabilimenti di piscicoltura</dc:title>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/XXXIV">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">POSSEDIMENTI ITALIANI IN AFRICA</rdfs:label>
+		<skos:prefLabel>POSSEDIMENTI ITALIANI IN AFRICA</skos:prefLabel>
+		<dc:title>POSSEDIMENTI ITALIANI IN AFRICA</dc:title>
+		<skos:narrower rdf:resource="titolarioMaic/92"/>
+	</skos:Concept>
+	<skos:Concept rdf:about="titolarioMaic/92">
+		<skos:inScheme rdf:resource="titolarioMAIC/titolario"/>
+		<rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Possedimenti italiani in Africa</rdfs:label>
+		<skos:prefLabel>Possedimenti italiani in Africa</skos:prefLabel>
+		<dc:title>Possedimenti italiani in Africa</dc:title>
+	</skos:Concept>
+</rdf:RDF>
